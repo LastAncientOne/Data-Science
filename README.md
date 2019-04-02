@@ -1,5 +1,5 @@
 # Kaggle-Project
-This a practice of writing codes using kaggle data and real world data. Also, is to learn to be a data scientists and expand more knowledge in machine learning and deep learning.
+This a practice of writing codes using kaggle data and real world data. Also, is to learn to be a data scientists and expanding more knowledge in machine learning and deep learning.
 
 # Prerequisites
 Python 3.5
