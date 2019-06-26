@@ -10,6 +10,10 @@ Python 3.5
 R 3.5.3 
 
 ### Learning about Exploratory Data Analysis 
+* Import, clean, and validate  
+* Visualize distributions
+* Explore relations between variables
+* Explore multivariate relationships  
 ### Learning to be Data Science
 ### Learning to improve the Model
 ### Learning to improve Prediction
