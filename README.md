@@ -9,6 +9,7 @@ Python 3.5
 
 R 3.5.3 
 
-## Learning to be Data Science
-## Learning to improve the Model
-## Learning to improve Prediction
+### Learning about Exploratory Data Analysis 
+### Learning to be Data Science
+### Learning to improve the Model
+### Learning to improve Prediction
