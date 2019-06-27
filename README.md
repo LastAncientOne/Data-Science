@@ -16,7 +16,7 @@ R 3.5.3
 * Explore multivariate relationships  
 ### Learning to be Data Science  
 * Choose Programming Language  
-  Python or R  
+  - Python or R  
 * Mathematics and Linear Algebra  
 * Big Data  
 * Data Visualization  
