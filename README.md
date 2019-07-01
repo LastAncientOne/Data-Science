@@ -13,9 +13,9 @@ R 3.5.3
 * Import, clean, and validate  
   - Type of Data  
     1. Qualitative  
-      - Discrete and Continuous  
+        - Discrete and Continuous  
     2. Quantitative   
-      - Binary, nominal data, and ordinal data  
+        - Binary, nominal data, and ordinal data  
   - Type of data measusrements  
     1. Nominal  
     2. Ordinal  
