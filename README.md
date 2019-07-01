@@ -13,6 +13,9 @@ R 3.5.3
 * Import, clean, and validate  
 * Visualize distributions
 * Explore relations between variables
+  - Descriptive statistics  
+  - Inferential statistics  
+  - Statistical graphics  
 * Explore multivariate relationships  
 ### Learning to be Data Science  
 * Choose Programming Language  
