@@ -12,7 +12,14 @@ R 3.5.3
 ### Learning about Exploratory Data Analysis 
 * Import, clean, and validate  
   - Type of Data
-    1. Ordinal, Interval, Ratio
+    1. Qualitative
+      - Discrete and Continuous
+    2. Quantitative 
+      - Binary, nominal data, and ordinal data
+  - Type of data measusrements
+    1. Nominal
+    2. Ordinal 
+    3. Interval
 * Visualize distributions  
   - Univariate visualization  
   - Bivariate visualization  
