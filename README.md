@@ -11,15 +11,15 @@ R 3.5.3
 
 ### Learning about Exploratory Data Analysis 
 * Import, clean, and validate  
-  - Type of Data
-    1. Qualitative
-      - Discrete and Continuous
-    2. Quantitative 
-      - Binary, nominal data, and ordinal data
-  - Type of data measusrements
-    1. Nominal
-    2. Ordinal 
-    3. Interval
+  - Type of Data  
+    1. Qualitative  
+      - Discrete and Continuous  
+    2. Quantitative   
+      - Binary, nominal data, and ordinal data  
+  - Type of data measusrements  
+    1. Nominal  
+    2. Ordinal  
+    3. Interval  
 * Visualize distributions  
   - Univariate visualization  
   - Bivariate visualization  
@@ -30,6 +30,10 @@ R 3.5.3
   - Inferential statistics  
   - Statistical graphics  
 * Explore multivariate relationships  
+* Questions about data  
+  - Do you have the right data for exploratory data anlaysis?  
+  - Do you need other data?
+  - Do you have the right question
 ### Learning to be Data Science  
 * Choose Programming Language  
   - Python or R  
