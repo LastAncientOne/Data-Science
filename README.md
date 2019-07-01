@@ -11,7 +11,11 @@ R 3.5.3
 
 ### Learning about Exploratory Data Analysis 
 * Import, clean, and validate  
-* Visualize distributions
+* Visualize distributions  
+  - Univariate visualization  
+  - Bivariate visualization  
+  - Multivariate visualization  
+  - Dimensionality reduction  
 * Explore relations between variables
   - Descriptive statistics  
   - Inferential statistics  
