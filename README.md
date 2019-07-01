@@ -11,6 +11,8 @@ R 3.5.3
 
 ### Learning about Exploratory Data Analysis 
 * Import, clean, and validate  
+  - Type of Data
+    1. Ordinal, Interval, Ratio
 * Visualize distributions  
   - Univariate visualization  
   - Bivariate visualization  
