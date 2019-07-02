@@ -9,7 +9,7 @@ Python 3.5
 
 R 3.5.3 
 
-(&#x1F537;): Getting Started with Data Science (&#x1F537;): 
+# (&#x1F537;) Getting Started with Data Science (&#x1F537;)
 ### Learning about Exploratory Data Analysis 
 * Import, clean, and validate  
   - Type of Data  
