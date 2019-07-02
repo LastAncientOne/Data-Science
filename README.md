@@ -46,6 +46,13 @@ R 3.5.3
 * Machine Learning
   - Type of algorithms performs the learning  
   1. Supervised Learning  
+    * Classification    
+      - Binary Classification  
+      - Multiclass Classification  
+      - Multilabel Classification  
+    * Regression  
+      - Linear Regression: Linear relationships between inputs and outputs  
+      - Logistic Regression: Probability of a binary output  
   2. Unsupervised Learning    
   3. Semi-supervised Learning  
   4. Reinforcement Learning  
