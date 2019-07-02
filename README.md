@@ -9,7 +9,7 @@ Python 3.5
 
 R 3.5.3 
 
-<font color="blue">Getting Started with Data Science</font>
+<font color="blue"> Getting Started with Data Science </font>
 ### Learning about Exploratory Data Analysis 
 * Import, clean, and validate  
   - Type of Data  
