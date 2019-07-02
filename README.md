@@ -1,7 +1,7 @@
 <img src="Title.PNG">
 <img src="TitleR.PNG">
 
-# <p style='color:blue'> Kaggle-Project  
+# Kaggle-Project  
 This a practice of writing codes using kaggle data and real world data. Also, is to learn to be a data scientists and expanding more knowledge in machine learning and deep learning.
 
 # Prerequisites
@@ -9,6 +9,7 @@ Python 3.5
 
 R 3.5.3 
 
+<font color="blue">Getting Started with Data Science</font>
 ### Learning about Exploratory Data Analysis 
 * Import, clean, and validate  
   - Type of Data  
