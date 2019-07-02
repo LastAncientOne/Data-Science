@@ -1,7 +1,7 @@
 <img src="Title.PNG">
 <img src="TitleR.PNG">
 
-# Kaggle-Project - ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `#1589F0`
+# ![#1589F0 Kaggle-Project
 This a practice of writing codes using kaggle data and real world data. Also, is to learn to be a data scientists and expanding more knowledge in machine learning and deep learning.
 
 # Prerequisites
