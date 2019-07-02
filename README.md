@@ -43,6 +43,11 @@ R 3.5.3
 * Data Cleaning
 * How to solve Problem?
 * Machine Learning
+  - Type of algorithms performs the learning  
+  1. Supervised Learning  
+  2. Unsupervised Learning    
+  3. Semi-supervised Learning  
+  4. Reinforcement Learning  
   - Common Machine Learning Algorithms
   1. Linear Regression  
   2. Logistic Regression  
