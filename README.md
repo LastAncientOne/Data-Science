@@ -10,7 +10,7 @@ Python 3.5
 R 3.5.3 
 
 # &#x1F537; Getting Started with Data Science &#x1F537;
-### Three Types of Position in Data Science  
+### &#x1F535; Three Types of Position in Data Science  
 * Data Engineer  
   - Develops, constructs, tests, and maintains architectures such as databases and large-scales processing systems.  
 * Data Analyst  
@@ -19,7 +19,7 @@ R 3.5.3
 * Machine Learning Scientist  
   - Research and developed algorithms.  
   - Create a predictive models.  
-### Learning about Exploratory Data Analysis 
+### &#x1F535; Learning about Exploratory Data Analysis 
 * Import, clean, and validate  
   - Type of Data  
     1. Qualitative  
@@ -44,7 +44,7 @@ R 3.5.3
   - Do you have the right data for exploratory data anlaysis?  
   - Do you need other data?
   - Do you have the right question
-### Learning to be Data Science  
+### &#x1F535; Learning to be Data Science  
 * Choose Programming Language  
   - Python or R  
 * Mathematics and Linear Algebra  
@@ -84,7 +84,7 @@ R 3.5.3
   4. Pytorch  
   5. sklearn  
   6. Caffe  
-### Learning to improve the Model or Prediction
+### &#x1F535; Learning to improve the Model or Prediction
   - Improve the "Accuracy" of Machine Learning Model  
   1. Add More Data
   2. Add More Features
