@@ -10,6 +10,15 @@ Python 3.5
 R 3.5.3 
 
 # &#x1F537; Getting Started with Data Science &#x1F537;
+### Three Types of Position in Data Science  
+* Data Engineer  
+  - Develops, constructs, tests, and maintains architectures such as databases and large-scales processing systems.  
+* Data Analyst  
+  - Interprets data and turns data into information which can offer ways to improve business.  
+  - Gather information from various sources and intrepret patterns and trends.  
+* Machine Learning Scientist  
+  - Research and developed algorithms.  
+  - Create a predictive models.  
 ### Learning about Exploratory Data Analysis 
 * Import, clean, and validate  
   - Type of Data  
