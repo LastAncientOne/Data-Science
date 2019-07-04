@@ -18,6 +18,7 @@ R 3.5.3
   - Gather information from various sources and intrepret patterns and trends.  
 * Machine Learning Scientist  
   - Research and developed algorithms.  
+  - Predictions from data with labels and features.  
   - Create a predictive models.  
 ### &#x1F535; Learning about Exploratory Data Analysis 
 * Import, clean, and validate  
