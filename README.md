@@ -55,7 +55,8 @@ R 3.5.3
 * How to solve Problem?
 * Machine Learning
   - Type of algorithms performs the learning  
-  1. Supervised Learning  
+  1. Supervised Learning
+    - Dataset has labels
     * Classification    
       - Binary Classification  
       - Multiclass Classification  
@@ -64,9 +65,15 @@ R 3.5.3
       - Linear Regression: Linear relationships between inputs and outputs  
       - Logistic Regression: Probability of a binary output  
   2. Unsupervised Learning    
-  3. Semi-supervised Learning  
+    - Dataset is unlabeled
+  3. Semi-supervised Learning 
+    - Dataset contains labeled and unlabeled
   4. Reinforcement Learning  
-  - Common Machine Learning Algorithms
+    - Learns from mistakes
+    - Agent take "actions" in an enviornment and see the "state" of envirnomentwith the fetaures
+    - Excute actions in every state with different actions bring different "rewards"
+    - It learns "policy".
+ - Common Machine Learning Algorithms
   1. Linear Regression  
   2. Logistic Regression  
   3. Decision Tree  
