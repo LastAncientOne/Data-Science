@@ -41,6 +41,7 @@ R 3.5.3
   - Inferential statistics  
   - Statistical graphics  
 * Explore multivariate relationships  
+* Statistical Analysis
 * Questions about data  
   - Do you have the right data for exploratory data anlaysis?  
   - Do you need other data?
