@@ -42,6 +42,26 @@ R 3.5.3
   - Statistical graphics  
 * Explore multivariate relationships  
 * Statistical Analysis
+  - Cases, Variables, Types of Variables  
+  - Matrix and Frequency Table  
+  - Graphs and Shapes of Distributions  
+  - Mode, Median and Mean  
+  - Range, Interquartile Range and Box Plot  
+  - Variance and Standard deviation  
+  - Z-scores  
+  - Contingency Table, Scatterplot, Pearsn’s   
+  - Basics of Regression  
+  - Elementary Probability  
+  - Random Variables and Probability Distributions  
+  - Normal Distribution, Binomial Distribution & Poisson Distribution  
+* Inferential Statistics  
+  - Observational Studies and Experiments  
+  - Sample and Population  
+  - Population Distribution, Sample Distribution and Sampling Distribution  
+  - Central Limit Theorem  
+  - Point Estimates  
+  - Confidence Intervals  
+  - Introduction to Hypothesis Testing  
 * Questions about data  
   - Do you have the right data for exploratory data anlaysis?  
   - Do you need other data?
