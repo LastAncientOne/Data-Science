@@ -10,6 +10,18 @@ Python 3.5
 R 3.5.3 
 
 # &#x1F537; Getting Started with Data Science &#x1F537;
+### &#x1F535; Step-by-Step to Data Science  
+* Define Problem  
+* Data Collection  
+* Data understanding    
+* Data Analysis/Cleaning  
+* Data Organization/Transformation  
+* Data Validation/ Anomaly Dection  
+* Feature Engineering  
+* Model Training  
+* Model Evaluation/validation  
+* Model Monitoring  
+* Model Deployment    
 ### &#x1F535; Three Types of Position in Data Science  
 * Data Engineer  
   - Develops, constructs, tests, and maintains architectures such as databases and large-scales processing systems.  
