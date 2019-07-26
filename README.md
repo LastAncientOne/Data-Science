@@ -16,12 +16,14 @@ R 3.5.3
 * Data understanding    
 * Data Analysis/Cleaning  
 * Data Organization/Transformation  
-* Data Validation/ Anomaly Dection  
+* Data Validation/Anomaly Detection  
 * Feature Engineering  
 * Model Training  
 * Model Evaluation/validation  
 * Model Monitoring  
-* Model Deployment    
+* Model Deployment  
+* Data Drift/Model Drift  
+* Reports  
 ### &#x1F535; Three Types of Position in Data Science  
 * Data Engineer  
   - Develops, constructs, tests, and maintains architectures such as databases and large-scales processing systems.  
