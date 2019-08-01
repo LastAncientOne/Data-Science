@@ -78,8 +78,8 @@ R 3.5.3
   - Introduction to Hypothesis Testing  
 * Questions about data  
   - Do you have the right data for exploratory data anlaysis?  
-  - Do you need other data?
-  - Do you have the right question
+  - Do you need other data?  
+  - Do you have the right question?  
 ### &#x1F535; Learning to be Data Science  
 * Choose Programming Language  
   - Python or R  
