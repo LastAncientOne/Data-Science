@@ -105,7 +105,7 @@ R 3.5.3
     - Dataset contains labeled and unlabeled
   4. Reinforcement Learning  
     - Learns from mistakes
-    - Agent take "actions" in an enviornment and see the "state" of envirnoment with the fetaures
+    - Agent take "actions" in an environment and see the "state" of environment with the features
     - Excute actions in every state with different actions bring different "rewards"
     - It learns "policy".
  - Common Machine Learning Algorithms
