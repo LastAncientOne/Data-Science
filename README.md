@@ -105,7 +105,7 @@ R 3.5.3
     - Dataset contains labeled and unlabeled
   4. Reinforcement Learning  
     - Learns from mistakes
-    - Agent take "actions" in an enviornment and see the "state" of envirnomentwith the fetaures
+    - Agent take "actions" in an enviornment and see the "state" of envirnoment with the fetaures
     - Excute actions in every state with different actions bring different "rewards"
     - It learns "policy".
  - Common Machine Learning Algorithms
@@ -138,4 +138,4 @@ R 3.5.3
   7. Ensemble Methods  
   8. Cross Validation  
   9. Algorithm Tuning
-  10.  Bagging or Boosting  
+  10. Bagging or Boosting  
