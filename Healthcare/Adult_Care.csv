@@ -1,0 +1,1648 @@
+Facility Name,Address,County,City,Zip,Phone,Fax,Facility ID,Operator,Certificate Number,Number of Beds,Assisted Living Program Beds,Assisted Living Residence (ALR) Beds,Enhanced ALR Beds,Special Needs ALR Beds,Type,Classification,Regional Office,Location
+Atria Crossgate,140 Washington Avenue Extension,Albany,Albany,12203,(518) 869-0211,(518) 869-0269,AF0113B,"ATR New York LH, Inc.",000-S-009,83,0,0,0,0,EHP,PPHA,CDRO,"140 Washington Avenue Extension
+Albany, NY 12203
+(42.69509918400007, -73.84995487799995)"
+Atria Shaker,345 Northern Boulevard,Albany,Albany,12204,(518) 465-4444,(518) 465-2127,AF0016B,"ATR New York LH, Inc.",000-S-011,146,0,0,0,0,EHP,PPHA,CDRO,"345 Northern Boulevard
+Albany, NY 12204
+(42.672300687000075, -73.75194962199998)"
+Atria Delmar Place,467 Delaware Ave,Albany,Delmar,12054,(518) 434-4663,(518) 434-4660,AF0622B,"ATR New York LH, Inc.",000-S-008,106,0,106,0,0,EHP,PPHA,CDRO,"467 Delaware Ave
+Delmar, NY 12054
+(42.618842562000054, -73.84224883399997)"
+Massry Residence at Daughters of Sarah,182 Washington Ave. Extension,Albany,Albany,12203,(518) 689-0453,(518) 689-0454,AF0591A,"Daughters of Sarah Housing Company, Inc.",000-S-006,70,0,70,25,0,EHP,NFP,CDRO,"182 Washington Ave. Extension
+Albany, NY 12203
+(42.70037606900007, -73.85195383999996)"
+Terrace at Beverwyck,41 Beverwyck Lane,Albany,Slingerlands,12159,(518) 459-4062,(518) 482-0106,AF0122A,"Beverwyck, Inc.",000-S-005,48,0,0,0,0,EHP,NFP,CDRO,"41 Beverwyck Lane
+Slingerlands, NY 12159
+(42.65882496300003, -73.83643341299995)"
+Promenade at University Place,1228 Western Avenue,Albany,Albany,12203,(518) 514-9500,(518) 514-9400,AF0903A,Promenade Albany LLC,000-F-315,200,160,200,40,32,AH/ALP,PPHA,CDRO,"1228 Western Avenue
+Albany, NY 12203
+(42.67804925200005, -73.82823758399996)"
+Elderwood Village at Colonie,626 Watervliet-Shaker Road,Albany,Latham,12110,(518) 783-8695,(518) 783-5459,AF0032D,"626 Watervliet Shaker Road Operating Company, LLC",000-F-314,94,0,0,0,0,AH,PPHA,CDRO,"626 Watervliet-Shaker Road
+Latham, NY 12110
+(42.73732152800005, -73.76907284499998)"
+Peregrine Senior Living at Colonie,5 South Family Drive,Albany,Colonie,12205,(518) 456-4500,(518) 456-5016,AF0753A,"Peregrine Senior Living of Colonie, LLC",000-F-312,68,0,68,10,68,AH,PPHA,CDRO,"5 South Family Drive
+Colonie, NY 12205
+(42.73493663200003, -73.82219666299994)"
+Atria Guilderland,300 Mill Rose Court,Albany,Slingerlands,12159,(518) 218-0506,(518) 218-0164,AF0614C,"ATR New York LH, Inc.",000-F-308,120,0,120,26,21,AH,PPHA,CDRO,"300 Mill Rose Court
+Slingerlands, NY 12159
+(42.68517269900008, -73.90415243599995)"
+"Millview of Latham, LLC",514 Old Loudon Road,Albany,Cohoes,12047,(518) 785-7788,(518) 785-2745,AF0018B,"Millview of Latham, LLC",000-F-294,55,0,55,0,0,AH,PPHA,CDRO,"514 Old Loudon Road
+Cohoes, NY 12047
+(42.78786315200006, -73.73984781199994)"
+Marjorie Doyle Rockwell Center,18 Pasinella Way,Albany,Cohoes,12047,(518) 238-4150,(518) 238-4195,AF0077A,"Marjorie Doyle Rockwell Center, Inc.",000-E-283,52,0,52,0,52,AH,NFP,CDRO,"18 Pasinella Way
+Cohoes, NY 12047
+(42.77535151500007, -73.72533338799997)"
+Kenwood Manor,141 Rockefeller Road,Albany,Delmar,12054,(518) 439-8899,(518) 475-1690,AF0048A,"Kenwood Manor, Inc.",000-E-282,67,0,0,0,0,AH,NFP,CDRO,"141 Rockefeller Road
+Delmar, NY 12054
+(42.62514532300003, -73.80298852999994)"
+Loudonville Assisted Living Residence,298 Albany Shaker Road,Albany,Loudonville,12211,(518) 463-4398,(518) 463-4409,AF0074B,"Westmere Home for Adults, LLC",000-F-304,105,0,105,27,18,AH,PPHA,CDRO,"298 Albany Shaker Road
+Loudonville, NY 12211
+(42.68247767500003, -73.75922208099996)"
+Manor Hills,4192-B Bolivar Road,Allegany,Wellsville,14895,(585) 593-9800,(585) 593-4605,AF0528B,Manor Hills Inc.,010-F-017,137,0,137,0,22,AH,PPHA,WRO,"4192-B Bolivar Road
+Wellsville, NY 14895
+(42.12660380700004, -77.96727503599999)"
+St. Vincent de Paul Assisted Living Program,900 Interval Avenue,Bronx,Bronx,10459,(917) 645-9200,(917) 645-9214,AF0699A,St. Vincent de Paul Residence/Catholic Health Care System,020-E-133,59,59,0,0,0,AH/ALP,NFP,MARO,"900 Interval Avenue
+Bronx, NY 10459
+(40.81921517400008, -73.89622162199998)"
+The New Jewish Home University Avenue Assisted Living,2553 University Avenue,Bronx,Bronx,10468,(347) 418-4270,(347) 418-4271,AF0714A,"Jewish Home Lifecare, University Avenue Assisted Living",020-S-003,72,72,0,0,0,EHP/ALP,NFP,MARO,"2553 University Avenue
+Bronx, NY 10468
+(40.86702291800003, -73.90206347399999)"
+Atria Riverdale,3718-3726 Henry Hudson Parkway,Bronx,Riverdale,10463,(718) 432-2448,(718) 432-2447,AF0827A,"ATR New York LH, Inc.",020-S-001,195,0,195,55,40,EHP,PPHA,MARO,"3718-3726 Henry Hudson Parkway
+Riverdale, NY 10463
+(40.888387143000045, -73.91012654699995)"
+Morningside at Home Assisted Living Program,1000 Pelham Parkway South,Bronx,Bronx,10461,(718) 409-8266,(718) 904-6587,AF0713B,"Morningside Acquisition III, LLC",020-F-821,40,40,0,0,0,AH/ALP,PPHA,MARO,"1000 Pelham Parkway South
+Bronx, NY 10461
+(40.85679447100006, -73.85966974899998)"
+New Fordham Arms Assisted Living,2915 Williamsbridge Road,Bronx,Bronx,10467,(718) 655-3433,(718) 654-4307,AF0248B,Bridgewood LLC,020-F-819,35,35,0,0,0,AH/ALP,PPHA,MARO,"2915 Williamsbridge Road
+Bronx, NY 10467
+(40.868339512000034, -73.86218577099999)"
+Amber Court of Pelham Gardens,1800 Waring Avenue,Bronx,Bronx,10469,(718) 379-4400,(718) 320-2442,AF0285B,"Judith Lynn Home for Adults, LLC",020-F-817,200,169,0,0,0,AH/ALP,PPHA,MARO,"1800 Waring Avenue
+Bronx, NY 10469
+(40.86069653200008, -73.83397011199997)"
+Claremont Village ALP,1160 Teller Avenue,Bronx,Bronx,10456,(718) 293-1500,(718) 931-9700,AF0720B,DOJ ALP Operations Associates LLC,020-F-135,70,70,0,0,0,AH/ALP,PPHA,MARO,"1160 Teller Avenue
+Bronx, NY 10456
+(40.83164914100007, -73.91193977499995)"
+The W Assisted Living at Riverdale Home for Adults,6355 Broadway,Bronx,Bronx,10471,(718) 549-3300,(718) 601-0593,AF0370B,"Elener Associates, LLC",020-F-133,256,200,0,0,0,AH/ALP,PPHA,MARO,"6355 Broadway
+Bronx, NY 10471
+(40.90141378800007, -73.89683386899998)"
+RiverSpring Assisted Living,5901 Palisades Avenue,Bronx,Bronx,10471,(718) 581-1780,(718) 601-8702,AF0706A,The Hebrew Home for the Aged at Riverdale,020-E-136,35,35,0,0,0,AH/ALP,NFP,MARO,"5901 Palisades Avenue
+Bronx, NY 10471
+(40.908549521000054, -73.90867567599997)"
+Bronxwood,799 East Gun Hill Road,Bronx,Bronx,10467,(718) 881-9100,(718) 515-0150,AF0211A,"Bronxwood Home For The Aged, Inc.",020-E-004,320,177,0,0,0,AH/ALP,NFP,MARO,"799 East Gun Hill Road
+Bronx, NY 10467
+(40.87610370200008, -73.86236049799999)"
+Parkview Home for Adults,3200 Bronx Boulevard,Bronx,Bronx,10467,(718) 547-9300,(718) 519-8378,AF0355B,"Parkview HFA, Inc.",020-F-131,134,0,0,0,0,AH,PPHA,MARO,"3200 Bronx Boulevard
+Bronx, NY 10467
+(40.871776820000036, -73.87045722499994)"
+St. Louise Manor,861 Front Street,Broome,Binghamton,13905,(607) 724-4000,(607) 724-8300,AF0116C,UMH NY Corp.,030-E-052,52,24,0,0,0,AH/ALP,NFP,CNYRO,"861 Front Street
+Binghamton, NY 13905
+(42.13066156300005, -75.90592604799997)"
+Metro Interfaith Housing,21 New Street,Broome,Binghamton,13903,(607) 772-6766,(607) 723-9602,AF0597A,Metro Interfaith Housing Management Corporation,030-S-046,11,0,0,0,0,EHP,NFP,CNYRO,"21 New Street
+Binghamton, NY 13903
+(42.090151766000076, -75.91112293999998)"
+Hilltop Manor West,286 Deyo Hill Road,Broome,Johnson City,13790,(607) 798-7818,(607) 798-9382,AF0061B,UMH NY Corp.,030-E-008,98,26,72,72,36,AH/ALP,NFP,CNYRO,"286 Deyo Hill Road
+Johnson City, NY 13790
+(42.14441300800007, -75.95938207199998)"
+The Hearth at Castle Gardens,1715 Castle Gardens Road,Broome,Vestal,13850,(607) 748-5700,(607) 748-1079,AF0021A,Hearth Management LLC,030-S-044,106,0,0,0,0,EHP,PPHA,CNYRO,"1715 Castle Gardens Road
+Vestal, NY 13850
+(42.078927315000044, -76.08152950099998)"
+Metro Interfaith EHP,110 Chenango Place,Broome,Binghamton,13901,(607) 724-3774,(607) 724-9602,AF0082A,Metro Interfaith Housing Management,030-S-041,37,0,0,0,0,EHP,NFP,CNYRO,"110 Chenango Place
+Binghamton, NY 13901
+(42.101464167000074, -75.90892753799994)"
+Elderwood Village at Vestal,505 Clubhouse Road,Broome,Vestal,13850,(607) 722-3422,(607) 722-5841,AF0137D,"505 Clubhouse Road Operating Company, LLC",030-F-060,116,0,0,0,0,AH,PPHA,CNYRO,"505 Clubhouse Road
+Vestal, NY 13850
+(42.08745262000008, -75.95106054399997)"
+The Pavilion at Vestal,105 West Sheedy Road,Broome,Vestal,13850,(607) 754-4105,(607) 748-5689,AF0733A,"The Pavilion at Vestal, LLC",030-F-058,40,40,0,0,0,AH/ALP,PPHA,CNYRO,"105 West Sheedy Road
+Vestal, NY 13850
+(42.05265446200008, -76.03268985699998)"
+Brookdale Vestal West,421 Plaza Drive,Broome,Vestal,13850,(607) 771-1700,(607) 771-0001,AF0697A,"Painted Post, LLC",030-F-056,65,0,65,65,65,AH,PPHA,CNYRO,"421 Plaza Drive
+Vestal, NY 13850
+(42.09003469600003, -75.95566333799997)"
+Garden House For Adults,91 Walnut Street,Broome,Binghamton,13905,(607) 724-5763,(607) 724-5763,AF0044A,"Bawas, Imelda",030-F-038,24,0,0,0,0,AH,PPHA,CNYRO,"91 Walnut Street
+Binghamton, NY 13905
+(42.10147455300006, -75.92299209799995)"
+Ideal Senior Living Center,600 High Avenue,Broome,Endicott,13760,(607) 786-7300,(607) 786-7496,AF0065A,Ideal Senior Living Housing Corporation,030-E-039,70,35,0,0,0,AH/ALP,NFP,CNYRO,"600 High Avenue
+Endicott, NY 13760
+(42.091605052000034, -76.06777898999997)"
+Good Shepherd Village at Endwell,14 Village Drive,Broome,Endwell,13760,(607) 757-3100,(607) 757-3101,AF0672A,"Good Shepherd Village at Endwell, Inc.",030-E-050,32,0,32,32,16,AH,NFP,CNYRO,"14 Village Drive
+Endwell, NY 13760
+(42.148138507000056, -76.02125305699997)"
+"Good Shepherd- Fairview Home, Inc.",80 Fairview Avenue,Broome,Binghamton,13904,(607) 724-2477,(607) 724-0957,AF0049A,"Good Shepherd-Fairview Home, Inc.",030-E-005,67,32,35,35,0,AH/ALP,NFP,CNYRO,"80 Fairview Avenue
+Binghamton, NY 13904
+(42.11053962700004, -75.87667271499998)"
+Underwood Manor,"4460 Union Hill Road, R.D. #1",Cattaraugus,Hinsdale,14743,(716) 557-2322,(716) 557-2323,AF0569A,"Johnson, Ronald",040-F-024,32,32,0,0,0,AH/ALP,PPHA,WRO,"4460 Union Hill Road, R.D. #1
+Hinsdale, NY 14743
+(42.18885246800005, -78.35403695399998)"
+Randolph Manor,40 East Main Street,Cattaraugus,Randolph,14772,(716) 358-4041,(716) 358-4041,AF0546A,"Randolph Manor Home for Adults, LLC",040-F-026,50,0,0,0,0,AH,PPHA,WRO,"40 East Main Street
+Randolph, NY 14772
+(42.16374396600003, -78.96917804499998)"
+Eden Heights of Olean,161 South Twenty-Fifth Street,Cattaraugus,Olean,14760,(716) 372-4466,(716) 372-1681,AF0488A,"Eden Management of Olean, Inc.",040-F-028,120,0,0,0,0,AH,PPHA,WRO,"161 South Twenty-Fifth Street
+Olean, NY 14760
+(42.07419433900003, -78.45925200899995)"
+Restmour Home for Adults,61 Seymour Street,Cayuga,Auburn,13021,(315) 253-7621,(315) 258-9187,AF0183B,"Delcorn Liberty, Inc.",050-F-020,24,0,0,0,0,AH,PPHA,CNYRO,"61 Seymour Street
+Auburn, NY 13021
+(42.937947449000035, -76.56326136699994)"
+North Brook Heights Home for Adults,170 Murray Street Extension,Cayuga,Auburn,13021,(315) 253-2755,(315) 252-9970,AF0182B,"North Brook Heights Home for Adults, Inc.",050-F-022,178,92,0,0,0,AH/ALP,PPHA,CNYRO,"170 Murray Street Extension
+Auburn, NY 13021
+(42.947570056000075, -76.55502612599997)"
+Evergreen Heights,8939 Oakland Street,Cayuga,Weedsport,13166,(315) 834-6142,(315) 834-8960,AF0158B,"Central New York Adult Homes, Inc.",050-E-010,60,0,0,0,0,AH,NFP,CNYRO,"8939 Oakland Street
+Weedsport, NY 13166
+(43.050778766000064, -76.57251450099994)"
+Faatz-Crofut Home,46 Grant Avenue,Cayuga,Auburn,13021,(315) 253-6141,(315) 253-4862,AF0160A,Faatz-Crofut Home for the Elderly,050-E-006,53,0,0,0,0,AH,NFP,CNYRO,"46 Grant Avenue
+Auburn, NY 13021
+(42.93830745300005, -76.55574396199995)"
+Westminster Manor,81 South Street,Cayuga,Auburn,13021,(315) 252-0507,(315) 258-3157,AF0190A,Cayuga-Syracuse Presbyterian Home for the Elderly,050-E-002,37,0,0,0,0,AH,NFP,CNYRO,"81 South Street
+Auburn, NY 13021
+(42.925259106000055, -76.56566879499997)"
+Bergquist Memorial Assisted Living Residences,"4600 Route 60, P.O. Box 350",Chautauqua,Gerry,14740,(716) 985-4612,(716) 985-4197,AF0448A,Gerry Homes,060-E-036,32,0,32,0,0,AH,NFP,WRO,"4600 Route 60, P.O. Box 350
+Gerry, NY 14740
+(42.195492486000035, -79.25131177099996)"
+Fredonia Place,50 Howard Street,Chautauqua,Fredonia,14063,(716) 679-2250,(716) 679-2259,AF0606A,"Water/Howard Associates, LLC",060-S-003,84,0,84,15,24,EHP,PPHA,WRO,"50 Howard Street
+Fredonia, NY 14063
+(42.43236097100004, -79.32621241199996)"
+Brookdale Lakewood,220 Southwestern Drive,Chautauqua,Lakewood,14750,(716) 665-2414,(716) 665-2978,AF0525A,"Painted Post Properties, Inc.",060-S-001,100,0,0,0,0,EHP,PPHA,WRO,"220 Southwestern Drive
+Lakewood, NY 14750
+(42.09439419300003, -79.29509556599999)"
+Memory Garden,560 Fairmount Avenue,Chautauqua,Jamestown,14701,(716) 483-2876,(716) 483-2832,AF0687B,"Memory Garden at Tanglewood, Inc.",060-F-040,56,56,56,0,56,AH/ALP,PPHA,WRO,"560 Fairmount Avenue
+Jamestown, NY 14701
+(42.09712152900005, -79.27222039099996)"
+"Tanglewood Manor, Inc.",560 Fairmount Avenue,Chautauqua,Jamestown,14701,(716) 483-2876,(716) 483-2832,AF0564B,"Tanglewood Manor, Inc.",060-F-036,158,158,158,0,36,AH/ALP,PPHA,WRO,"560 Fairmount Avenue
+Jamestown, NY 14701
+(42.09712152900005, -79.27222039099996)"
+Frewsburg Rest Home,106 West Main Street,Chautauqua,Frewsburg,14738,(716) 483-2876,(716) 483-2832,AF0497B,"Frewsburg Rest Home, Inc.",060-F-035,81,81,0,0,0,AH/ALP,PPHA,WRO,"106 West Main Street
+Frewsburg, NY 14738
+(42.052695483000036, -79.16538149999997)"
+St. Columban's on the Lake,"2546 Lake Road, Route 5",Chautauqua,Silver Creek,14136,(716) 934-4515,(716) 934-3919,AF0555A,"St Columban's on the Lake, Home for Well-Aged Inc.",060-E-008,57,0,0,0,0,AH,NFP,WRO,"2546 Lake Road, Route 5
+Silver Creek, NY 14136
+(42.53298388300004, -79.23269974499993)"
+Southern Tier Meadows,4883 West Main Road,Chautauqua,Fredonia,14063,(716) 679-4883,(716) 679-4881,AF0520B,"Southern Tier Environments for Living, Inc.",060-E-038,24,0,0,0,0,AH,NFP,WRO,"4883 West Main Road
+Fredonia, NY 14063
+(42.41917530100005, -79.37891057799999)"
+Hultquist Place,715 Falconer Street,Chautauqua,Jamestown,14701,(716) 665-8128,,AF0646A,"Lutheran Housing Realty, Inc.",060-E-015,96,96,0,0,0,AH/ALP,NFP,WRO,"715 Falconer Street
+Jamestown, NY 14701
+(42.114444787000025, -79.20898758299995)"
+The Women's Christian Association,134 Temple Street,Chautauqua,Fredonia,14063,(716) 672-7961,(716) 672-3496,AF0582A,The Women's Christian Association,060-E-014,42,32,0,0,0,AH/ALP,NFP,WRO,"134 Temple Street
+Fredonia, NY 14063
+(42.444110453000064, -79.33702776799998)"
+Orchard Grove Residences,2000 Southwestern Drive W. E.,Chautauqua,Jamestown,14701,(716) 338-1600,(716) 985-6690,AF0698A,"The Gerry Homes, Inc.",060-E-040,36,30,0,0,0,AH/ALP,NFP,WRO,"2000 Southwestern Drive W. E.
+Jamestown, NY 14701
+(42.087042000000054, -79.29497094199996)"
+Bethany Village,3005 Watkins Road,Chemung,Horseheads,14845,(607) 739-8711,(607) 796-2566,AF0450A,"Bethany Retirement Home, Inc.",070-E-002,144,60,144,70,30,AH/ALP,NFP,WRO,"3005 Watkins Road
+Horseheads, NY 14845
+(42.185554757000034, -76.83335171799996)"
+Woodbrook,1250 Maple Avenue,Chemung,Elmira,14904,(607) 734-7741,(607) 734-5636,AF0583A,"Woodbrook Assisted Living, Inc.",070-E-011,80,0,80,0,0,AH,NFP,WRO,"1250 Maple Avenue
+Elmira, NY 14904
+(42.068005526000036, -76.78634572999994)"
+Bida Adult Home,4 Washington Park Rd,Chenango,Oxford,13830,(607) 843-6769,(607) 843-6874,AF0017A,"Lyons, William J.",080-F-010,28,0,0,0,0,AH,PPHA,CNYRO,"4 Washington Park Rd
+Oxford, NY 13830
+(42.440068136000036, -75.59131817199994)"
+Chenango Valley Home,24 Canasawacta Street,Chenango,Norwich,13815,(607) 334-6598,(607) 336-6625,AF0026A,"The Chenango Valley Home, Inc.",080-E-002,32,0,0,0,0,AH,NFP,CNYRO,"24 Canasawacta Street
+Norwich, NY 13815
+(42.531687429000044, -75.53078497599995)"
+Chenango County Home Preston Manor,"1150 County Road 4  RFD #2, Box 203",Chenango,Oxford,13830,(607) 334-9428,(607) 334-8299,AF0024A,Chenango County D.S.S.,080-N-007,48,0,0,0,0,AH,PUBL,CNYRO,"1150 County Road 4 RFD #2, Box 203
+Oxford, NY 13830
+(42.52439171100008, -75.61485545699998)"
+Pine Harbour,15 New Hampshire Street,Clinton,Plattsburgh,12903,(518) 561-5307,(518) 561-5377,AF0652A,"Pine Harbour, Inc.",090-S-001,66,0,0,0,0,EHP,NFP,CDRO,"15 New Hampshire Street
+Plattsburgh, NY 12903
+(44.67641950600006, -73.44445805999999)"
+Valehaven Home for Adults,"2989 North Main Street, Box 683",Clinton,Peru,12972,(518) 643-2740,(518) 643-0923,AF0006A,"Kane, James E.",090-F-003,40,30,0,0,0,AH/ALP,PPHA,CDRO,"2989 North Main Street, Box 683
+Peru, NY 12972
+(44.58009452300007, -73.52713569999997)"
+Samuel F. Vilas Home,61 Beekman Street,Clinton,Plattsburgh,12901,(518) 563-4960,(518) 563-5406,AF0106A,Samuel F. Vilas Home,090-E-002,44,0,0,0,0,AH,NFP,CDRO,"61 Beekman Street
+Plattsburgh, NY 12901
+(44.69903161900004, -73.46653713299997)"
+Whittier Place,30 Whittier Way,Columbia,Ghent,12075,(518) 828-0900,(518) 828-1201,AF0050B,"Hudson Valley Care Center, Inc.",200-E-005,80,40,0,0,0,AH/ALP,NFP,CDRO,"30 Whittier Way
+Ghent, NY 12075
+(42.282020544000034, -73.70570670399997)"
+"Camphill Ghent, Inc.",2542 Route 66,Columbia,Chatham,12037,(518) 721-8400,(518) 721-1859,AF0693A,"Camphill Ghent, Inc.",200-E-007,31,18,0,0,0,AH/ALP,NFP,CDRO,"2542 Route 66
+Chatham, NY 12037
+(42.342613346000064, -73.60854301599994)"
+Elizabeth Brewster House,41 South Main Street,Cortland,Homer,13077,(607) 749-3061,(607) 749-5862,AF0039A,Elizabeth Brewster House,210-E-001,45,0,0,0,0,AH,NFP,CNYRO,"41 South Main Street
+Homer, NY 13077
+(42.63537846300005, -76.17868216399995)"
+Walden Place,839 Bennie Rd.,Cortland,Cortland,13045,(607) 756-8101,(607) 756-2357,AF0585B,"SL Walden, LLC",210-F-030,86,0,86,86,20,AH,PPHA,CNYRO,"839 Bennie Rd.
+Cortland, NY 13045
+(42.56484048300007, -76.21958865999994)"
+Cedarwood Senior Living,46 Cortland Street,Cortland,Homer,13077,(607) 213-3705,(607) 821-3534,AF0051B,"Cedarwood Homer Community, LLC",210-F-032,37,0,0,0,0,AH,PPHA,CNYRO,"46 Cortland Street
+Homer, NY 13077
+(42.63230590000006, -76.18277590699995)"
+The Pavilion at Robinson Terrace,One Buntline Drive,Delaware,Stamford,12167,(607) 652-2960,(607) 652-2962,AF0690B,"RTACF, LLC",220-F-032,60,39,0,0,0,AH/ALP,PPHA,CDRO,"One Buntline Drive
+Stamford, NY 12167
+(42.403548528000044, -74.62029483799995)"
+Crystal House Manor,"97 Mills Street, P.O. Box 576",Dutchess,Dover Plains,12522,(845) 877-6400,(845) 877-6500,AF0633A,"Crsytal House Manor, Inc.",230-F-272,39,0,0,0,0,AH,PPHA,MARO,"97 Mills Street, P.O. Box 576
+Dover Plains, NY 12522
+(41.741938024000035, -73.57173707399994)"
+The Landing of Poughkeepsie,251 Boardman Road,Dutchess,Poughkeepsie,12603,(845) 471-4044,(845) 462-1329,AF0727B,"Landing Senior Care, LLC",230-S-005,121,0,121,44,34,EHP,PPHA,MARO,"251 Boardman Road
+Poughkeepsie, NY 12603
+(41.65830003700006, -73.89040575199994)"
+The Terraces at Brookmeade,54 Brookmeade Drive,Dutchess,Rhinebeck,12572,(845) 876-5522,(845) 871-1391,AF0669A,"Brookview, Inc.",230-S-001,29,0,29,29,0,EHP,NFP,MARO,"54 Brookmeade Drive
+Rhinebeck, NY 12572
+(41.92701223000006, -73.89353008699999)"
+The McClelland  Home for Adults,126 Old Castle Point Road,Dutchess,Wappinger Falls,12590,(845) 831-1909,(845) 831-1846,AF0307B,Evergreen Home for Adults Inc.,230-F-276,70,0,0,0,0,AH,PPHA,MARO,"126 Old Castle Point Road
+Wappinger Falls, NY 12590
+(41.53871839900006, -73.96401520499995)"
+"Hedgewood ALP, LLC",355 Fishkill Avenue,Dutchess,Beacon,12508,(845) 831-6000,(845) 831-4810,AF0263B,"Hedgewood Home for Adults, LLC",230-F-082,192,192,0,0,0,AH/ALP,PPHA,MARO,"355 Fishkill Avenue
+Beacon, NY 12508
+(41.50800625000005, -73.95580475599996)"
+Green Briar Adult Home,26 Old Route 82,Dutchess,Millbrook,12545,(845) 677-9997,(845) 677-6278,AF0256B,"Green Briar Adult Home, LLC",230-F-072,53,0,0,0,0,AH,PPHA,MARO,"26 Old Route 82
+Millbrook, NY 12545
+(41.77222125000003, -73.70014390499995)"
+The Avalon Assisted Living and Wellness Center,1629 Route 376,Dutchess,Wappingers Falls,12590,(845) 463-0500,(845) 463-2159,AF0415A,"Reckess, Azzy & Paula",230-F-068,76,66,0,0,0,AH/ALP,PPHA,MARO,"1629 Route 376
+Wappingers Falls, NY 12590
+(41.62778910000003, -73.87561175099995)"
+The Inn at Millbrook,560 Flint Road,Dutchess,Millbrook,12545,(845) 677-8550,(845) 677-8630,AF0420A,"The Fountains Operating Company (NY), Inc.",230-F-066,40,0,40,40,0,AH,PPHA,MARO,"560 Flint Road
+Millbrook, NY 12545
+(41.73821355600006, -73.66432467699997)"
+Dutchess Care,186 Washington Street,Dutchess,Poughkeepsie,12601,(845) 471-7930,(845) 473-8189,AF0239A,Azzy Reckess DBA Dutchess Care,230-F-044,92,88,0,0,0,AH/ALP,PPHA,MARO,"186 Washington Street
+Poughkeepsie, NY 12601
+(41.71446653700008, -73.92953732899997)"
+Vassar-Warner Home,52 South Hamilton Street,Dutchess,Poughkeepsie,12601,(845) 454-3754,(845) 454-6967,AF0430A,Vassar-Warner Home,230-E-014,58,15,0,0,0,AH/ALP,NFP,MARO,"52 South Hamilton Street
+Poughkeepsie, NY 12601
+(41.69929360800006, -73.92494196899997)"
+Morningside Manor,135 Fishkill Cooper Road Box 172,Dutchess,Fishkill,12524,(845) 896-9171,(845) 896-2456,AF0321A,Adoracion Elevado,230-F-058,20,0,0,0,0,AH,PPHA,MARO,"135 Fishkill Cooper Road Box 172
+Fishkill, NY 12524
+(41.55932457600005, -73.89789708799998)"
+"Hyde Park Assisted Living Facility, Inc.",394 Violet Avenue,Dutchess,Poughkeepsie,12601,(845) 204-9572,(845) 204-9575,AF0744A,"Hyde Park Assisted Living Facility, Inc.",230-F-282,78,57,0,0,0,AH/ALP,PPHA,MARO,"394 Violet Avenue
+Poughkeepsie, NY 12601
+(41.73909355400008, -73.90956443499994)"
+Elderwood Village at Williamsville,5271 Main Street,Erie,Williamsville,14221,(716) 565-9663,(716) 565-2331,AF0500B,"5271 Main Street Operating Company, LLC",240-S-115,110,0,110,19,0,EHP,PPHA,WRO,"5271 Main Street
+Williamsville, NY 14221
+(42.960871670000074, -78.75676615199995)"
+Mary Agnes Manor ALP,307 Porter Avenue,Erie,Buffalo,14201,(716) 881-0565,(716) 881-0582,AF0532B,"Mary Agnes Manor, LLC",240-F-868,230,61,230,0,96,AH/ALP,PPHA,WRO,"307 Porter Avenue
+Buffalo, NY 14201
+(42.90191915500003, -78.89089268399994)"
+Elderwood Village at St. Gregory Court,111 Saint Gregory Court,Erie,Williamsville,14221,(716) 689-2394,(716) 689-2763,AF0447D,"111 Saint Gregory Court Operating Company, LLC",240-F-896,80,0,0,0,0,AH,PPHA,WRO,"111 Saint Gregory Court
+Williamsville, NY 14221
+(42.994024281000065, -78.72725151899994)"
+Elderwood Village at Bassett Park,245 Bassett Road,Erie,Williamsville,14221,(716) 688-4011,(716) 688-2733,AF0446D,"245 Bassett Road Operating Company, LLC",240-F-898,105,0,105,0,22,AH,PPHA,WRO,"245 Bassett Road
+Williamsville, NY 14221
+(42.99679054600006, -78.72845107699999)"
+Eden Heights,4071 Hardt Road,Erie,Eden,14057,(716) 992-4466,(716) 992-9078,AF0487B,"Eden Heights of Eden Operating, LLC",240-F-900,120,0,120,0,0,AH,PPHA,WRO,"4071 Hardt Road
+Eden, NY 14057
+(42.66671953300005, -78.83316092799998)"
+Symphony Manor at Lancaster,5539 Broadway,Erie,Lancaster,14086,(716) 683-5150,(716) 683-4049,AF0556C,"Symphony Manor, LLC",240-F-902,117,0,0,0,0,AH,PPHA,WRO,"5539 Broadway
+Lancaster, NY 14086
+(42.89848129400008, -78.66393131599995)"
+Ken-Ton Presbyterian Village EHP,3735 Delaware Avenue,Erie,Kenmore,14217,(716) 874-6070,(716) 874-1455,AF0544A,Presbyterian Homes Of Western New York,240-S-089,49,0,0,0,0,EHP,NFP,WRO,"3735 Delaware Avenue
+Kenmore, NY 14217
+(42.98577362800006, -78.87297445799999)"
+Greenfield Court,5951 Broadway,Erie,Lancaster,14086,(716) 684-8400,(716) 684-8480,AF0507A,Lutheran Church Home at Greenfield Inc.,240-S-105,57,0,57,0,0,EHP,NFP,WRO,"5951 Broadway
+Lancaster, NY 14086
+(42.89492771600004, -78.63177605599998)"
+Canterbury Woods,725 Renaissance Drive,Erie,Williamsville,14221,(716) 929-5150,(716) 929-5812,AF0462A,"Episcopal Church Home & Affiliates Life Care Community, Inc.",240-S-106,32,0,32,32,12,EHP,NFP,WRO,"725 Renaissance Drive
+Williamsville, NY 14221
+(42.99610897700006, -78.69871281199994)"
+"Bristol Village, Inc.",8455 Clarence Center Road,Erie,Clarence Center,14032,(716) 319-9500,(716) 319-9501,AF0609A,"Bristol Village, Inc.",240-S-107,110,0,110,20,36,EHP,NFP,WRO,"8455 Clarence Center Road
+Clarence Center, NY 14032
+(43.01338953700008, -78.67922567799997)"
+Peregrine's Landing Senior Community,575 Cayuga Creek Road,Erie,Cheektowaga,14227,(716) 893-3000,(716) 893-3103,AF0615A,"Peregrine's Landing, L.L.C",240-S-109,112,0,112,25,22,EHP,PPHA,WRO,"575 Cayuga Creek Road
+Cheektowaga, NY 14227
+(42.87814342200005, -78.76531121799997)"
+Brookdale Kenmore,2971 Delaware Avenue,Erie,Kenmore,14217,(716) 874-3200,(716) 873-4953,AF0893A,"WW Kenmore Operator, Inc.",240-S-113,120,0,120,120,0,EHP,PPHA,WRO,"2971 Delaware Avenue
+Kenmore, NY 14217
+(42.96522080300008, -78.87029502799999)"
+Elderwood Assisted Living at Hamburg,76 Buffalo Street,Erie,Hamburg,14075,(716) 649-7676,(716) 648-5607,AF0548B,"76 Buffalo Street Operating Company, LLC",240-S-117,103,30,103,10,0,EHP/ALP,PPHA,WRO,"76 Buffalo Street
+Hamburg, NY 14075
+(42.71823042900007, -78.82929865499995)"
+Elderwood Assisted Living at West Seneca,580 Orchard Park Road,Erie,West Seneca,14224,(716) 677-4242,(716) 677-0883,AF0578B,"580 Orchard Park Road Operating Company, LLC",240-S-119,128,24,128,10,0,EHP/ALP,PPHA,WRO,"580 Orchard Park Road
+West Seneca, NY 14224
+(42.83151347000006, -78.77785676099995)"
+Canterbury Woods Gates Circle,1 Gates Circle,Erie,Buffalo,14209,(716) 929-5150,(716) 929-5108,AF0757A,"Episcopal Church Home & Affiliates Life Care Community, Inc.",240-S-127,5,0,5,5,0,EHP,NFP,WRO,"1 Gates Circle
+Buffalo, NY 14209
+(42.92031065100008, -78.86751141899998)"
+The Amberleigh,2330-40 Maple Road,Erie,Amherst,14221,(716) 689-4195,(716) 636-3687,AF0743A,"CSL Amberleigh, Inc.",240-S-125,76,0,76,76,17,EHP,PPHA,WRO,"2330-40 Maple Road
+Amherst, NY 14221
+(42.98943347200003, -78.70333789699998)"
+Juniper Glen Alzheimer's Special Care Center,8820 Transit Road,Erie,East Amherst,14051,(716) 568-2099,(716) 568-2089,AF0758A,"Amherst Care Group, LLC",240-F-894,66,0,66,66,66,AH,PPHA,WRO,"8820 Transit Road
+East Amherst, NY 14051
+(43.00872397400008, -78.69696958299994)"
+The Meadows,2650 North Forest Road,Erie,Getzville,14068,(716) 639-3311,(716) 689-0002,AF0731A,"Menorah Campus Adult Home, Inc.",240-S-123,48,0,0,0,0,EHP,NFP,WRO,"2650 North Forest Road
+Getzville, NY 14068
+(43.01405413400005, -78.78447006299996)"
+Heathwood Assisted Living at Williamsville,815 Hopkins Road,Erie,Williamsville,14221,(716) 688-0111,(716) 688-7266,AF0686B,"Heathwood Assisted Living at Williamsville, Inc.",240-F-881,115,36,115,35,25,AH/ALP,PPHA,WRO,"815 Hopkins Road
+Williamsville, NY 14221
+(43.000677335000034, -78.73945395799996)"
+Garden House,2720 North Forest Road,Erie,Getzville,14068,(716) 639-3311,(716) 639-3309,AF0879A,"Menorah Campus Adult Home, Inc.",240-S-121,48,0,48,33,24,EHP,NFP,WRO,"2720 North Forest Road
+Getzville, NY 14068
+(43.01588893200005, -78.78638180599995)"
+Fox Run at Orchard Park,One Fox Run Lane,Erie,Orchard Park,14127,(716) 662-5001,(716) 662-6985,AF0662A,"Orchard Park CCRC, Inc.",240-S-111,52,0,52,0,18,EHP,NFP,WRO,"One Fox Run Lane
+Orchard Park, NY 14127
+(42.76173933100006, -78.77245490299998)"
+Blocher Homes,135 Evans Street,Erie,Williamsville,14221,(716) 810-7400,(716) 631-9244,AF0453A,"The Blocher Homes, Inc.",240-E-003,65,0,65,17,0,AH,NFP,WRO,"135 Evans Street
+Williamsville, NY 14221
+(42.96771470400006, -78.73913444999994)"
+Elderwood Assisted Living at Cheektowaga,229 Bennett Road,Erie,Cheektowaga,14227,(716) 681-8631,(716) 681-8762,AF0531C,"229 Bennett Road Operating Company, LLC",240-F-886,80,66,0,0,0,AH/ALP,PPHA,WRO,"229 Bennett Road
+Cheektowaga, NY 14227
+(42.88933947700008, -78.74685110699994)"
+Elderwood Assisted Living at Tonawanda,111 Ensminger Road,Erie,Tonawanda,14150,(716) 871-1814,(716) 871-0809,AF0568C,"111 Ensminger Road Operating Company, LLC",240-F-890,120,49,0,0,0,AH/ALP,PPHA,WRO,"111 Ensminger Road
+Tonawanda, NY 14150
+(42.988119502000075, -78.88787163399996)"
+Bristol Home,1500 Main Street,Erie,Buffalo,14209,(716) 884-4371,(716) 884-0850,AF0459A,"Bristol Home, Inc.",240-E-004,55,0,55,0,0,AH,NFP,WRO,"1500 Main Street
+Buffalo, NY 14209
+(42.91410256200004, -78.86500391699997)"
+Brothers of Mercy Sacred Heart Home,"4520 Ransom Road, P.O. Box 117",Erie,Clarence,14031,(716) 759-2644,(716) 759-6433,AF0461A,Brothers of Mercy,240-E-005,70,0,0,0,0,AH,NFP,WRO,"4520 Ransom Road, P.O. Box 117
+Clarence, NY 14031
+(42.96936367300003, -78.59264596599996)"
+GreenField Terrace,5979 Broadway Street,Erie,Lancaster,14086,(716) 681-4434,(716) 681-6894,AF0526A,"Lutheran Church Home Of Buffalo, Inc.",240-E-013,56,0,56,23,42,AH,NFP,WRO,"5979 Broadway Street
+Lancaster, NY 14086
+(42.894289729000036, -78.62785279599996)"
+Dosberg Manor,2680 North Forest Road,Erie,Amherst,14068,(716) 639-3311,(716) 639-3309,AF0484A,"Menorah Campus Adult Home,  Inc.",240-E-141,96,30,0,0,0,AH/ALP,NFP,WRO,"2680 North Forest Road
+Amherst, NY 14068
+(43.014975797000034, -78.78545675999999)"
+Glenwell,2248 Old Union Road,Erie,Cheektowaga,14227,(716) 608-7000,(716) 608-0151,AF0499A,"DePaul Adult Care Communities, Inc.",240-E-146,120,16,104,0,24,AH/ALP,NFP,WRO,"2248 Old Union Road
+Cheektowaga, NY 14227
+(42.87152729300004, -78.75579655499996)"
+Brompton Heights,275 Brompton Road,Erie,Williamsville,14221,(716) 634-5734,(716) 634-1416,AF0460A,"Brompton Heights, Inc.",240-F-133,200,0,200,200,20,AH,PPHA,WRO,"275 Brompton Road
+Williamsville, NY 14221
+(42.973323779000054, -78.70829300299994)"
+Eden Heights of West Seneca,3030 Clinton Street,Erie,West Seneca,14224,(716) 822-4466,(716) 822-5107,AF0486B,"Eden Management of West Seneca, Inc.",240-F-848,120,0,0,0,0,AH,PPHA,WRO,"3030 Clinton Street
+West Seneca, NY 14224
+(42.860490370000036, -78.76517220399995)"
+Brookdale Williamsville,6076 Main Street,Erie,Williamsville,14221,(716) 632-7123,(716) 632-7512,AF0465A,"Williamsville Clare Bridge Operator, Inc.",240-F-851,52,0,0,0,0,AH,PPHA,WRO,"6076 Main Street
+Williamsville, NY 14221
+(42.96576532900008, -78.72712351899997)"
+Park Creek Senior Living Community,410 Mill Street,Erie,Amherst,14221,(716) 632-3000,(716) 632-3003,AF0657B,Mill Street Assisted Living LLC,240-F-876,94,0,0,0,0,AH,PPHA,WRO,"410 Mill Street
+Amherst, NY 14221
+(42.97544083200006, -78.74447658999998)"
+"Absolut at Orchard Brooke, LLC",6060 Armor Road,Erie,Orchard Park,14127,(716) 662-6753,(716) 662-6752,AF0537C,"Absolut at Orchard Brooke, LLC",240-F-878,80,0,0,0,0,AH,PPHA,WRO,"6060 Armor Road
+Orchard Park, NY 14127
+(42.75124529400006, -78.76270557199996)"
+Tennyson Court,49 Tennyson Court,Erie,Williamsville,14221,(716) 632-9496,(716) 632-1822,AF0565B,"Tennyson Court, LLC",240-F-874,93,0,93,40,32,AH,PPHA,WRO,"49 Tennyson Court
+Williamsville, NY 14221
+(42.971130251000034, -78.69883243399994)"
+Orchard Heights,5200 Chestnut Ridge Road,Erie,Orchard Park,14127,(716) 662-0651,(716) 662-3870,AF0538B,"Orchard Heights, Inc.",240-F-884,200,0,200,200,22,AH,PPHA,WRO,"5200 Chestnut Ridge Road
+Orchard Park, NY 14127
+(42.74379085900006, -78.74818585799994)"
+Oakwood Senior Living,3456 Delaware Avenue,Erie,Kenmore,14217,(716) 877-7171,(716) 877-6383,AF0521B,"Kenwell Gardens, LLC",240-F-888,148,16,0,0,0,AH/ALP,PPHA,WRO,"3456 Delaware Avenue
+Kenmore, NY 14217
+(42.978400512000064, -78.87205626799994)"
+Peregrine's Landing at Orchard Park,101 Sterling Drive,Erie,Orchard Park,14127,(716) 675-1022,(716) 675-1007,AF0466B,"Peregrine Properties of Upstate, LLC",240-F-827,52,0,0,0,0,AH,PPHA,WRO,"101 Sterling Drive
+Orchard Park, NY 14127
+(42.789944630000036, -78.76647638799994)"
+The Courtyards LLC,5285 South Park Avenue,Erie,Hamburg,14075,(716) 649-9111,(716) 649-3553,AF0480B,The Courtyards LLC,240-F-872,133,0,0,0,0,AH,PPHA,WRO,"5285 South Park Avenue
+Hamburg, NY 14075
+(42.75343049000003, -78.82470782399997)"
+Keene Valley Neighborhood House,1782 Route 73,Essex,Keene Valley,12943,(518) 576-4474,(518) 576-2012,AF0070A,"Keene Valley Neighborhood Services, Inc.",260-E-006,50,0,50,0,0,AH,NFP,CDRO,"1782 Route 73
+Keene Valley, NY 12943
+(44.18969854000005, -73.78643169799994)"
+Elderwood Village at Ticonderoga,1019 Wicker Street,Essex,Ticonderoga,12883,(518) 585-3871,(518) 585-2576,AF0608B,"1019 Wicker Street AL Operating Company, LLC",260-F-020,23,0,0,0,0,AH,PPHA,CDRO,"1019 Wicker Street
+Ticonderoga, NY 12883
+(43.84954513000008, -73.43559110699994)"
+Champlain Valley Senior Community,10 Gilliland Lane,Essex,Willsboro,12996,(888) 963-1110,(888) 963-1110,AF0707A,"Stonebrook Properties, LLC",260-F-018,81,0,81,29,21,AH,PPHA,CDRO,"10 Gilliland Lane
+Willsboro, NY 12996
+(44.364296153000055, -73.39056160699994)"
+Adirondack Manor HFA D.B.A Montcalm Manor HFA,45 Montcalm Street,Essex,Ticonderoga,12883,(518) 585-6230,(518) 585-6467,AF0004A,"Kane, James E.",260-F-016,40,30,0,0,0,AH/ALP,PPHA,CDRO,"45 Montcalm Street
+Ticonderoga, NY 12883
+(43.84824340600005, -73.43029683199995)"
+The Farrar Home,46 Constable Street,Franklin,Malone,12953,(518) 483-7550,(518) 483-8107,AF0041A,Farrar Home For Deserving Old Ladies,270-E-005,30,0,0,0,0,AH,NFP,CDRO,"46 Constable Street
+Malone, NY 12953
+(44.85521593100003, -74.28722653199998)"
+Alice Hyde Assisted Living Program,45 Sixth Street,Franklin,Malone,12953,(518) 481-8401,(518) 481-8403,AF0725A,Alice Hyde Medical Center,270-E-007,30,30,0,0,0,AH/ALP,NFP,CDRO,"45 Sixth Street
+Malone, NY 12953
+(44.860184348000075, -74.29201112699997)"
+Willing Helpers' Home for Women,"226 West Madison Ave, P.O. Box O",Fulton,Johnstown,12095,(518) 762-7719,(518) 762-3415,AF0136A,Willing Helpers,280-E-008,20,0,0,0,0,AH,NFP,CDRO,"226 West Madison Ave, P.O. Box O
+Johnstown, NY 12095
+(42.99969372000004, -74.37853813899994)"
+Pineview Commons H.F.A.,201 South Melcher Street,Fulton,Johnstown,12095,(518) 762-5488,(518) 762-5583,AF0093B,"Pineview Commons, LLC",280-F-034,94,52,0,0,0,AH/ALP,PPHA,CDRO,"201 South Melcher Street
+Johnstown, NY 12095
+(43.001858138000046, -74.37550950699995)"
+Leroy Manor,8678 Lake Street Road,Genesee,Leroy,14482,(585) 768-6291,(585) 768-6293,AF0512D,"Leroy Manor, LLC",290-F-005,79,79,0,0,0,AH/ALP,PPHA,WRO,"8678 Lake Street Road
+Leroy, NY 14482
+(42.99267165800006, -77.98814037799997)"
+Genesee Adult Home,278 Bank Street,Genesee,Batavia,14020,(585) 344-0584,(585) 344-4685,AF0498B,Genesee Center Operating II LLC,290-F-007,80,0,80,0,40,AH,PPHA,WRO,"278 Bank Street
+Batavia, NY 14020
+(43.00870878300003, -78.17608794099993)"
+The Manor House,427 East Main Street,Genesee,Batavia,14020,(585) 344-2345,(585) 344-4482,AF0899A,"Manor House Enriched, LLC",290-S-003,60,0,0,0,0,EHP,PPHA,WRO,"427 East Main Street
+Batavia, NY 14020
+(42.99624436600004, -78.17334472399995)"
+The Eliot at Catskill,122 Jefferson Heights,Greene,Catskill,12414,(518) 943-7100,(518) 943-7123,AF0091C,"The Eliot at Catskill, LLC",300-F-033,98,49,0,0,0,AH/ALP,PPHA,CDRO,"122 Jefferson Heights
+Catskill, NY 12414
+(42.229556769000055, -73.87384791299996)"
+Home Sweet Home of Athens,71 Second Street,Greene,Athens,12015,(518) 945-1673,(518) 945-2082,AF0015B,"The W Group at Hudson, LLC",300-F-034,24,21,0,0,0,AH/ALP,PPHA,CDRO,"71 Second Street
+Athens, NY 12015
+(42.26256228500006, -73.81390125799999)"
+Home Sweet Home on the Hudson,38 Prospect Avenue,Greene,Catskill,12414,(518) 943-5701,(518) 943-5033,AF0115C,"The W Group at Catskill, LLC",300-F-032,60,39,0,0,0,AH/ALP,PPHA,CDRO,"38 Prospect Avenue
+Catskill, NY 12414
+(42.21712043400004, -73.85931516399995)"
+"Valley Residential Services, Inc.",161 Valley Drive,Herkimer,Herkimer,13350,(315) 219-5700,(315) 866-0016,AF0719A,"Valley Health Services, Inc.",320-S-001,76,36,0,0,0,EHP/ALP,NFP,CNYRO,"161 Valley Drive
+Herkimer, NY 13350
+(43.04177408400005, -74.95531417599994)"
+Middleville Rest Home,19 North Main Street  P.O. Box 128,Herkimer,Middleville,13406,(315) 891-3695,(315) 891-3136,AF0083A,"Caiola, Rachel",320-F-019,24,0,0,0,0,AH,PPHA,CNYRO,"19 North Main Street P.O. Box 128
+Middleville, NY 13406
+(43.13987678600006, -74.96980091799998)"
+Foltsbrook Center for Senior Living,104 North Washington Street,Herkimer,Herkimer,13350,(315) 866-6964,(315) 866-6760,AF0042C,"ClaxtonManor, LLC (as Receiver)",320-E-008,80,0,0,0,0,AH,NFP,CNYRO,"104 North Washington Street
+Herkimer, NY 13350
+(43.026958611000055, -74.98527630999996)"
+The Mohawk Homestead,62 East Main Street,Herkimer,Mohawk,13407,(315) 866-1841,(315) 866-0603,AF0085A,"The Mohawk Homestead, Inc.",320-E-005,41,20,0,0,0,AH/ALP,NFP,CNYRO,"62 East Main Street
+Mohawk, NY 13407
+(43.01265918800004, -74.99974089499995)"
+Samaritan Summit Village,22691 Campus Drive,Jefferson,Watertown,13601,(315) 782-6800,(315) 782-6950,AF0705A,"Samaritan Senior Village, Inc.",330-E-005,120,89,31,31,0,AH/ALP,NFP,CNYRO,"22691 Campus Drive
+Watertown, NY 13601
+(43.94930218400003, -75.90937499199998)"
+The Lodge at Ives Hill,1200 Jewell Drive,Jefferson,Watertown,13601,(315) 681-4038,(315) 681-6039,AF0694A,"The Lodge at Ives Hill, Inc.",330-S-038,24,0,0,0,0,EHP,NFP,CNYRO,"1200 Jewell Drive
+Watertown, NY 13601
+(43.96155263000003, -75.93481912599998)"
+Meadowbrook Terrace Assisted Living Facility,21957 Cole Road,Jefferson,Carthage,13619,(315) 519-1246,(315) 519-1339,AF0704A,Meadowbrook Terrace Inc.,330-E-004,60,58,0,0,0,AH/ALP,NFP,CNYRO,"21957 Cole Road
+Carthage, NY 13619
+(43.985283233000075, -75.64994414199998)"
+Sunrise at Sheepshead Bay,2211 Emmons Avenue,Kings,Brooklyn,11235,(718) 616-1850,(718) 616-1841,AF0831A,"GWC-Sheepshead Bay, Inc.",331-S-012,189,0,189,189,41,EHP,PPHA,MARO,"2211 Emmons Avenue
+Brooklyn, NY 11235
+(40.58382045700006, -73.94588980099996)"
+Brooklyn Boulevard ALP,636 Louisiana Avenue,Kings,Brooklyn,11239,(718) 557-0777,(718) 642-3510,AF0749A,Brooklyn Boulevard ALP LLC,331-S-014,184,184,0,0,0,EHP/ALP,PPHA,MARO,"636 Louisiana Avenue
+Brooklyn, NY 11239
+(40.64695435800007, -73.88522253999997)"
+Sunrise at Mill Basin,5905 Strickland Avenue,Kings,Brooklyn,11234,(718) 444-2600,(718) 444-2167,AF0809A,"GWC-Mill Basin, Inc.",331-S-011,142,0,142,142,39,EHP,PPHA,MARO,"5905 Strickland Avenue
+Brooklyn, NY 11234
+(40.60755645100005, -73.91597802499996)"
+"Moffat Gardens ALP, Inc",22 Moffat Street,Kings,Brooklyn,11207,(718) 366-3800,(866) 340-5850,AF0680A,"Ridgewood Bushwick Senior Citizens Council, Inc",331-S-009,30,30,0,0,0,EHP/ALP,NFP,MARO,"22 Moffat Street
+Brooklyn, NY 11207
+(40.68376561500003, -73.91005570499993)"
+Assisted Living at Jennings Hall,260 Powers Street,Kings,Brooklyn,11211,(718) 782-3390,(718) 387-6335,AF0679A,St. Nick's Alliance Corp,331-S-007,40,40,0,0,0,EHP/ALP,NFP,MARO,"260 Powers Street
+Brooklyn, NY 11211
+(40.71270687800006, -73.94046591999995)"
+Cumberland Gardens NY Foundation EHP #6,425 Cumberland Street,Kings,Brooklyn,11201,(718) 623-8181,(718) 623-2809,AF0230A,"New York Foundation for Senior Citizens, Inc.",331-S-003,47,0,0,0,0,EHP,NFP,MARO,"425 Cumberland Street
+Brooklyn, NY 11201
+(40.683019149000074, -73.97178587799993)"
+Brookdale Hospital Medical Center ALP,558-578 Rockaway Parkway,Kings,Brooklyn,11212,(718) 240-6225,(718) 240-6851,AF0212A,Brookdale Hospital Medical Center,331-S-001,43,43,0,0,0,EHP/ALP,NFP,MARO,"558-578 Rockaway Parkway
+Brooklyn, NY 11212
+(40.65454007400007, -73.91289655499997)"
+Brooklyn Terrace,2316 Surf Avenue,Kings,Brooklyn,11224,(718) 996-8400,(718) 996-8403,AF0409B,"Brooklyn Terrace, LLC",331-F-290,200,0,0,0,0,AH,PPHA,MARO,"2316 Surf Avenue
+Brooklyn, NY 11224
+(40.57380119600003, -73.99027005899995)"
+The Belvedere,5110 19th Avenue,Kings,Brooklyn,11204,(718) 223-1800,(718) 223-1801,AF0367B,Boro Park Senior Living Community LLC,331-F-288,200,0,200,50,32,AH,PPHA,MARO,"5110 19th Avenue
+Brooklyn, NY 11204
+(40.62572436200003, -73.97992168499997)"
+Amber Court of Brooklyn,650 East 104th Street,Kings,Brooklyn,11236,(718) 649-0700,(718) 649-4441,AF0425B,"Amber Court of Brooklyn, LLC",331-F-284,224,116,0,0,0,AH/ALP,PPHA,MARO,"650 East 104th Street
+Brooklyn, NY 11236
+(40.64911541600003, -73.89778917399997)"
+Kings Adult Care Center,2255 Cropsey Avenue,Kings,Brooklyn,11214,(718) 266-5858,(718) 266-6406,AF0205C,"Kings Adult Care Center, LLC",331-F-281,200,200,0,0,0,AH/ALP,PPHA,MARO,"2255 Cropsey Avenue
+Brooklyn, NY 11214
+(40.595902040000055, -73.99699169299998)"
+Garden of Eden Assisted Living Program,1608-1620 Stillwell Avenue,Kings,Brooklyn,11223,(718) 236-5757,(718) 236-1985,AF0251B,"Garden of Eden Home, LLC",331-F-280,201,200,0,0,0,AH/ALP,PPHA,MARO,"1608-1620 Stillwell Avenue
+Brooklyn, NY 11223
+(40.606969579000065, -73.98723321199998)"
+Brooklyn Adult Care Center,2830 Pitkin Avenue,Kings,Brooklyn,11208,(718) 235-0900,(718) 235-5916,AF0213B,"Gefen ACF, LLC",331-F-278,210,200,0,0,0,AH/ALP,PPHA,MARO,"2830 Pitkin Avenue
+Brooklyn, NY 11208
+(40.67599973700004, -73.86747623199994)"
+Mermaid Manor Home for Adults,3602 Mermaid Avenue,Kings,Brooklyn,11224,(718) 266-2100,(718) 266-2103,AF0311B,"Mermaid Manor Home for Adults, LLC",331-F-276,200,199,0,0,0,AH/ALP,PPHA,MARO,"3602 Mermaid Avenue
+Brooklyn, NY 11224
+(40.57468462000003, -74.00196793099997)"
+The Waterford on the Bay,2900 Bragg Street,Kings,Brooklyn,11235,(718) 891-8400,(718) 769-1006,AF0351B,"The Palm Home for Adults, LLC",331-F-272,200,44,156,156,38,AH/ALP,PPHA,MARO,"2900 Bragg Street
+Brooklyn, NY 11235
+(40.58351468800004, -73.93290525199995)"
+Oceanview Manor Home for Adults,3010 West 33rd Street,Kings,Brooklyn,11224,(718) 996-1500,(718) 946-9102,AF0383B,"Oceanview Home for Adults, Inc.",331-F-270,176,169,0,0,0,AH/ALP,PPHA,MARO,"3010 West 33rd Street
+Brooklyn, NY 11224
+(40.57265714600004, -73.99921687499995)"
+New South Shore Manor,1041 East 83rd Street,Kings,Brooklyn,11236,(718) 241-7035,(718) 241-7039,AF0332A,"Katz, George",331-F-266,74,0,0,0,0,AH,PPHA,MARO,"1041 East 83rd Street
+Brooklyn, NY 11236
+(40.634598803000074, -73.90844916799995)"
+Signature Senior Living,631 Foster Avenue,Kings,Brooklyn,11230,(718) 859-2400,(718) 859-7911,AF0382B,"SMACF, Inc.",331-F-022,199,0,0,0,0,AH,PPHA,MARO,"631 Foster Avenue
+Brooklyn, NY 11230
+(40.63051582000003, -73.97052285799998)"
+St. Nicholas Home,437 Ovington Avenue,Kings,Brooklyn,11209,(718) 238-8141,(718) 680-2035,AF0404A,St. Nicholas Home Inc.,331-E-125,75,0,0,0,0,AH,NFP,MARO,"437 Ovington Avenue
+Brooklyn, NY 11209
+(40.633247922000066, -74.02275895899999)"
+Harbor View Home for Adults,3900 Shore Parkway,Kings,Brooklyn,11235,(718) 769-9700,(718) 934-0680,AF0261B,"Harbor View Senior Living Residence, LLC",331-F-282,162,0,0,0,0,AH,PPHA,MARO,"3900 Shore Parkway
+Brooklyn, NY 11235
+(40.58520417400007, -73.93068725499995)"
+Norwegian Christian Home and Health Care Center,1250-1270 67th Street,Kings,Brooklyn,11219,(718) 232-2322,(718) 331-5111,AF0337A,Norwegian Christian,331-E-030,88,88,0,0,0,AH/ALP,NFP,MARO,"1250-1270 67th Street
+Brooklyn, NY 11219
+(40.625155050000046, -74.00334669399996)"
+East Road Adult Home,7731 East Road,Lewis,Lowville,13367,(315) 376-7072,(855) 277-4713,AF0038B,Homes for Humanity Holdings 1 LLC,340-F-019,20,0,0,0,0,AH,PPHA,CNYRO,"7731 East Road
+Lowville, NY 13367
+(43.84366586800007, -75.51284181599993)"
+Morgan Estates,4588 Morgan View Road,Livingston,Geneseo,14454,(585) 243-6000,(585) 243-0286,AF0535A,"Bruckel, Peter S.",350-F-008,78,0,78,39,27,AH,PPHA,WRO,"4588 Morgan View Road
+Geneseo, NY 14454
+(42.79580055000008, -77.77804936299998)"
+Alpine Manor,2714 Poplar Hill Road,Livingston,Lima,14485,(585) 346-5880,(585) 346-5011,AF0441A,"Kinsella, Louise",350-F-001,41,0,0,0,0,AH,PPHA,WRO,"2714 Poplar Hill Road
+Lima, NY 14485
+(42.86910998700006, -77.65517675399997)"
+Hamilton Manor Home for Adults,8196 Green Road,Madison,Hubbardsville,13355,(315) 691-4051,(315) 691-3043,AF0052B,8196 Green Road LLC,360-F-010,38,0,0,0,0,AH,PPHA,CNYRO,"8196 Green Road
+Hubbardsville, NY 13355
+(42.81533973100005, -75.45678161999996)"
+Seniorfirst Assisted Living at Valley Manor,1530 East Avenue,Monroe,Rochester,14610,(585) 770-1953,(585) 442-6177,AF0685A,Presbyterian Resident Center Corporation,370-S-853,13,0,13,0,0,EHP,NFP,WRO,"1530 East Avenue
+Rochester, NY 14610
+(43.14736506100007, -77.56296423899994)"
+Heathwood Assisted Living at Penfield,100 Elderwood Court,Monroe,Penfield,14526,(585) 425-9663,(585) 388-8632,AF0676B,"Heathwood Assisted Living at Penfield, Inc.",370-S-852,151,25,151,25,24,EHP/ALP,PPHA,WRO,"100 Elderwood Court
+Penfield, NY 14526
+(43.13682980600004, -77.44018604799999)"
+Legacy at Maiden Park,749 Maiden Lane,Monroe,Rochester,14615,(585) 546-7275,(520) 797-7757,AF0746B,"Rochester Operating Company, LLC",370-F-254,98,0,98,39,26,AH,PPHA,WRO,"749 Maiden Lane
+Rochester, NY 14615
+(43.22369348700005, -77.66430830699994)"
+Emeritus at the Landing of Brockport,90 West Avenue,Monroe,Brockport,14420,(585) 637-3140,(585) 637-3145,AF0567B,Wegman Family (Brockport) LLC II,370-S-849,114,0,114,80,34,EHP,PPHA,WRO,"90 West Avenue
+Brockport, NY 14420
+(43.22010747000007, -77.94188176999995)"
+The Village at Mill Landing,45 Mill Road,Monroe,Rochester,14626,(585) 720-3033,(585) 720-3031,AF0748A,WRP Operating Greece LLC,370-S-859,150,0,150,75,55,EHP,PPHA,WRO,"45 Mill Road
+Rochester, NY 14626
+(43.23114237300007, -77.70093621199999)"
+The Northfield,4560 Nine Mile Point Road,Monroe,Fairport,14450,(585) 377-1810,(585) 232-3062,AF0632A,"Family Services of Rochester, Inc.",370-S-847,79,0,0,0,0,EHP,NFP,WRO,"4560 Nine Mile Point Road
+Fairport, NY 14450
+(43.11232238800005, -77.44170288299995)"
+Glenmere at Cloverwood,One Wheatley Terrace,Monroe,Pittsford,14534,(585) 248-1200,(585) 248-1101,AF0626A,"Cloverwood Senior Living, Inc.",370-S-845,77,0,77,19,19,EHP,NFP,WRO,"One Wheatley Terrace
+Pittsford, NY 14534
+(43.08349633300003, -77.54494445799997)"
+Seabury Woods,110 Dalaker Drive,Monroe,Rochester,14624,(585) 426-4950,(585) 429-4625,AF0593A,"CH Services, Inc.",370-S-841,85,0,85,8,24,EHP,NFP,WRO,"110 Dalaker Drive
+Rochester, NY 14624
+(43.140001547000054, -77.74180199999995)"
+Brentland Woods,3831 East Henrietta Road,Monroe,Henrietta,14467,(585) 321-1490,(585) 321-3289,AF0455A,"CH Services, Inc.",370-S-838,60,0,0,0,0,EHP,NFP,WRO,"3831 East Henrietta Road
+Henrietta, NY 14467
+(43.046986170000025, -77.61908942999997)"
+Greece Long Pond Senior Housing,1 GBC Parkway,Monroe,Rochester,14626,(585) 227-3007,(585) 227-1307,AF0734A,"Family Service of Rochester, Inc.",370-S-857,30,0,0,0,0,EHP,NFP,WRO,"1 GBC Parkway
+Rochester, NY 14626
+(43.16465100900007, -77.63095620399997)"
+Wolk Manor Enriched Living Center,4000 Summit Circle Drive,Monroe,Rochester,14618,(585) 442-1950,(585) 442-5095,AF0561A,"Jewish Home of Rochester Enriched Housing, Inc. and Jewish Senior Life",370-S-836,85,0,85,20,18,EHP,NFP,WRO,"4000 Summit Circle Drive
+Rochester, NY 14618
+(43.10534579500006, -77.58180107099997)"
+Laurelwood at the Highlands,300 Hahnemann Trail,Monroe,Pittsford,14534,(585) 389-1630,(585) 586-4758,AF0523A,Highland Community Development Corp.,370-S-835,68,0,68,0,0,EHP,NFP,WRO,"300 Hahnemann Trail
+Pittsford, NY 14534
+(43.08528602100006, -77.49672005599996)"
+The Landing of Brighton,1350 Westfall Road,Monroe,Rochester,14618,(585) 271-1925,(585) 242-0744,AF0716B,"Brighton Senior Care, LLC",370-S-197,121,0,121,44,34,EHP,PPHA,WRO,"1350 Westfall Road
+Rochester, NY 14618
+(43.115689459000066, -77.58261021399994)"
+The Hamlet at Park Ridge,1471 Long Pond Road,Monroe,Rochester,14626,(585) 723-7820,(585) 723-7118,AF0540A,"Park Ridge Housing, Inc.",370-S-193,66,0,66,0,21,EHP,NFP,WRO,"1471 Long Pond Road
+Rochester, NY 14626
+(43.196696864000046, -77.70141766799998)"
+Family Srvs/Rochester EHP3 Hudson-Ridge Towers,401 Seneca Manor Drive,Monroe,Rochester,14621,(585) 266-5610,(585) 232-3062,AF0496A,Family Services Of Rochester,370-S-191,47,0,0,0,0,EHP,NFP,WRO,"401 Seneca Manor Drive
+Rochester, NY 14621
+(43.19361267600004, -77.60364720499996)"
+Family Srvs/Rochester EHP1 Danforth Towers East,140 West Avenue,Monroe,Rochester,14611,(585) 436-9462,(585) 529-4863,AF0494A,Family Services Of Rochester,370-S-051,28,0,0,0,0,EHP,NFP,WRO,"140 West Avenue
+Rochester, NY 14611
+(43.150011523000046, -77.64179849999994)"
+Elderwood Village at Greece,1404 Long Pond Road,Monroe,Rochester,14626,(585) 225-7210,(585) 225-6411,AF0576D,"1404 Long Pond Road Operating Company, LLC",370-F-248,72,0,0,0,0,AH,PPHA,WRO,"1404 Long Pond Road
+Rochester, NY 14626
+(43.20081274000006, -77.69905348899994)"
+Grande'Vie Senior Living,2140 Five Mile Line Road,Monroe,Penfield,14526,(520) 797-4000,(520) 797-7757,AF0503C,"Rochester Operating Company, LLC",370-F-250,178,0,178,47,47,AH,PPHA,WRO,"2140 Five Mile Line Road
+Penfield, NY 14526
+(43.128195170000026, -77.47589602099998)"
+The Hawthorne,1 Johnsarbor Dr. E,Monroe,Rochester,14620,(585) 760-1300,(585) 241-0365,AF0762A,St. John's Meadows,370-S-861,42,0,42,42,0,EHP,NFP,WRO,"1 Johnsarbor Dr. E
+Rochester, NY 14620
+(43.12460350600003, -77.59874750499995)"
+Atria Greece,150 Towngate Road,Monroe,Rochester,14626,(585) 225-3010,(585) 225-3011,AF0551B,"ATR New York LH, Inc.",370-F-210,79,0,0,0,0,AH,PPHA,WRO,"150 Towngate Road
+Rochester, NY 14626
+(43.204844173000026, -77.69807302699996)"
+Family Srvs/Rochester EHP2 Jonathan Child Project,399 Colvin Avenue,Monroe,Rochester,14611,(585) 436-9462,(585) 529-4863,AF0495A,Family Services Of Rochester,370-S-132,30,24,0,0,0,EHP/ALP,NFP,WRO,"399 Colvin Avenue
+Rochester, NY 14611
+(43.15864488500006, -77.64125911399998)"
+Crimson Ridge Gardens,1 Treeline Drive,Monroe,Rochester,14612,(585) 720-9310,(585) 720-9311,AF0467B,"Peregrine Properties of Upstate, LLC",370-F-226,52,0,0,0,0,AH,PPHA,WRO,"1 Treeline Drive
+Rochester, NY 14612
+(43.25201928800004, -77.67436720599994)"
+Rochester Presbyterian Home,256 Thurston Road,Monroe,Rochester,14619,(585) 235-9100,(585) 235-1315,AF0547A,"Rochester Presbyterian Home, Inc.",370-E-022,102,0,102,22,65,AH,NFP,WRO,"256 Thurston Road
+Rochester, NY 14619
+(43.13989800000007, -77.65095233799997)"
+Westwood Commons Adult Home,50 Union Square Boulevard,Monroe,North Chili,14514,(585) 293-2060,(585) 293-2183,AF0577A,"DePaul Adult Care Communities, Inc.",370-E-196,120,0,0,0,0,AH,NFP,WRO,"50 Union Square Boulevard
+North Chili, NY 14514
+(43.11264509400007, -77.80939407199998)"
+Woodcrest Commons,4455 West Henrietta Road,Monroe,Henrietta,14467,(585) 334-1800,(585) 321-9395,AF0481A,"DePaul Adult Care Communities, Inc.",370-E-198,120,33,0,0,0,AH/ALP,NFP,WRO,"4455 West Henrietta Road
+Henrietta, NY 14467
+(43.06306723700004, -77.64970236599999)"
+RPH-West,48 Cottage Grove Circle,Monroe,North Chili,14514,(585) 235-9100,(585) 235-1315,AF0667A,"Rochester Presbyterian Home, Inc.",370-E-200,52,0,52,19,52,AH,NFP,WRO,"48 Cottage Grove Circle
+North Chili, NY 14514
+(43.11626000000007, -77.80450999999994)"
+Fairport Baptist Homes Adult Care Facility,4646 Nine Mile Point Road,Monroe,Fairport,14450,(585) 377-0350,(585) 377-2620,AF0670A,"Fairport Baptist Homes Adult Care Facility, Inc.",370-E-202,42,11,0,0,0,AH/ALP,NFP,WRO,"4646 Nine Mile Point Road
+Fairport, NY 14450
+(43.10902405300004, -77.44176037099999)"
+RPH East,20 Crossing Creek Drive,Monroe,Fairport,14450,(585) 223-0160,(585) 223-0140,AF0739A,"Rochester Presbyterian Home, Inc.",370-E-204,64,0,64,20,64,AH,NFP,WRO,"20 Crossing Creek Drive
+Fairport, NY 14450
+(43.09489000000008, -77.43909999999994)"
+Hilton East Assisted Living,231 East Avenue,Monroe,Hilton,14468,(585) 392-7171,(585) 392-3631,AF0515A,Hilton East Assisted Living LLC,370-F-208,205,119,0,0,0,AH/ALP,PPHA,WRO,"231 East Avenue
+Hilton, NY 14468
+(43.28994942300005, -77.78618202699994)"
+Elderwood Village at Fairport,7 Chardonnay Drive,Monroe,Fairport,14450,(518) 425-0210,(585) 425-0213,AF0541D,"7 Chardonnay Drive Operating Company, LLC",370-F-246,80,0,0,0,0,AH,PPHA,WRO,"7 Chardonnay Drive
+Fairport, NY 14450
+(43.06795575600006, -77.43631926699999)"
+Atria Penfield,2006 Five Mile Line Road,Monroe,Penfield,14526,(585) 381-0282,(585) 381-0788,AF0552C,"ATR New York LH, Inc.",370-F-212,120,0,0,0,0,AH,PPHA,WRO,"2006 Five Mile Line Road
+Penfield, NY 14526
+(43.138170943000034, -77.47562083599996)"
+Brookdale Pittsford,159 Sully's Trail,Monroe,Pittsford,14534,(585) 249-9990,(585) 249-9940,AF0468A,"Perinton Clare Bridge Operator, Inc.",370-F-217,52,0,0,0,0,AH,PPHA,WRO,"159 Sully's Trail
+Pittsford, NY 14534
+(43.05874431400008, -77.46686662999997)"
+Brookdale Liverpool,4055 Long Branch Road,Onondaga,Liverpool,13090,(315) 451-3221,(315) 457-0305,AF0189C,"Painted Post, LLC",520-F-165,80,0,0,0,0,AH,PPHA,CNYRO,"4055 Long Branch Road
+Liverpool, NY 13090
+(43.12522299900007, -76.23291697499997)"
+Heather Heights of Pittsford,160 West Jefferson Road,Monroe,Pittsford,14534,(585) 264-1600,(585) 264-1010,AF0508A,"Heather Heights of Pittsford, Inc.",370-F-220,120,0,120,120,24,AH,PPHA,WRO,"160 West Jefferson Road
+Pittsford, NY 14534
+(43.087173439000026, -77.53198346399995)"
+Crimson Ridge Meadows,3 Treeline Drive,Monroe,Rochester,14612,(585) 720-9330,(585) 720-9331,AF0604B,"Peregrine Properties of Upstate, LLC",370-F-227,52,0,0,0,0,AH,PPHA,WRO,"3 Treeline Drive
+Rochester, NY 14612
+(43.25108921100008, -77.67452619199997)"
+Rainier Grove at Cherry Ridge,900 Cherry Ridge Road,Monroe,Webster,14580,(585) 697-6700,(585) 671-8255,AF0635A,"The Glen at Cherry Ridge, LLC",370-F-229,87,0,87,15,26,AH,PPHA,WRO,"900 Cherry Ridge Road
+Webster, NY 14580
+(43.20841371300003, -77.46987355499994)"
+Grande'ville Senior Living Community,555 Maiden Lane,Monroe,Rochester,14616,(585) 621-6160,(585) 621-8002,AF0504B,"Grande'ville Senior Living Community, LLC",370-F-230,115,0,115,30,35,AH,PPHA,WRO,"555 Maiden Lane
+Rochester, NY 14616
+(43.223729527000046, -77.65700841599994)"
+Sage Harbor at Baywinde,100 Kidd Castle Way,Monroe,Webster,14580,(585) 670-7000,(585) 787-2249,AF0549B,"SL Sage Harbor, LLC",370-F-236,88,0,88,0,24,AH,PPHA,WRO,"100 Kidd Castle Way
+Webster, NY 14580
+(43.19297849800006, -77.50892016299997)"
+Shire Senior Living Assisted Living Program,2515 Culver Road,Monroe,Rochester,14609,(585) 467-4544,(585) 338-2877,AF0554B,Shire Senior Living LLC,370-F-240,200,48,0,0,0,AH/ALP,PPHA,WRO,"2515 Culver Road
+Rochester, NY 14609
+(43.19289333200004, -77.56130797799995)"
+Cobbs Hill Manor,1175 Monroe Avenue,Monroe,Rochester,14620,(585) 851-8696,(585) 730-5397,AF0742A,"Cobbs Hill Manor, Inc.",370-F-242,118,75,0,0,0,AH/ALP,PPHA,WRO,"1175 Monroe Avenue
+Rochester, NY 14620
+(43.13802676100005, -77.57878634899998)"
+Legacy at Cranberry Landing,300 Cranberry Landing Drive,Monroe,Rochester,14609,(585) 244-3630,(520) 797-7757,AF0724B,"Rochester Operating Company, LLC",370-F-252,78,0,78,26,19,AH,PPHA,WRO,"300 Cranberry Landing Drive
+Rochester, NY 14609
+(43.18927328900003, -77.54924088999996)"
+Arkell Hall,55 Montgomery Street,Montgomery,Canajoharie,13317,(518) 673-5514,(518) 673-5612,AF0014A,Arkell Hall Foundation,380-E-002,24,0,0,0,0,AH,NFP,CDRO,"55 Montgomery Street
+Canajoharie, NY 13317
+(42.904294761000074, -74.56915347499995)"
+Hillcrest Spring Residential,"5052 Rte30 Upper Market St, POB 383",Montgomery,Amsterdam,12010,(518) 843-3770,(518) 843-3878,AF0060A,"Wolfe, Paul F.",380-F-043,80,40,0,0,0,AH/ALP,PPHA,CDRO,"5052 Rte30 Upper Market St, POB 383
+Amsterdam, NY 12010
+(42.95709346800004, -74.18559722599997)"
+Sarah Jane Sanford Home,69 Guy Park Avenue,Montgomery,Amsterdam,12010,(518) 842-3670,(518) 842-6340,AF0111A,The Home for Elderly Women of Montgomery County,380-E-011,40,0,0,0,0,AH,NFP,CDRO,"69 Guy Park Avenue
+Amsterdam, NY 12010
+(42.94140687500004, -74.19468240899994)"
+"The Sentinel at Amsterdam, LLC",10 Market Street,Montgomery,Amsterdam,12010,(518) 896-0010,(518) 896-0015,AF0754A,"Deer Run at River Ridge, LLC",380-F-047,150,120,30,30,0,AH/ALP,PPHA,CDRO,"10 Market Street
+Amsterdam, NY 12010
+(42.937919160000035, -74.19306192999994)"
+The Bristal at Massapequa,400 County Line Road,Nassau,Massapequa,11758,(516) 691-0706,(516) 691-7204,AF0647B,"EB CARE at Massapequa, LLC",400-F-315,84,0,0,0,0,AH,PPHA,MARO,"400 County Line Road
+Massapequa, NY 11758
+(40.686670710000044, -73.42596835899997)"
+Atria Park of Great Neck,51 Great Neck Road,Nassau,Great Neck,11021,(516) 829-4100,(516) 829-4989,AF0391B,"ATR New York LH, Inc.",400-S-326,162,0,162,81,49,EHP,PPHA,MARO,"51 Great Neck Road
+Great Neck, NY 11021
+(40.78579541700003, -73.72821822399999)"
+Rosewood on the Sound,59 Bayville Avenue,Nassau,Bayville,11709,(516) 628-1350,(516) 628-2839,AF0284B,"Rosewood on the Sound, LLC",400-F-333,50,0,50,22,0,AH,PPHA,MARO,"59 Bayville Avenue
+Bayville, NY 11709
+(40.910490217000074, -73.57376688399995)"
+Atria Plainview,12 Washington Avenue,Nassau,Plainview,11803,(516) 933-0002,(516) 933-0003,AF0223C,"ATR New York LH, Inc.",400-F-329,99,0,0,0,0,AH,PPHA,MARO,"12 Washington Avenue
+Plainview, NY 11803
+(40.77915403900005, -73.46617758199994)"
+Sunrise of North Lynbrook,53 Franklin Avenue,Nassau,Lynbrook,11563,(516) 596-2377,(516) 596-2378,AF0866A,"SZR New York LH, Inc.",400-F-328,138,0,138,138,29,AH,PPHA,MARO,"53 Franklin Avenue
+Lynbrook, NY 11563
+(40.669677972000045, -73.67292412399996)"
+Sunrise of Glen Cove,39 Forest Avenue,Nassau,Glen Cove,11542,(516) 656-0575,(516) 656-0574,AF0834A,"GWC-Glen Cove, Inc.",400-F-327,111,0,111,111,41,AH,PPHA,MARO,"39 Forest Avenue
+Glen Cove, NY 11542
+(40.871144007000055, -73.62674167799997)"
+Atria Lynbrook,100 Peninsula Boulevard,Nassau,Lynbrook,11563,(516) 596-2700,(516) 596-1408,AF0395B,"ATR New York LH, Inc.",400-F-326,200,0,0,0,0,AH,PPHA,MARO,"100 Peninsula Boulevard
+Lynbrook, NY 11563
+(40.65501378300007, -73.67856363299995)"
+Amber Court of Westbury,3400 Brush Hollow Road,Nassau,Westbury,11590,(516) 334-3838,(516) 334-3866,AF0366C,"Amber Court of Westbury, LLC",400-F-325,225,180,0,0,0,AH/ALP,PPHA,MARO,"3400 Brush Hollow Road
+Westbury, NY 11590
+(40.775247798000066, -73.56056601499995)"
+Sunrise of Plainview,1231 Old Country Road,Nassau,Plainview,11803,(516) 932-5151,(516) 932-1759,AF0836B,"GWC - Plainview, Inc.",400-F-323,65,0,65,65,17,AH,PPHA,MARO,"1231 Old Country Road
+Plainview, NY 11803
+(40.77645710000007, -73.46069392999993)"
+Amber Court of Westbury,3400 Brush Hollow Road,Nassau,Westbury,11590,(516) 334-3838,(516) 780-7162,AF0723A,"Amber Court of Westbury II, LLC",400-F-331,64,0,64,32,32,AH,PPHA,MARO,"3400 Brush Hollow Road
+Westbury, NY 11590
+(40.775247798000066, -73.56056601499995)"
+The Glen at Maple Pointe,260 Maple Avenue,Nassau,Rockville Center,11570,(516) 764-4848,(516) 764-4442,AF0607C,"Maple Pointe Senior Care, LLC",400-F-320,60,4,0,0,0,AH/ALP,PPHA,MARO,"260 Maple Avenue
+Rockville Center, NY 11570
+(40.65824557600007, -73.63183500999997)"
+Helen Keller National Center,111 Middle Neck Road,Nassau,Sands Point,11050,(516) 944-8900,(516) 944-7302,AF0264A,Helen Keller Services for the Blind,400-E-040,52,0,0,0,0,AH,NFP,MARO,"111 Middle Neck Road
+Sands Point, NY 11050
+(40.85467497800005, -73.69618401899999)"
+Oyster Bay Manor,150 South Street,Nassau,Oyster Bay,11771,(516) 624-0600,(516) 624-7764,AF0650A,"Oyster Bay Manor, Inc.",400-F-313,72,0,72,0,0,AH,PPHA,MARO,"150 South Street
+Oyster Bay, NY 11771
+(40.870866625000076, -73.53117358599997)"
+The Bristal at North Hills,99 South Service Road,Nassau,North Hills,11040,(516) 233-3100,(516) 233-3300,AF0643A,"Engel Burman Senior Housing at North Hills, Inc.",400-F-310,60,0,0,0,0,AH,PPHA,MARO,"99 South Service Road
+North Hills, NY 11040
+(40.77033193900007, -73.68798458799995)"
+The Arbors at Westbury,45 Jericho Turnpike,Nassau,Jericho,11753,(516) 333-6400,(516) 876-0473,AF0434C,"Arcadia Management, Inc.",400-F-307,200,0,200,0,0,AH,PPHA,MARO,"45 Jericho Turnpike
+Jericho, NY 11753
+(40.778052143000025, -73.56402814899997)"
+Atria Tanglewood,125 Ocean Avenue,Nassau,Lynbrook,11563,(516) 596-3400,(516) 536-0599,AF0639C,"ATR New York LH, Inc.",400-F-306,160,0,0,0,0,AH,PPHA,MARO,"125 Ocean Avenue
+Lynbrook, NY 11563
+(40.66327791500004, -73.65911948299998)"
+Harbor House,150 South Street,Nassau,Oyster Bay,11771,(516) 624-8400,(516) 624-2949,AF0808A,"Oyster Bay Senior Residence, Inc.",400-F-305,136,0,136,0,124,AH,PPHA,MARO,"150 South Street
+Oyster Bay, NY 11771
+(40.870866625000076, -73.53117358599997)"
+Long Beach Assisted Living,274 West Broadway,Nassau,Long Beach,11561,(516) 897-0140,(516) 897-0385,AF0267C,"Hempstead ALP, LLC",400-F-301,200,200,0,0,0,AH/ALP,PPHA,MARO,"274 West Broadway
+Long Beach, NY 11561
+(40.584536488000026, -73.67221799999999)"
+Island Assisted Living,800-820 Front Street,Nassau,Hempstead,11550,(516) 564-1100,(516) 564-5353,AF0715A,Newco ALP Inc.,400-E-295,200,200,0,0,0,AH/ALP,NFP,MARO,"800-820 Front Street
+Hempstead, NY 11550
+(40.70935353100003, -73.60180199999996)"
+The Regency at Glen Cove,94 School Street,Nassau,Glen Cove,11542,(516) 674-3007,(516) 674-4144,AF0422A,"National Healthplex, Inc.",400-E-290,105,0,105,25,0,AH,NFP,MARO,"94 School Street
+Glen Cove, NY 11542
+(40.86719341000003, -73.63073615399998)"
+Christian Fellowship House,369 Split Rock Road,Nassau,Syosset,11791,(516) 922-6040,(516) 922-6130,AF0224A,Christian Fellowship,400-E-264,45,0,0,0,0,AH,NFP,MARO,"369 Split Rock Road
+Syosset, NY 11791
+(40.83813290400008, -73.51422909099995)"
+Sunrise of East Meadow,1555 Glenn Curtiss Blvd.,Nassau,East Meadow,11554,(516) 542-0990,(516) 542-0999,AF0850B,"GWC - East Meadow, Inc.",400-F-322,107,0,107,107,26,AH,PPHA,MARO,"1555 Glenn Curtiss Blvd.
+East Meadow, NY 11554
+(40.71692304600003, -73.57545867299996)"
+Atria Cutter Mill,96 Cutter Mill Road,Nassau,Great Neck,11021,(516) 858-3023,(516) 773-8735,AF0747A,"ATR New York LH, Inc.",400-S-328,130,0,0,0,0,EHP,PPHA,MARO,"96 Cutter Mill Road
+Great Neck, NY 11021
+(40.784257583000056, -73.73233483199994)"
+The Bristal at East Meadow,40 Merrick Ave.,Nassau,East Meadow,11554,(516) 542-0800,(516) 465-0165,AF0416A,"Engel Burman Senior Housing at East Meadow, Inc.",400-S-299,151,0,151,37,22,EHP,PPHA,MARO,"40 Merrick Ave.
+East Meadow, NY 11554
+(40.721560460000035, -73.57639227199996)"
+The Bristal at Westbury,117 Post Ave.,Nassau,Westbury,11590,(516) 333-9828,(516) 918-4002,AF0418A,Westbury Senior Living Inc.,400-S-300,180,0,0,0,0,EHP,PPHA,MARO,"117 Post Ave.
+Westbury, NY 11590
+(40.75244628100006, -73.58780506599999)"
+The Bristal at North Woodmere,477 Hungry Harbor Road,Nassau,North Woodmere,11581,(516) 336-2600,(516) 792-5402,AF0621A,Hungry Harbor Care LLC,400-S-304,155,0,0,0,0,EHP,PPHA,MARO,"477 Hungry Harbor Road
+North Woodmere, NY 11581
+(40.64439654900008, -73.72348786199996)"
+The Bristal at North Hills,99 South Service Road,Nassau,North Hills,11040,(516) 233-3100,(516) 233-3300,AF0644A,"Engel Burman Senior Housing at North Hills, Inc.",400-S-309,140,0,0,0,0,EHP,PPHA,MARO,"99 South Service Road
+North Hills, NY 11040
+(40.77033193900007, -73.68798458799995)"
+St. Mary's Manor,60 Doughty Boulevard,Nassau,Inwood,11096,(516) 250-3234,,AF0651A,"St. Mary's Manor for Senior Citizen Housing Development Fund Company, Inc.",400-S-312,28,0,0,0,0,EHP,NFP,MARO,"60 Doughty Boulevard
+Inwood, NY 11096
+(40.613531144000035, -73.74581043099994)"
+The Bristal at Massapequa,400 County Line Road,Nassau,Massapequa,11758,(516) 691-0706,(516) 691-7204,AF0648B,"EB CARE at Massapequa, LLC",400-S-314,86,0,0,0,0,EHP,PPHA,MARO,"400 County Line Road
+Massapequa, NY 11758
+(40.686670710000044, -73.42596835899997)"
+The Glen at Maple Pointe,260 Maple Avenue,Nassau,Rockville Center,11570,(516) 764-4848,(516) 764-4442,AF0592C,"Maple Pointe Senior Care, LLC",400-S-316,83,36,0,0,0,EHP/ALP,PPHA,MARO,"260 Maple Avenue
+Rockville Center, NY 11570
+(40.65824557600007, -73.63183500999997)"
+Somerset Gardens,150 Sunnyside Boulevard,Nassau,Plainview,11803,(516) 576-3330,(516) 576-1112,AF0217D,"Somerset Gardens Senior Care, LLC",400-S-318,160,0,0,0,0,EHP,PPHA,MARO,"150 Sunnyside Boulevard
+Plainview, NY 11803
+(40.794454923000046, -73.46974053799994)"
+The Amsterdam at Harborside,300 East Overlook,Nassau,Port Washington,11050,(516) 472-6626,(516) 472-6698,AF0681A,"Amsterdam House CCRC, Inc.",400-S-320,55,0,55,0,18,EHP,NFP,MARO,"300 East Overlook
+Port Washington, NY 11050
+(40.827113893000046, -73.66497935499996)"
+The Bristal at Garden City,1001 Axinn Avenue,Nassau,Garden City,11530,(516) 570-7010,(516) 833-5514,AF0766A,"EB Care at Garden City, LLC",400-S-330,170,0,170,55,44,EHP,PPHA,MARO,"1001 Axinn Avenue
+Garden City, NY 11530
+(40.73978510000006, -73.60837690899996)"
+Atria Glen Cove,146 Glen Street,Nassau,Glen Cove,11542,(516) 671-7008,(516) 671-7810,AF0689B,"ATR New York LH, Inc.",400-S-324,128,0,0,0,0,EHP,PPHA,MARO,"146 Glen Street
+Glen Cove, NY 11542
+(40.86306190000005, -73.62458690799997)"
+Plattduetsche Home Society,1150 Hempstead Turnpike,Nassau,Franklin Square,11010,(516) 352-4252,(516) 352-8656,AF0362A,"Plattduetsche Altenheim Gesellschaft Von Brooklyn Und Umgegend, Inc.",400-E-028,91,0,0,0,0,AH,NFP,MARO,"1150 Hempstead Turnpike
+Franklin Square, NY 11010
+(40.708330438000075, -73.68348904399994)"
+The Bristal at Lynbrook,8 Freer Street,Nassau,Lynbrook,11563,(516) 593-2424,(516) 599-5594,AF0387D,"Lynbrook Senior Care, LLC",400-F-335,200,40,200,44,33,AH/ALP,PPHA,MARO,"8 Freer Street
+Lynbrook, NY 11563
+(40.65594854200003, -73.68390042199997)"
+The Bristal at Jericho,310 Jericho Turnpike,Nassau,Jericho,11753,(516) 219-8688,(516) 802-7160,AF0867A,"Engel Burman Senior Care at Jericho, LLC",400-S-332,200,0,200,60,45,EHP,PPHA,MARO,"310 Jericho Turnpike
+Jericho, NY 11753
+(40.79104221100005, -73.54152448599996)"
+Plattduetsche Home Society,1150 Hempstead Turnpike,Nassau,Franklin Square,11010,(516) 352-4252,(516) 352-8656,AF0361A,"Plattduetsche Altenheim Gesellschaft Von Brooklyn Und Umgegend, Inc.",400-S-290,90,0,0,0,0,EHP,NFP,MARO,"1150 Hempstead Turnpike
+Franklin Square, NY 11010
+(40.708330438000075, -73.68348904399994)"
+The Bristal at Lake Success,69 North Service Road,Nassau,Lake Success,11020,(516) 600-1800,(516) 600-1900,AF0750A,EB Care at Lake Success LLC,400-F-337,110,0,110,50,110,AH,PPHA,MARO,"69 North Service Road
+Lake Success, NY 11020
+(40.76992434600004, -73.70676365399999)"
+305 West End Assisted Living,305 West End Avenue,New York,New York,10023,(212) 874-5000,(646) 918-6936,AF0763A,305 West End Avenue Operating LLC,420-S-393,84,0,84,40,40,EHP,PPHA,MARO,"305 West End Avenue
+New York, NY 10023
+(40.78147812200007, -73.98328419199999)"
+Lott Assisted Living Residence,1261 Fifth Avenue,New York,New York,10029,(212) 534-6464,(212) 534-1184,AF0234B,Lott Assisted Living Operating Corp.,420-S-391,131,131,0,0,0,EHP/ALP,NFP,MARO,"1261 Fifth Avenue
+New York, NY 10029
+(40.79537793600008, -73.95027389199998)"
+Atria West 86,333 West 86th Street,New York,New York,10024,(212) 712-0200,(212) 712-0690,AF0675B,"ATR New York LH, Inc.",420-S-389,189,0,0,0,0,EHP,PPHA,MARO,"333 West 86th Street
+New York, NY 10024
+(40.78953315200005, -73.97933083699996)"
+Carnegie East House,1844 Second Avenue,New York,New York,10128,(212) 360-2275,(212) 410-5180,AF0598B,"Carnegie East House Housing Development Fund Company, Inc.",420-S-387,112,0,0,0,0,EHP,NFP,MARO,"1844 Second Avenue
+New York, NY 10128
+(40.78377297600008, -73.94739331099998)"
+Alma Rangel Gardens NY Foundation EHP#7,55 West 137th Street,New York,New York,10037,(917) 507-1108,(917) 507-1560,AF0594A,"New York Foundation for Senior Citizens, Inc.",420-S-381,42,0,0,0,0,EHP,NFP,MARO,"55 West 137th Street
+New York, NY 10037
+(40.81489015500006, -73.93863086599998)"
+NY Found-Sr Citizens EHP#4 Ridge Street Gardens,80-92 Ridge Street,New York,New York,10002,(212) 598-4148,(212) 598-4092,AF0341A,"New York Foundation for Senior Citizens, Inc.",420-S-375,47,0,0,0,0,EHP,NFP,MARO,"80-92 Ridge Street
+New York, NY 10002
+(40.71800756600004, -73.98364894099996)"
+West Seventy-Fourth Street Home,300 Amsterdam Avenue,New York,New York,10023,(212) 595-8983,(212) 595-0369,AF0433A,West Side Federation For Senior and Support Housing,420-E-254,95,0,0,0,0,AH,NFP,MARO,"300 Amsterdam Avenue
+New York, NY 10023
+(40.78008295400008, -73.98059433399999)"
+NY Found-Sr Citizens EHP#3,1850 Second Avenue,New York,New York,10128,(212) 369-5523,(212) 348-7451,AF0340A,"New York Foundation for Senior Citizens, Inc.",420-S-370,32,0,0,0,0,EHP,NFP,MARO,"1850 Second Avenue
+New York, NY 10128
+(40.78399496900005, -73.94724223899993)"
+NY Found-Sr Citizens EHP#2 Brown Gardens,225 East 93rd Street,New York,New York,10128,(212) 369-5523,(212) 410-4462,AF0339A,"New York Foundation for Senior Citizens, Inc.",420-S-272,47,0,0,0,0,EHP,NFP,MARO,"225 East 93rd Street
+New York, NY 10128
+(40.78279721400003, -73.94958067599998)"
+The 80th Street Residence,430 East 80th Street,New York,New York,10075,(212) 717-8888,(212) 585-3544,AF0242B,"Upper East Side Senior Residence, LLC",420-F-379,70,0,70,70,70,AH,PPHA,MARO,"430 East 80th Street
+New York, NY 10075
+(40.77231378600004, -73.95058299099998)"
+West Side Federation For Sr. and Supportive Housing,109 West 129th Street,New York,New York,10027,(212) 348-8513,(212) 860-4568,AF0368B,West Side Federation For Sr and Supportive Housing,420-E-377,99,0,0,0,0,AH,NFP,MARO,"109 West 129th Street
+New York, NY 10027
+(40.81062521400003, -73.94430086599994)"
+Frederic Fleming Residence,443-445 West 22nd Street,New York,New York,10011,(212) 242-5277,(212) 675-8619,AF0249A,West Side Federation For Senior Housing,420-E-374,47,0,0,0,0,AH,NFP,MARO,"443-445 West 22nd Street
+New York, NY 10011
+(40.74644515500006, -74.00319889899998)"
+NY Found-Sr Citizens EHP#5 Clinton Gardens,404-412 W. 54 St.- Clinton Gardens,New York,New York,10019,(212) 489-9339,(212) 489-9332,AF0336A,"New York Foundation for Senior Citizens, Inc.",420-S-376,47,0,0,0,0,EHP,NFP,MARO,"404-412 W. 54 St.- Clinton Gardens
+New York, NY 10019
+(40.76628281200004, -73.98787915899999)"
+Village Care at 46 and Ten,510 West 46th Street,New York,New York,10036,(212) 977-4600,(212) 977-4848,AF0423A,Village Housing Development Fund Corporation,420-S-379,89,89,0,0,0,EHP/ALP,NFP,MARO,"510 West 46th Street
+New York, NY 10036
+(40.762375629000076, -73.99414238299994)"
+"Briarwood Manor, Inc.",1001 Lincoln Avenue,Niagara,Lockport,14094,(716) 433-1513,(716) 433-8142,AF0457A,"Ferreri, Salvatore",500-F-092,160,160,20,0,20,AH/ALP,PPHA,WRO,"1001 Lincoln Avenue
+Lockport, NY 14094
+(43.153294509000034, -78.66872770599997)"
+Brookdale Niagara Assisted Living,6741 Nash Road,Niagara,North Tonawanda,14120,(716) 731-1634,(716) 731-1823,AF0872A,"SH Niagara Operator, Inc.",500-S-002,53,0,53,53,0,EHP,PPHA,WRO,"6741 Nash Road
+North Tonawanda, NY 14120
+(43.09739429000007, -78.86640145299998)"
+Mount View Assisted Living,5465 Upper Mountain Road,Niagara,Lockport,14094,(716) 433-0790,(716) 957-0324,AF0726A,"Mount View Assisted Living, Inc.",500-F-105,150,150,0,0,0,AH/ALP,PPHA,WRO,"5465 Upper Mountain Road
+Lockport, NY 14094
+(43.17393516100003, -78.73881527899994)"
+Elderwood Assisted Living at Wheatfield,2600 Niagara Falls Boulevard,Niagara,Niagara Falls,14304,(716) 731-2200,(716) 731-6590,AF0691B,"2600 Niagara Falls Boulevard AL Operating Company, LLC",500-F-103,65,37,0,0,0,AH/ALP,PPHA,WRO,"2600 Niagara Falls Boulevard
+Niagara Falls, NY 14304
+(43.092426499000055, -78.90623016299998)"
+Heritage Manor of Ransomville Assisted Living Program,3509 Ransomville Road,Niagara,Ransomville,14131,(716) 791-4211,(716) 791-3398,AF0510D,"Heritage Ransomville Management, LLC",500-F-099,142,88,0,0,0,AH/ALP,PPHA,WRO,"3509 Ransomville Road
+Ransomville, NY 14131
+(43.24445108400005, -78.90945230999995)"
+Heritage Manor of Lockport,41 Lexington Court,Niagara,Lockport,14094,(716) 433-7626,(716) 433-7769,AF0587A,"Heritage Management Associates, LLC",500-F-093,64,0,0,0,0,AH,PPHA,WRO,"41 Lexington Court
+Lockport, NY 14094
+(43.16237149300008, -78.66392346999999)"
+Wheatfield Commons,3920 Forest Parkway,Niagara,North Tonawanda,14120,(716) 475-7600,(716) 264-5624,AF0756A,"DePaul Adult Care Communities, Inc.",500-E-014,114,0,114,0,34,AH,NFP,WRO,"3920 Forest Parkway
+North Tonawanda, NY 14120
+(43.06273369100006, -78.83349118299998)"
+Lockport Presbyterian Home,327 High Street,Niagara,Lockport,14094,(716) 434-8805,(716) 434-6059,AF0524A,"Presbyterian Homes of Western NY, Inc.",500-E-008,60,0,0,0,0,AH,NFP,WRO,"327 High Street
+Lockport, NY 14094
+(43.16445550600008, -78.68485124699998)"
+Brookdale Niagara Memory Care,6751 Nash Road,Niagara,North Tonawanda,14120,(716) 731-1461,(716) 731-1521,AF0442A,"Niagara Sterling Cottage Operator, Inc.",500-F-095,40,0,0,0,0,AH,PPHA,WRO,"6751 Nash Road
+North Tonawanda, NY 14120
+(43.09680547900007, -78.86638146299998)"
+Lutheran Home of Central New York,108 Utica Road,Oneida,Clinton,13323,(315) 853-5515,(315) 853-1977,AF0075A,Lutheran Home of Central NY,510-E-007,68,0,0,0,0,AH,NFP,CNYRO,"108 Utica Road
+Clinton, NY 13323
+(43.05658365100004, -75.36501061199994)"
+Adirondack Manor HFA D.B.A. Willow Park HFA,1550 Herkimer Road,Oneida,Utica,13502,(315) 732-2257,(315) 733-8944,AF0009A,"Kane, James E.",510-F-055,60,45,0,0,0,AH/ALP,PPHA,CNYRO,"1550 Herkimer Road
+Utica, NY 13502
+(43.108060788000046, -75.16980658099999)"
+Lutheran Home Cottages,114 Utica Road,Oneida,Clinton,13323,(315) 801-5261,(315) 801-5262,AF0904A,"The Lutheran Home of Central New York, Inc.",510-E-009,14,0,14,14,14,AH,NFP,CNYRO,"114 Utica Road
+Clinton, NY 13323
+(43.05749532600004, -75.36367242299997)"
+Adirondack Manor Home for Adults,128 Main Street,Oneida,Camden,13316,(315) 245-1520,(315) 245-4764,AF0007A,"Kane, James E.",510-F-028,40,0,0,0,0,AH,PPHA,CNYRO,"128 Main Street
+Camden, NY 13316
+(43.33893148100003, -75.74860578999994)"
+Brookdale Clinton,115 Brookside Drive,Oneida,Clinton,13323,(315) 859-1947,(315) 859-1949,AF0013A,"Clinton Sterling Cottage Operator, Inc.",510-F-057,40,0,0,0,0,AH,PPHA,CNYRO,"115 Brookside Drive
+Clinton, NY 13323
+(43.03980045800006, -75.36023409899997)"
+The Terrace at Woodland,8299 Turin Road,Oneida,Rome,13440,(315) 336-0307,(315) 336-0338,AF0668A,"Forest Hill Associates, Inc.",510-F-059,60,16,44,0,12,AH/ALP,PPHA,CNYRO,"8299 Turin Road
+Rome, NY 13440
+(43.26472514000005, -75.46422283499999)"
+Masonic Home,2150 Bleecker Street,Oneida,Utica,13501,(315) 798-4800,(315) 798-4901,AF0079A,Trustees - Masonic Hall,510-E-033,96,0,0,0,0,AH,NFP,CNYRO,"2150 Bleecker Street
+Utica, NY 13501
+(43.08919982800006, -75.18947351799994)"
+Focus Senior Living at Utica,1445 Kemble Street,Oneida,Utica,13501,(315) 732-0100,(315) 732-2342,AF0073B,"Utica AH Operations Associates, LLC (Substitute Receiver)",510-S-061,110,87,0,0,0,EHP/ALP,PPHA,CNYRO,"1445 Kemble Street
+Utica, NY 13501
+(43.09318845200005, -75.24235080199998)"
+Pounder Hall EHP,1400 Utica Street,Oneida,Oriskany,13424,(315) 736-1759,(315) 768-4751,AF0095A,"Pounder Hall, Inc.",510-S-062,17,0,0,0,0,EHP,NFP,CNYRO,"1400 Utica Street
+Oriskany, NY 13424
+(43.161834415000044, -75.34112714899999)"
+"Cedarbrook Village, Incorporated",101 Sitrin Lane,Oneida,New Hartford,13413,(315) 737-2227,(315) 797-6955,AF0666A,"Cedarbrook Village, Incorporated",510-S-064,65,17,0,0,0,EHP/ALP,NFP,CNYRO,"101 Sitrin Lane
+New Hartford, NY 13413
+(43.07371000000006, -75.29492999999997)"
+Presbyterian Residential Community,4300 Middle Settlement Road,Oneida,New Hartford,13413,(315) 797-7500,(315) 792-9503,AF0097A,"Presbyterian Residential Community, Inc.",510-E-065,96,78,0,0,0,AH/ALP,NFP,CNYRO,"4300 Middle Settlement Road
+New Hartford, NY 13413
+(43.07338486200007, -75.34252700499997)"
+The Hearth on James,830 James Street,Onondaga,Syracuse,13203,(315) 422-2173,(315) 426-7583,AF0612B,"Hearth Management, LLC",520-S-135,60,0,0,0,0,EHP,PPHA,CNYRO,"830 James Street
+Syracuse, NY 13203
+(43.05685214300007, -76.13929532099996)"
+Park Terrace at Radisson,2981 Town Center Road,Onondaga,Baldwinsville,13027,(315) 638-9207,(315) 638-8507,AF0596B,"Park Terrace Operating, LLC",520-F-169,65,0,65,0,13,AH,PPHA,CNYRO,"2981 Town Center Road
+Baldwinsville, NY 13027
+(43.17883051900003, -76.29991199999995)"
+Peregrine Senior Living at Onondaga Hill,4701 Peregrine Way,Onondaga,Syracuse,13207,(315) 469-8900,(315) 422-1420,AF0761A,"Peregrine Senior Living Onondaga Hill, LLC",520-F-171,68,0,68,15,68,AH,PPHA,CNYRO,"4701 Peregrine Way
+Syracuse, NY 13207
+(43.00275121100003, -76.18907725499997)"
+Loretto EHP #1 Bernardine Apartments,417 Churchill Avenue,Onondaga,Syracuse,13205,(315) 469-7786,(315) 469-4048,AF0174A,"Loretto Adult Community, Inc.",520-S-054,148,108,0,0,0,EHP/ALP,NFP,CNYRO,"417 Churchill Avenue
+Syracuse, NY 13205
+(43.00846338300005, -76.13930313699996)"
+Loretto EHP #3 Nottingham,1301 Nottingham Road,Onondaga,Jamesville,13078,(315) 445-9242,(315) 446-5346,AF0176A,"Loretto Adult Community, Inc.",520-S-114,64,0,64,16,0,EHP,NFP,CNYRO,"1301 Nottingham Road
+Jamesville, NY 13078
+(43.01069278500006, -76.08408910599996)"
+E.R.I.E.  EHP #1 Toomey Abbott Tower,1207 Almond Street,Onondaga,Syracuse,13210,(315) 428-8562,(315) 425-0529,AF0155A,Enriched Resources for the Independent Elderly Inc,520-S-118,95,0,0,0,0,EHP,NFP,CNYRO,"1207 Almond Street
+Syracuse, NY 13210
+(43.03912697100003, -76.14093438699996)"
+Loretto Village Apts. Enriched Housing Site #5,750 East Brighton Avenue,Onondaga,Syracuse,13205,(315) 492-1329,(315) 492-6076,AF0178A,"Loretto Adult Community, Inc.",520-S-120,79,44,0,0,0,EHP/ALP,NFP,CNYRO,"750 East Brighton Avenue
+Syracuse, NY 13205
+(43.00581295200004, -76.13142726699994)"
+Manlius Home for Adults,215 East Pleasant Street,Onondaga,Manlius,13104,(315) 682-6725,(315) 682-3320,AF0179B,215 East Pleasant Street LLC,520-F-167,39,32,0,0,0,AH/ALP,PPHA,CNYRO,"215 East Pleasant Street
+Manlius, NY 13104
+(43.00324115900003, -75.97705713099998)"
+The Hearth at Greenpoint Senior Living,150 Old Liverpool Road,Onondaga,Liverpool,13088,(315) 453-7911,(315) 457-5602,AF0162B,Hearth Management LLC,520-S-129,139,0,0,0,0,EHP,PPHA,CNYRO,"150 Old Liverpool Road
+Liverpool, NY 13088
+(43.08282575900006, -76.18135107699999)"
+The Athenaeum of Skaneateles,150 Genesee Street,Onondaga,Skaneateles,13152,(315) 685-1400,(315) 685-1407,AF0661A,"Peregrine Properties of Skaneateles, LLC",520-F-159,16,0,0,0,0,AH,PPHA,CNYRO,"150 Genesee Street
+Skaneateles, NY 13152
+(42.944531608000034, -76.41881433099996)"
+Brookdale Manlius,100 Flume Road,Onondaga,Manlius,13104,(315) 682-9261,(315) 682-1129,AF0844A,"WW Manlius Operator, Inc.",520-S-137,86,0,86,86,0,EHP,PPHA,CNYRO,"100 Flume Road
+Manlius, NY 13104
+(43.00057019800005, -75.97885983199996)"
+Buckley Landing Enriched Housing Site #6,7430 Buckley Road,Onondaga,North Syracuse,13212,(315) 452-1207,(315) 452-5949,AF0151A,"Loretto Adult Community, Inc.",520-S-121,85,75,0,0,0,EHP/ALP,NFP,CNYRO,"7430 Buckley Road
+North Syracuse, NY 13212
+(43.13125618300006, -76.16370026099997)"
+Brookdale East Side,7164 East Genesee Street,Onondaga,Fayetteville,13066,(315) 637-5127,(315) 637-1429,AF0156C,"Painted Post, LLC",520-F-164,88,0,0,0,0,AH,PPHA,CNYRO,"7164 East Genesee Street
+Fayetteville, NY 13066
+(43.02880552700003, -76.02723664399997)"
+Kalet's Adult Home,504 Delaware Street,Onondaga,Syracuse,13204,(315) 479-7514,(315) 479-1058,AF0166B,"Kalet, Diane",520-F-161,45,0,0,0,0,AH,PPHA,CNYRO,"504 Delaware Street
+Syracuse, NY 13204
+(43.037548773000026, -76.16965874199997)"
+Camillus Ridge Terrace,2453 W. Genesee Turnpike,Onondaga,Camillus,13031,(315) 672-3790,(315) 672-5607,AF0645A,"Santiago, Jason",520-F-157,56,0,0,0,0,AH,PPHA,CNYRO,"2453 W. Genesee Turnpike
+Camillus, NY 13031
+(43.03601540400007, -76.33872367599997)"
+New Sunnyside Adult Home,7010 Collamer Road,Onondaga,East Syracuse,13057,(315) 656-8606,(315) 656-1483,AF0181B,"New Sunnyside Adult Home, Inc.",520-F-148,20,0,0,0,0,AH,PPHA,CNYRO,"7010 Collamer Road
+East Syracuse, NY 13057
+(43.10912049800004, -76.03750897999998)"
+Brookdale Fayetteville,5125 Highbridge Street,Onondaga,Fayetteville,13066,(315) 637-2000,(315) 637-2004,AF0153A,"Manlius Clare Bridge Operator, Inc.",520-F-145,52,0,0,0,0,AH,PPHA,CNYRO,"5125 Highbridge Street
+Fayetteville, NY 13066
+(43.019554604000064, -76.01142781199997)"
+Keepsake Village at  Greenpoint,138 Old Liverpool Road,Onondaga,Liverpool,13088,(315) 451-4567,(315) 453-1026,AF0163A,"Greenpoint Special Needs, Inc.",520-F-143,57,0,57,10,57,AH,PPHA,CNYRO,"138 Old Liverpool Road
+Liverpool, NY 13088
+(43.08284076800004, -76.18138264699996)"
+The Inn at Menorah Park,4101 East Genesee Street,Onondaga,Syracuse,13214,(315) 446-9111,(315) 446-1537,AF0838A,"Jewish Home of Central New York Senior Apartments, Inc.",520-E-095,61,0,61,0,0,AH,NFP,CNYRO,"4101 East Genesee Street
+Syracuse, NY 13214
+(43.036608984000054, -76.07414519199995)"
+McHarrie Pointe,7740 Meigs Road,Onondaga,Baldwinsville,13027,(315) 638-2521,(315) 638-2552,AF0674A,Syracuse Home Association,520-E-093,47,0,47,47,27,AH,NFP,CNYRO,"7740 Meigs Road
+Baldwinsville, NY 13027
+(43.144456372000036, -76.34504799099994)"
+Sedgwick Heights,1100 James Street,Onondaga,Syracuse,13203,(315) 475-4388,(315) 475-1911,AF0185A,"Loretto Adult Community, Inc.",520-E-091,154,149,0,0,0,AH/ALP,NFP,CNYRO,"1100 James Street
+Syracuse, NY 13203
+(43.06099512800006, -76.13089778099999)"
+Crossroads,120 Gifford Street,Onondaga,Syracuse,13202,(315) 701-3894,(315) 476-3615,AF0154A,"Rescue Mission Alliance of Syracuse New York, Inc.",520-E-088,59,0,0,0,0,AH,NFP,CNYRO,"120 Gifford Street
+Syracuse, NY 13202
+(43.04365746800005, -76.15484039199998)"
+Brookdale Bellevue,4330 Onondaga Boulevard,Onondaga,Syracuse,13219,(315) 468-5108,(315) 468-0663,AF0148C,"Painted Post, LLC",520-F-163,91,0,0,0,0,AH,PPHA,CNYRO,"4330 Onondaga Boulevard
+Syracuse, NY 13219
+(43.026648504000036, -76.21501980799997)"
+"Bickford Country Home, LLC",630 Curran Road,Ontario,Shortsville,14548,(315) 502-4076,(315) 597-5179,AF0751A,"Bickford Country Home, LLC",530-F-061,23,0,0,0,0,AH,PPHA,WRO,"630 Curran Road
+Shortsville, NY 14548
+(43.00643482000004, -77.21026672899995)"
+Ashton Place,190 Ashton Court,Ontario,Clifton Springs,14432,(315) 462-3140,(315) 462-5770,AF0634A,"Clifton Park Associates, LLC",530-S-005,60,0,0,0,0,EHP,PPHA,WRO,"190 Ashton Court
+Clifton Springs, NY 14432
+(42.96685055000006, -77.14186751099999)"
+Quail Summit,5102 Parrish Street Ext.,Ontario,Canandaigua,14424,(585) 396-1010,(585) 396-1741,AF0545A,"Quail Summit, Inc.",530-S-001,55,0,0,0,0,EHP,NFP,WRO,"5102 Parrish Street Ext.
+Canandaigua, NY 14424
+(42.872759389000066, -77.29562998099993)"
+Clark Meadows at Ferris Hills,One Clark Meadows,Ontario,Canandaigua,14424,(585) 393-4330,(585) 393-0567,AF0470A,"FF Thompson Senior Communities, Inc.",530-S-003,54,0,0,0,0,EHP,PPHA,WRO,"One Clark Meadows
+Canandaigua, NY 14424
+(42.88145578700005, -77.28207033499996)"
+Horizons,3132 State Route 21 South,Ontario,Canandaigua,14424,(585) 396-3390,(585) 396-7332,AF0517A,"DePaul Adult Care Communities, Inc.",530-E-051,76,25,0,0,0,AH/ALP,NFP,WRO,"3132 State Route 21 South
+Canandaigua, NY 14424
+(42.89681440800007, -77.26726964899996)"
+The Clark Manor House,318 Fort Hill Avenue,Ontario,Canandaigua,14424,(585) 394-0965,(585) 394-3575,AF0469A,The Clark Manor House,530-E-002,17,0,0,0,0,AH,NFP,WRO,"318 Fort Hill Avenue
+Canandaigua, NY 14424
+(42.89969047000005, -77.27367873799994)"
+Seneca Lake Terrace Assisted Living Center,3670 Pre-emption Road County Rd. #6,Ontario,Geneva,14456,(315) 789-4162,(315) 781-1494,AF0550B,"Seneca Lake Terrace Operating, LLC",530-F-059,66,0,53,0,12,AH,PPHA,WRO,"3670 Pre-emption Road County Rd. #6
+Geneva, NY 14456
+(42.85230271700004, -77.01057598099999)"
+Promenade at Tuxedo Place,40 Hospital Road,Orange,Tuxedo,10987,(845) 735-6846,(845) 735-6855,AF0683A,"Promenade Tuxedo, LLC",540-F-030,89,49,0,0,0,AH/ALP,PPHA,MARO,"40 Hospital Road
+Tuxedo, NY 10987
+(41.19033635900007, -74.18613911599994)"
+"Glen Arden, Inc.",214 Harriman Drive,Orange,Goshen,10924,(845) 291-7822,(845) 291-7878,AF0631A,"Glen Arden, Inc.",540-S-003,28,0,0,0,0,EHP,NFP,MARO,"214 Harriman Drive
+Goshen, NY 10924
+(41.38730879000008, -74.31542664399996)"
+The Sentinel of Port Jervis,2247 Greenville Turnpike,Orange,Port Jervis,12771,(845) 896-0400,(845) 896-0410,AF0905A,"The Sentinel of Port Jervis, LLC",540-F-040,160,100,60,40,0,AH/ALP,PPHA,MARO,"2247 Greenville Turnpike
+Port Jervis, NY 12771
+(41.352471183000034, -74.68046390499995)"
+The W Senior Living at Goshen,46 Harriman Drive,Orange,Goshen,10924,(845) 388-1251,(845) 291-3737,AF0196B,"The W Group of Goshen, LLC",540-F-038,120,0,0,0,0,AH,PPHA,MARO,"46 Harriman Drive
+Goshen, NY 10924
+(41.38936116000008, -74.31930736599998)"
+Braemar Living at Wallkill,21 Riverside Drive,Orange,Middletown,10941,(914) 305-2230,(845) 695-5601,AF0722A,"The Hamlet at Wallkill, LLC",540-F-036,200,80,120,60,24,AH/ALP,PPHA,MARO,"21 Riverside Drive
+Middletown, NY 10941
+(41.44953262300004, -74.34944924299998)"
+Promenade at Middletown,70 Fulton Street,Orange,Middletown,10940,(845) 341-1888,(845) 344-5577,AF0399B,Promenade Middletown LLC,540-F-032,200,122,0,0,0,AH/ALP,PPHA,MARO,"70 Fulton Street
+Middletown, NY 10940
+(41.44141945300004, -74.42043843099998)"
+The Eliot at Erie Station ALP,10 - 18 John Street,Orange,Middletown,10940,(845) 342-2077,(845) 342-2091,AF0414B,"The Eliot Management Group, LLC",540-F-028,96,71,25,25,0,AH/ALP,PPHA,MARO,"10 - 18 John Street
+Middletown, NY 10940
+(41.44815424700005, -74.41966596299994)"
+New Windsor Country Inn,450 Temple Hill Road P.O. Box 4328,Orange,New Windsor,12553,(845) 565-8110,(845) 565-7949,AF0333A,"Lockwood, Paul M.",540-F-026,86,0,0,0,0,AH,PPHA,MARO,"450 Temple Hill Road P.O. Box 4328
+New Windsor, NY 12553
+(41.478476933000024, -74.06342961099995)"
+Mount Alverno Center,20 Grand Street,Orange,Warwick,10990,(845) 986-2267,(845) 986-3604,AF0322A,"St. Francis Center At The Knolls, Inc.",540-E-051,85,55,0,0,0,AH/ALP,NFP,MARO,"20 Grand Street
+Warwick, NY 10990
+(41.26254940300004, -74.36228873199997)"
+"Carlucci Homes, Inc.",516 Mullock Road,Orange,Port Jervis,12771,(914) 443-6835,(845) 355-7700,AF0830A,"Carlucci Homes, Inc.",540-F-034,23,0,23,19,0,AH,PPHA,MARO,"516 Mullock Road
+Port Jervis, NY 12771
+(41.40154744800003, -74.56683901299994)"
+Cloverhill Adult Home,355 South Main Street,Orleans,Albion,14411,(585) 589-7832,(585) 589-7832,AF0473A,"Johnson, Alan R.",550-F-002,44,0,0,0,0,AH,PPHA,WRO,"355 South Main Street
+Albion, NY 14411
+(43.23478611100006, -78.19403029999995)"
+Apple Gate Adult Home,400 Ohio Street,Orleans,Medina,14103,(585) 798-3420,(585) 798-5662,AF0443A,"Johnson, Alan R.",550-F-004,28,0,0,0,0,AH,PPHA,WRO,"400 Ohio Street
+Medina, NY 14103
+(43.221197940000025, -78.39705645899994)"
+The Willows,459 East Oak Orchard Street,Orleans,Medina,14103,(585) 798-5233,(585) 798-5827,AF0580B,"Blue Heron Enterprises,  LLC",550-F-005,24,0,0,0,0,AH,PPHA,WRO,"459 East Oak Orchard Street
+Medina, NY 14103
+(43.21568554100003, -78.37295851799996)"
+St. Francis Commons,12 Burkle Street,Oswego,Oswego,13126,(315) 326-0870,(315) 349-0797,AF0710A,"St. Francis Commons, Inc.",560-E-009,60,60,60,0,14,AH/ALP,NFP,CNYRO,"12 Burkle Street
+Oswego, NY 13126
+(43.44790054100008, -76.49433937499998)"
+The Gardens by Morningstar,132 Ellen Street,Oswego,Oswego,13126,(315) 343-0880,(315) 207-2500,AF0735A,"The Gardens by Morningstar, LLC",560-F-042,106,86,0,0,0,AH/ALP,PPHA,CNYRO,"132 Ellen Street
+Oswego, NY 13126
+(43.44411252700007, -76.51255092499997)"
+Bishop's Commons at St. Luke,4 Burkle Street,Oswego,Oswego,13126,(315) 349-0799,(315) 349-0797,AF0829A,"Bishop's Commons, Inc.",560-S-002,68,0,0,0,0,EHP,NFP,CNYRO,"4 Burkle Street
+Oswego, NY 13126
+(43.44758512200008, -76.49540264199999)"
+Clara Welch Thanksgiving Home,48 Grove Street,Otsego,Cooperstown,13326,(607) 547-8844,(607) 547-9306,AF0028A,"Clara Welch Thanksgiving Home, Inc.",570-E-002,26,0,0,0,0,AH,NFP,CDRO,"48 Grove Street
+Cooperstown, NY 13326
+(42.69792750800008, -74.93377556699994)"
+"Woodside Hall, LLC",1 Main Street,Otsego,Cooperstown,13326,(607) 547-0600,(607) 547-0601,AF0664A,Woodside Hall LLC,570-F-044,37,0,0,0,0,AH,PPHA,CDRO,"1 Main Street
+Cooperstown, NY 13326
+(42.69931283000005, -74.91657370399997)"
+Hampshire House Adult Home,1846 County Highway 48,Otsego,Oneonta,13820,(607) 432-6171,(607) 432-5045,AF0053B,Hampshire House Operating Corporation,570-F-048,65,0,0,0,0,AH,PPHA,CDRO,"1846 County Highway 48
+Oneonta, NY 13820
+(42.43959413300007, -75.08112705699995)"
+Heritage at The Plains at Parish Homestead,163 Heritage Circle,Otsego,Oneonta,13820,(607) 267-4013,(607) 267-4971,AF0678B,"CSL Heritage AL, Inc.",570-F-051,53,0,53,0,16,AH,PPHA,CDRO,"163 Heritage Circle
+Oneonta, NY 13820
+(42.44431367900006, -75.11341539599994)"
+Robynwood Assisted Living,43 Walnut Street,Otsego,Oneonta,13820,(607) 432-6387,(607) 643-0195,AF0100C,Robynwood ALP LLC,570-F-053,49,39,0,0,0,AH/ALP,PPHA,CDRO,"43 Walnut Street
+Oneonta, NY 13820
+(42.45762342100005, -75.05886150999999)"
+The Plaza at Clover Lake,838 Fair Street,Putnam,Carmel,10512,(845) 878-4111,(845) 878-4333,AF0696A,"Clover Lake Management, LLC",580-F-001,175,135,40,0,0,AH/ALP,PPHA,MARO,"838 Fair Street
+Carmel, NY 10512
+(41.470798254000044, -73.63922264999997)"
+Gallagher Home,517 North Lake Boulevard,Putnam,Mahopac,10541,(845) 628-7000,(845) 628-3132,AF0730A,"Lake Mahopac Heights, LLC",580-F-003,16,0,0,0,0,AH,PPHA,MARO,"517 North Lake Boulevard
+Mahopac, NY 10541
+(41.39106075600006, -73.73500080299993)"
+Boulevard ALP,71-61 159th Street,Queens,Flushing,11365,(718) 969-8102,(718) 969-8128,AF0629B,Queens Boulevard ALP LLC,590-S-317,239,200,0,0,0,EHP/ALP,PPHA,MARO,"71-61 159th Street
+Flushing, NY 11365
+(40.72847517200006, -73.80992294499998)"
+"Central Assisted Living, LLC",1509 Central Avenue,Queens,Far Rockaway,11691,(718) 471-7700,(718) 471-7732,AF0326B,"Central Assisted Living, LLC",590-F-322,186,186,0,0,0,AH/ALP,PPHA,MARO,"1509 Central Avenue
+Far Rockaway, NY 11691
+(40.605691654000054, -73.75124607099997)"
+Castle Senior Living at Forest Hills,108-25 Horace Harding Expressway,Queens,Forest Hills,11368,(718) 760-4600,(718) 592-1808,AF0219D,"Midway A.L., LLC",590-F-324,20,0,0,0,0,AH,PPHA,MARO,"108-25 Horace Harding Expressway
+Forest Hills, NY 11368
+(40.737821395000026, -73.85180856099998)"
+"Sutton Gardens, LLC",147-02 34th Avenue,Queens,Flushing,11354,(718) 461-1923,(718) 461-7617,AF0238C,"Sutton Gardens, LLC",590-F-326,47,0,47,47,0,AH,PPHA,MARO,"147-02 34th Avenue
+Flushing, NY 11354
+(40.76737661200008, -73.81973613599996)"
+Long Island Living Center,431 Beach 20th Street,Queens,Far Rockaway,11691,(718) 327-2700,(718) 327-2223,AF0298B,"Long Island Living Center, LLC",590-F-328,306,115,0,0,0,AH/ALP,PPHA,MARO,"431 Beach 20th Street
+Far Rockaway, NY 11691
+(40.598982302000024, -73.75425492299996)"
+River View Gardens NY Foundation EHP #8,4-12 49th Avenue,Queens,Long Island City,11101,(718) 361-8442,(718) 361-8534,AF0654A,"New York Foundation for Senior Citizens, Inc.",590-S-303,46,0,0,0,0,EHP,NFP,MARO,"4-12 49th Avenue
+Long Island City, NY 11101
+(40.74419957400005, -73.95823704399999)"
+Brandywine Assisted Living at The Savoy,55-15 Little Neck Parkway,Queens,Little Neck,11362,(718) 423-7900,(718) 423-5050,AF0380B,"Brandywine Assisted Living at The Savoy, LLC",590-S-305,160,0,160,160,37,EHP,PPHA,MARO,"55-15 Little Neck Parkway
+Little Neck, NY 11362
+(40.76504706500003, -73.72442806299995)"
+Castle Senior Living at Forest Hills,108-25 Horace Harding Expressway,Queens,Forest Hills,11368,(718) 760-4600,(718) 592-1808,AF0218D,"Midway A.L., LLC",590-S-307,177,129,0,0,0,EHP/ALP,PPHA,MARO,"108-25 Horace Harding Expressway
+Forest Hills, NY 11368
+(40.737821395000026, -73.85180856099998)"
+Atria Kew Gardens,117-01 84th Avenue,Queens,Kew Gardens,11418,(718) 441-0300,(718) 441-5140,AF0810B,"ATR New York LH, Inc.",590-S-315,175,0,175,47,43,EHP,PPHA,MARO,"117-01 84th Avenue
+Kew Gardens, NY 11418
+(40.704011034000075, -73.83441764399998)"
+Madison York Home for Adults,61-80 Woodhaven Boulevard,Queens,Rego Park,11374,(718) 446-4300,(718) 899-8126,AF0299B,"Madison York Rego Park, LLC",590-F-321,202,200,0,0,0,AH/ALP,PPHA,MARO,"61-80 Woodhaven Boulevard
+Rego Park, NY 11374
+(40.72749168000007, -73.87097442799995)"
+Sanford Home,140-40 Sanford Avenue,Queens,Flushing,11355,(718) 353-1400,(718) 353-1495,AF0379B,"Sanford Home for Adults, LLC",590-F-142,200,0,0,0,0,AH,PPHA,MARO,"140-40 Sanford Avenue
+Flushing, NY 11355
+(40.757491050000056, -73.82565121099998)"
+Atria Forest Hills,112-50 72nd Avenue,Queens,Forest Hills,11375,(718) 261-5300,(718) 261-5457,AF0437C,"ATR New York LH, Inc.",590-S-313,90,0,0,0,0,EHP,PPHA,MARO,"112-50 72nd Avenue
+Forest Hills, NY 11375
+(40.72207520000006, -73.83712139399995)"
+New Haven Manor,1526 New Haven Avenue,Queens,Far Rockaway,11691,(718) 471-7200,(718) 471-7650,AF0328B,"New Haven Manor Home for Adults, LLC",590-F-172,123,0,0,0,0,AH,PPHA,MARO,"1526 New Haven Avenue
+Far Rockaway, NY 11691
+(40.59935447700008, -73.74955157099998)"
+"Madison York Assisted Living Community, LLC",112-14 Corona Avenue,Queens,Flushing,11368,(718) 699-4100,(718) 899-8126,AF0381C,"Madison York Assisted Living Community, LLC",590-F-320,226,200,0,0,0,AH/ALP,PPHA,MARO,"112-14 Corona Avenue
+Flushing, NY 11368
+(40.739990326000054, -73.84824753799995)"
+New Gloria's Manor Home for Adults,140 Beach 119th Street,Queens,Rockaway Park,11694,(718) 945-5700,(718) 945-6086,AF0327B,Gloria's Manor LLC,590-F-307,172,0,0,0,0,AH,PPHA,MARO,"140 Beach 119th Street
+Rockaway Park, NY 11694
+(40.57743961400007, -73.83883020199994)"
+Rockaway Manor HFA,145 Beach 8th Street,Queens,Far Rockaway,11691,(718) 327-6300,(718) 327-3834,AF0371A,Foundation For Elderly,590-E-292,120,0,0,0,0,AH,NFP,MARO,"145 Beach 8th Street
+Far Rockaway, NY 11691
+(40.595546117000026, -73.74292583399995)"
+Belle Harbor Manor,209 Beach 125th Street,Queens,Belle Harbor,11694,(718) 945-6600,(718) 474-8540,AF0206A,"Belle Harbor Home of the Sages, Inc.",590-E-293,162,0,0,0,0,AH,NFP,MARO,"209 Beach 125th Street
+Belle Harbor, NY 11694
+(40.577649276000045, -73.84493976499994)"
+Chai Home,125-02 Ocean Promenade,Queens,Belle Harbor,11694,(718) 634-6100,(718) 634-3983,AF0222B,"Chai Home, LLC",530-F-057,71,0,0,0,0,AH,PPHA,MARO,"125-02 Ocean Promenade
+Belle Harbor, NY 11694
+(40.574976641000035, -73.84364940699999)"
+Wavecrest Home for Adults,242 Beach 20th Street,Queens,Far Rockaway,11691,(718) 471-5500,(718) 471-0734,AF0432A,"Wavecrest HFA, Inc.",590-F-301,120,0,0,0,0,AH,PPHA,MARO,"242 Beach 20th Street
+Far Rockaway, NY 11691
+(40.596554336000054, -73.75415301399994)"
+Queens Adult Care Center,80-08 45th Avenue,Queens,Elmhurst,11373,(718) 639-1800,(718) 899-1917,AF0293B,"Hofgur, LLC",590-F-309,352,200,0,0,0,AH/ALP,PPHA,MARO,"80-08 45th Avenue
+Elmhurst, NY 11373
+(40.74142859700004, -73.88422800399997)"
+"New Homestead Home for Adults, Inc.",82-45 Grenfell Street,Queens,Kew Gardens,11415,(718) 441-2000,(718) 849-3997,AF0329B,"New Homestead Home for Adults, Inc.",590-F-311,163,0,0,0,0,AH,PPHA,MARO,"82-45 Grenfell Street
+Kew Gardens, NY 11415
+(40.709024989000056, -73.83110854299997)"
+"Seaview Manor, LLC",210 Beach 47th Street,Queens,Far Rockaway,11691,(718) 471-1311,(718) 471-1352,AF0386B,"Seaview Manor, LLC",590-F-313,118,118,118,0,0,AH/ALP,PPHA,MARO,"210 Beach 47th Street
+Far Rockaway, NY 11691
+(40.59314575700006, -73.77788491599995)"
+"Surfside Manor Home for Adults, LLC",95-02 Rockaway Beach Boulevard,Queens,Rockaway Beach,11693,(718) 945-5500,(718) 634-8925,AF0410B,"Surfside Manor Home for Adults, LLC",590-F-314,200,199,0,0,0,AH/ALP,PPHA,MARO,"95-02 Rockaway Beach Boulevard
+Rockaway Beach, NY 11693
+(40.58557599900007, -73.81754234499994)"
+Elm York Home for Adults,100-30 Ditmars Boulevard,Queens,East Elmhurst,11369,(718) 446-7900,(718) 446-7938,AF0243B,Elm York LLC,590-F-319,262,200,0,0,0,AH/ALP,PPHA,MARO,"100-30 Ditmars Boulevard
+East Elmhurst, NY 11369
+(40.76976398100004, -73.87003695299995)"
+Park Inn Home,115-02 Ocean Promenade,Queens,Rockaway Park,11694,(718) 634-3400,(718) 634-3403,AF0352A,"Konig, Samuel",590-F-104,181,0,0,0,0,AH,PPHA,MARO,"115-02 Ocean Promenade
+Rockaway Park, NY 11694
+(40.57797971700006, -73.83549903199997)"
+Danforth Adult Care Center,19 Danforth Street,Rensselaer,Hoosick Falls,12090,(518) 686-5167,(518) 686-4428,AF0035A,"Mazula, Glenn",600-F-244,80,33,0,0,0,AH/ALP,PPHA,CDRO,"19 Danforth Street
+Hoosick Falls, NY 12090
+(42.90946439600003, -73.34773449299996)"
+The Pines at Heartwood,2405 Fifteenth Street,Rensselaer,Troy,12180,(518) 266-9654,(518) 266-0346,AF0057B,"Troy Crossings, LLC",600-F-250,86,86,0,0,0,AH/ALP,PPHA,CDRO,"2405 Fifteenth Street
+Troy, NY 12180
+(42.739872192000064, -73.67465415899994)"
+The Terrace at The Eddy Memorial,2256 Burdett Avenue,Rensselaer,Troy,12180,(518) 274-9890,(518) 274-5407,AF0605A,"James A. Eddy Memorial Geriatric Center, Inc.",600-S-001,69,0,0,0,0,EHP,NFP,CDRO,"2256 Burdett Avenue
+Troy, NY 12180
+(42.73516224900004, -73.67087453399995)"
+"Hawthorne Ridge, Inc.",30 Community Way,Rensselaer,East Greenbush,12061,(518) 833-1111,(518) 477-2906,AF0649A,"Hawthorne Ridge, Inc.",600-E-114,66,0,66,0,54,AH,NFP,CDRO,"30 Community Way
+East Greenbush, NY 12061
+(42.615513717000056, -73.69620625699997)"
+"The Eliot at Troy, LLC",2902 Upper Tibbits Avenue,Rensselaer,Troy,12180,(518) 273-2040,(518) 273-1542,AF0117C,"The Eliot at Troy, LLC",600-F-252,155,86,0,0,0,AH/ALP,PPHA,CDRO,"2902 Upper Tibbits Avenue
+Troy, NY 12180
+(42.73053437900006, -73.66349211399995)"
+Troy Adult Home,132 Oakwood Avenue,Rensselaer,Troy,12180,(518) 274-5959,(518) 274-5985,AF0128A,Troy Adult Home LLC,600-F-243,33,0,0,0,0,AH,PPHA,CDRO,"132 Oakwood Avenue
+Troy, NY 12180
+(42.74625454200003, -73.67452269299997)"
+New Broadview Home For Adults,70 Father Capodanno Boulevard,Richmond,Staten Island,10305,(718) 273-8900,(718) 720-2415,AF0324C,"The W Group at New Broadview, LLC",610-F-067,200,125,0,0,0,AH/ALP,PPHA,MARO,"70 Father Capodanno Boulevard
+Staten Island, NY 10305
+(40.594220550000045, -74.06283587699994)"
+"Eger Harbor House, Inc.",110 Meisner Avenue,Richmond,Staten Island,10306,(718) 554-8700,(718) 554-8707,AF0625A,"Eger Harbor House, Inc.",610-S-001,75,75,0,0,0,EHP/ALP,NFP,MARO,"110 Meisner Avenue
+Staten Island, NY 10306
+(40.580343474000074, -74.13135915799995)"
+"Mariners Residence, Inc.",2099 Forest Avenue,Richmond,Staten Island,10303,(718) 720-8800,(718) 447-8095,AF0377B,"Mariners Residence, Inc.",610-F-066,270,0,0,0,0,AH,PPHA,MARO,"2099 Forest Avenue
+Staten Island, NY 10303
+(40.62639943200003, -74.15912595299994)"
+Harbor Terrace Adult Home and Assisted Living,110 Henderson Avenue,Richmond,Staten Island,10301,(718) 727-8100,(718) 981-9116,AF0195B,Baywood LLC,610-F-064,363,200,0,0,0,AH/ALP,PPHA,MARO,"110 Henderson Avenue
+Staten Island, NY 10301
+(40.64056466300008, -74.09598613299994)"
+"Lakeside Manor Home for Adults, Inc.",797 Brighton Avenue,Richmond,Staten Island,10301,(718) 720-9600,(718) 816-5356,AF0291A,"Lakeside Manor Home for Adults, Inc.",610-F-037,200,200,0,0,0,AH/ALP,PPHA,MARO,"797 Brighton Avenue
+Staten Island, NY 10301
+(40.63247284400006, -74.09714586599995)"
+The Brielle at Seaview,140 Friendship Lane,Richmond,Staten Island,10314,(917) 281-6810,(929) 256-3034,AF0729A,Seaview Senior Living Housing Development Fund Corporation,610-E-012,188,0,188,188,26,AH,NFP,MARO,"140 Friendship Lane
+Staten Island, NY 10314
+(40.593743697000036, -74.13147065699997)"
+Sunrise of Staten Island,801 Narrows Road,Richmond,Staten Island,10304,(718) 727-8498,(718) 727-8542,AF0877A,"SZR New York LH, Inc.",610-S-003,121,0,121,121,54,EHP,PPHA,MARO,"801 Narrows Road
+Staten Island, NY 10304
+(40.61098033700006, -74.09513509299995)"
+The Pavilion at Pine Valley,661 North Main Street,Rockland,Spring Valley,10977,(845) 426-5600,(845) 356-2781,AF0741A,"TPPV, LLC",620-F-095,56,56,0,0,0,AH/ALP,PPHA,MARO,"661 North Main Street
+Spring Valley, NY 10977
+(41.136248839000075, -74.03710684299995)"
+L'Dor,156 West Clarkstown Road,Rockland,New City,10956,(845) 356-4108,(845) 356-0167,AF0290B,"Markowitz, Elliot",620-F-076,44,0,0,0,0,AH,PPHA,MARO,"156 West Clarkstown Road
+New City, NY 10956
+(41.13550590400007, -74.02115713599994)"
+Garnerville Home,216 Ramapo Road Route 202,Rockland,Garnerville,10923,(845) 241-5284,(718) 504-4296,AF0252B,"Garnerville HFA Operation & Management, LLC",620-F-093,39,0,0,0,0,AH,PPHA,MARO,"216 Ramapo Road Route 202
+Garnerville, NY 10923
+(41.20010575600003, -73.98638257799996)"
+The New Golden Acres SP LLC,11 Prospect Street,Rockland,Spring Valley,10977,(845) 356-2440,(845) 356-4158,AF0253C,The New Goldern Acres SP LLC,620-F-091,79,79,0,0,0,AH/ALP,PPHA,MARO,"11 Prospect Street
+Spring Valley, NY 10977
+(41.11983399200005, -74.03943575099998)"
+Brightview Lake Tappan,31 Hunt Road,Rockland,Orangeburg,10962,(845) 867-2333,(845) 458-8271,AF0768A,"BV Lake Tappan Operator, LLC",620-F-097,85,0,85,85,28,AH,PPHA,MARO,"31 Hunt Road
+Orangeburg, NY 10962
+(41.04268657000006, -73.98576576699998)"
+Sunrise of New City,233 North Main Street,Rockland,New City,10956,(845) 708-7855,(845) 708-7858,AF0802A,"SZR New York LH, Inc.",620-F-089,120,0,120,120,48,AH,PPHA,MARO,"233 North Main Street
+New City, NY 10956
+(41.15957292100006, -73.98857494499998)"
+Rudolf Steiner Fellowship Foundation,241 Hungry Hollow Road,Rockland,Spring Valley,10977,(845) 356-8494,(845) 356-8468,AF0376A,"Rudolf Steiner Fellowship Foundation, Inc.",620-E-013,33,0,0,0,0,AH,NFP,MARO,"241 Hungry Hollow Road
+Spring Valley, NY 10977
+(41.08607968700005, -74.06451350199995)"
+Tappan Zee Manor,51 Mountainview Avenue,Rockland,Nyack,10960,(845) 353-6100,(845) 353-1660,AF0413B,"TZ Manor, LLC",620-F-087,150,0,0,0,0,AH,PPHA,MARO,"51 Mountainview Avenue
+Nyack, NY 10960
+(41.09686437400006, -73.93635567599995)"
+Promenade at Blue Hill,582 Veterans Memorial Drive,Rockland,Pearl River,10965,(845) 735-6846,(845) 735-6855,AF0225B,Promenade Blue Hill LLC,620-F-085,61,0,61,40,30,AH,PPHA,MARO,"582 Veterans Memorial Drive
+Pearl River, NY 10965
+(41.05042154100005, -74.00650302599996)"
+Promenade at Chestnut Ridge,168 Red Schoolhouse Road,Rockland,Chestnut Ridge,10977,(845) 620-0606,(845) 620-9056,AF0394B,"Chestnut Operating Company, LLC",620-F-081,198,45,0,0,0,AH/ALP,PPHA,MARO,"168 Red Schoolhouse Road
+Chestnut Ridge, NY 10977
+(41.07332515500008, -74.05406642199995)"
+"Evergreen Court Home for Adults SP, LLC",65 Lafayette Street,Rockland,Spring Valley,10977,(845) 356-7700,(845) 352-6244,AF0201C,"Evergreen Court Home for Adults SP, LLC",620-F-078,200,200,0,0,0,AH/ALP,PPHA,MARO,"65 Lafayette Street
+Spring Valley, NY 10977
+(41.11574083600004, -74.03968631699996)"
+Spring Valley Rest Home,184 South Pascack Road,Rockland,Nanuet,10954,(845) 623-5040,(845) 623-5004,AF0400A,"Daos, Myrna A.",620-F-071,32,0,0,0,0,AH,PPHA,MARO,"184 South Pascack Road
+Nanuet, NY 10954
+(41.08988663300005, -74.03462454199996)"
+New Monsey Park Home,15 Monsey Boulevard,Rockland,Monsey,10952,(845) 356-3400,(845) 356-3503,AF0330A,"Orzel, Israel",620-F-052,263,0,0,0,0,AH,PPHA,MARO,"15 Monsey Boulevard
+Monsey, NY 10952
+(41.11421678600004, -74.06162518399998)"
+Green Hills Estate,1 South Route 9W,Rockland,Haverstraw,10927,(845) 429-8411,(845) 947-2668,AF0257B,"Green Hills Estate, L.L.C",620-F-038,164,,0,0,0,AH/ALP,PPHA,MARO,"1 South Route 9W
+Haverstraw, NY 10927
+(41.193229393000024, -73.96716423699996)"
+The Springs at Fountainview,2000 Fountainview Drive,Rockland,Monsey,10952,(845) 426-6757,(845) 426-6914,AF0764A,"Fountainview at College Road, Inc.",620-E-021,60,60,0,0,0,EHP/ALP,NFP,MARO,"2000 Fountainview Drive
+Monsey, NY 10952
+(41.11388328400005, -74.09034147799997)"
+Assisted Living at Northern Riverview,89 South Route 9W,Rockland,Haverstraw,10927,(845) 429-4300,(845) 429-6267,AF0198A,"Assisted Living at Northern Riverview, Inc.",620-E-019,105,100,0,0,0,AH/ALP,NFP,MARO,"89 South Route 9W
+Haverstraw, NY 10927
+(41.18876818600006, -73.96177857299995)"
+St. Joseph's Home,125 Sisters Servants Lane P.O. Box 8,Rockland,Sloatsburg,10974,(845) 753-2555,(845) 753-6910,AF0402A,"St. Joseph's Adult Care, Inc.",620-E-016,31,0,0,0,0,AH,NFP,MARO,"125 Sisters Servants Lane P.O. Box 8
+Sloatsburg, NY 10974
+(41.14706492800008, -74.22710256499994)"
+Old Peoples Russian Orthodox Convent,100 Smith Road,Rockland,Nanuet,10954,(845) 356-8250,(845) 371-3717,AF0344A,Russian Orthodox Convent,620-E-010,76,0,0,0,0,AH,NFP,MARO,"100 Smith Road
+Nanuet, NY 10954
+(41.110425355000075, -74.02300211899995)"
+St. Zita's Villa,50 Saddle River Road,Rockland,Monsey,10952,(845) 356-2011,(845) 352-5209,AF0406A,St. Zita's Villa,620-E-017,35,0,0,0,0,AH,NFP,MARO,"50 Saddle River Road
+Monsey, NY 10952
+(41.11150861700003, -74.07165630599997)"
+Home of the Good Shepherd,390 Church Street,Saratoga,Saratoga Springs,12866,(518) 584-3317,(518) 584-4760,AF0603B,Church Aid/ Episcopal,640-E-037,42,0,42,19,42,AH,NFP,CDRO,"390 Church Street
+Saratoga Springs, NY 12866
+(43.086191652000025, -73.81878162599997)"
+Home of  the Good Shepherd at Highpointe,26 Rock Rose Way,Saratoga,Malta,12020,(518) 581-2800,(518) 581-2888,AF0613A,"The Church Aid of the Protestant Episcopal Church in the Town of Saratoga Springs, Inc.",640-E-036,86,0,86,41,16,AH,NFP,CDRO,"26 Rock Rose Way
+Malta, NY 12020
+(42.98374300800003, -73.79086231099996)"
+Ahana House,31 Sixth Street,Saratoga,Waterford,12188,(518) 238-0471,(518) 233-1168,AF0011A,"Support Ministries For Persons with Aids, Inc.",640-E-034,17,0,0,0,0,AH,NFP,CDRO,"31 Sixth Street
+Waterford, NY 12188
+(42.79317887700006, -73.68048063599997)"
+Woodlawn Commons,156 Lawrence Street,Saratoga,Saratoga Springs,12866,(518) 587-4100,(518) 587-1773,AF0138A,"Woodlawn Apartments, Inc.",640-S-001,42,0,42,15,0,EHP,PPHA,CDRO,"156 Lawrence Street
+Saratoga Springs, NY 12866
+(43.08986994400004, -73.79154390799994)"
+Home of the Good Shepherd Moreau,186-200 Bluebird Road,Saratoga,Moreau,12803,(518) 792-1000,(518) 792-1066,AF0708A,"The Church Aid of the Protestant Episcopal Church in the Town of Saratoga Springs, Inc.",640-E-040,72,0,72,72,0,AH,NFP,CDRO,"186-200 Bluebird Road
+Moreau, NY 12803
+(43.287072728000055, -73.61568974299996)"
+Home of the Good Shepherd Wilton,60 Waller Road,Saratoga,Wilton,12831,(518) 580-0702,(518) 580-0709,AF0659A,The Church Aid of the Protestant Episcopal Church,640-E-038,54,0,54,25,0,AH,NFP,CDRO,"60 Waller Road
+Wilton, NY 12831
+(43.13042640300006, -73.76824102099994)"
+Cook Adult Home,1 Prospect Street,Saratoga,Mechanicville,12118,(518) 664-8014,(518) 664-1075,AF0033A,"Saltzman, Leonard",640-F-032,13,0,0,0,0,AH,PPHA,CDRO,"1 Prospect Street
+Mechanicville, NY 12118
+(42.90112153600006, -73.69591903099996)"
+Beacon Pointe Memory Care Community,1 Emma Lane,Saratoga,Clifton Park,12065,(518) 371-2200,(518) 371-5151,AF0029C,"Peregrine Properties of Upstate, LLC",640-F-042,52,0,0,0,0,AH,PPHA,CDRO,"1 Emma Lane
+Clifton Park, NY 12065
+(42.867093487000034, -73.79576883899995)"
+Home of the Good Shepherd Saratoga,394-402 Church Street,Saratoga,Saratoga Springs,12866,(518) 450-7360,(518) 450-7525,AF0738A,"The Church Aid of the Protestant Episcopal Church in the Town of Saratoga Springs, Inc.",640-E-042,105,0,105,57,0,AH,NFP,CDRO,"394-402 Church Street
+Saratoga Springs, NY 12866
+(43.086978576000035, -73.82152356699999)"
+"Kingsway Manor, LLC",357 Kings Road,Schenectady,Schenectady,12304,(518) 393-4304,(518) 393-0749,AF0071B,"Kingsway Manor, LLC",650-F-103,140,0,140,50,20,AH,PPHA,CDRO,"357 Kings Road
+Schenectady, NY 12304
+(42.77614264500005, -73.91165187199994)"
+Ingersoll Place,3359 Consaul Road,Schenectady,Schenectady,12304,(518) 370-4419,(518) 393-9410,AF0663A,"Ingersoll Adult Home, Inc.",650-E-007,78,0,78,8,17,AH,NFP,CDRO,"3359 Consaul Road
+Schenectady, NY 12304
+(42.77990531100005, -73.88787589299994)"
+Brookdale Niskayuna,1786 Union Street,Schenectady,Niskayuna,12309,(518) 346-6935,(518) 381-3945,AF0869A,"WW Niskayuna Operator, Inc.",650-S-071,110,0,110,110,0,EHP,PPHA,CDRO,"1786 Union Street
+Niskayuna, NY 12309
+(42.80138260600006, -73.89744532299994)"
+The Terrace at Glen Eddy,1 Ascot Lane,Schenectady,Niskayuna,12309,(518) 280-8361,(518) 280-8396,AF0126A,Glen Eddy Inc.,650-S-067,53,0,0,0,0,EHP,NFP,CDRO,"1 Ascot Lane
+Niskayuna, NY 12309
+(42.77641667100005, -73.87838864099996)"
+Judson Meadows,39 Swaggertown Road,Schenectady,Glenville,12302,(518) 831-2400,(518) 831-2405,AF0711A,"Baptist Health Enriched Housing Program, Inc.",650-S-009,80,10,70,70,0,EHP/ALP,NFP,CDRO,"39 Swaggertown Road
+Glenville, NY 12302
+(42.84571489600006, -73.94868658999997)"
+Adirondack Manor HFA D.B.A Scotia Mansion,39 Wallace Street,Schenectady,Scotia,12302,(518) 346-6458,(518) 346-3458,AF0002A,"Kane, James E.",650-F-078,49,25,0,0,0,AH/ALP,PPHA,CDRO,"39 Wallace Street
+Scotia, NY 12302
+(42.83311033800004, -73.96011296199998)"
+Heritage Home for Women,1519 Union Street,Schenectady,Schenectady,12309,(518) 374-6921,(518) 370-1873,AF0058A,Heritage Home For Women,650-E-003,36,0,0,0,0,AH,NFP,CDRO,"1519 Union Street
+Schenectady, NY 12309
+(42.807460356000036, -73.91140077099993)"
+Brookdale East Niskayuna,2861 Troy-Schenectady Road,Schenectady,Niskayuna,12309,(518) 782-7381,(518) 782-7382,AF0030A,"Niskayuna Clare Bridge Operator, Inc.",650-F-101,52,0,0,0,0,AH,PPHA,CDRO,"2861 Troy-Schenectady Road
+Niskayuna, NY 12309
+(42.77894278000008, -73.84301234399999)"
+Marchand Manor,"121 Main Street, Route 10",Schoharie,Sharon Springs,13459,(518) 284-2357,(518) 284-2357,AF0076B,"Marchand Manor, LLC",660-F-051,36,36,0,0,0,AH/ALP,PPHA,CDRO,"121 Main Street, Route 10
+Sharon Springs, NY 13459
+(42.790560576000075, -74.62099924399996)"
+The New Falls,117 Schuyler Street,Schuyler,Montour Falls,14865,(607) 535-7165,,AF0566B,The New Falls Home. LLC,670-F-006,111,89,0,0,0,AH/ALP,PPHA,WRO,"117 Schuyler Street
+Montour Falls, NY 14865
+(42.346359912000025, -76.84969685799996)"
+The Bixby Home,8342 North Main Street P.O. Box 419,Seneca,Interlaken,14847,(607) 532-4488,(607) 532-4487,AF0656A,"Deborah Bixby, Richard Bixby",680-F-010,24,0,0,0,0,AH,PPHA,WRO,"8342 North Main Street P.O. Box 419
+Interlaken, NY 14847
+(42.620021518000044, -76.72497572499998)"
+"Canton Enriched Housing Program, Inc.  EHP #1",37 Riverside Drive,St. Lawrence,Canton,13617,(315) 386-8830,(315) 386-2383,AF0020B,"Canton Enriched Housing Program, Inc.",630-S-022,25,0,0,0,0,EHP,NFP,CNYRO,"37 Riverside Drive
+Canton, NY 13617
+(44.597694700000034, -75.17386059299997)"
+"Canton Enriched Housing Program, Inc.  EHP #2",35 Riverside Drive,St. Lawrence,Canton,13617,(315) 386-8830,(315) 386-2383,AF0019B,"Canton Enriched Housing Program, Inc.",630-S-021,18,0,0,0,0,EHP,NFP,CNYRO,"35 Riverside Drive
+Canton, NY 13617
+(44.59702073700004, -75.17346853399994)"
+Claddagh Care (L.B.S.H.) EHP #1,34 Church Street Suite 1,St. Lawrence,Brasher Falls,13613,(315) 389-5149,(315) 389-5560,AF0027A,L.B.S.H. Housing,630-S-016,28,0,0,0,0,EHP,NFP,CNYRO,"34 Church Street Suite 1
+Brasher Falls, NY 13613
+(44.802705083000035, -74.77267489699994)"
+Maplewood Assisted Living,205 State Street Road,St. Lawrence,Canton,13617,(315) 386-4541,(315) 229-1292,AF0673A,"United Helpers Canton Nursing Home, Inc",630-E-008,48,48,0,0,0,AH/ALP,NFP,CNYRO,"205 State Street Road
+Canton, NY 13617
+(44.61265433300008, -75.16165156199997)"
+Maryville Home For Adults,7678 County Road 70,Steuben,Avoca,14809,(607) 566-2368,(607) 566-2368,AF0533A,Suzanne Coddington  Hubert Coddington,690-F-024,14,0,0,0,0,AH,PPHA,WRO,"7678 County Road 70
+Avoca, NY 14809
+(42.37280160800003, -77.50792137999997)"
+Brookdale Painted Post,120 Creekside Drive,Steuben,Painted Post,14870,(607) 962-5096,(607) 937-3130,AF0506C,"Painted Post, LLC",690-F-044,110,0,0,0,0,AH,PPHA,WRO,"120 Creekside Drive
+Painted Post, NY 14870
+(42.143193679000035, -77.12353886899996)"
+Country Valley Home,5946 County Route 11,Steuben,Bath,14810,(607) 776-5730,(607) 776-5730,AF0479A,"Tetor Enterprises, Ltd.",690-F-039,19,0,0,0,0,AH,PPHA,WRO,"5946 County Route 11
+Bath, NY 14810
+(42.289005719000045, -77.29316265499995)"
+Cohocton Valley Home for Adults,64 South Main Street,Steuben,Avoca,14809,(607) 566-2543,,AF0475A,Cohocton Valley Home for Adults LLC,690-F-031,10,0,0,0,0,AH,PPHA,WRO,"64 South Main Street
+Avoca, NY 14809
+(42.40614939400007, -77.42084616099999)"
+Sue's Rest,396 Canisteo Street,Steuben,Hornell,14843,(607) 324-3222,(607) 324-3222,AF0560A,Suzanne Coddington  Hubert Coddington,690-F-019,14,0,0,0,0,AH,PPHA,WRO,"396 Canisteo Street
+Hornell, NY 14843
+(42.31506354800007, -77.66047094599998)"
+Pinecrest Home For Adults,7 Charlesworth Avenue,Steuben,Avoca,14809,(607) 566-2252,(607) 566-2253,AF0543A,Pinecrest HFA,690-E-001,17,0,0,0,0,AH,NFP,WRO,"7 Charlesworth Avenue
+Avoca, NY 14809
+(42.410411864000025, -77.41833381999999)"
+Updyke's Willow Ridge Quality Care Facility,131 Hornell Street,Steuben,Hornell,14843,(607) 324-5417,(607) 324-1913,AF0571A,"Updyke, Josephine",690-F-035,40,0,0,0,0,AH,PPHA,WRO,"131 Hornell Street
+Hornell, NY 14843
+(42.33258555300006, -77.66569624199997)"
+Brandywine Senior Living at Huntington Terrace,70 Pinelawn Road,Suffolk,Melville,11747,(631) 531-0000,(631) 531-0003,AF0589B,Brandywine Senior Living at Huntington Terrace LLC,700-S-299,110,0,110,110,0,EHP,PPHA,MARO,"70 Pinelawn Road
+Melville, NY 11747
+(40.77983345600006, -73.40598771599997)"
+The Villa at Westhampton,68 Old Country Road,Suffolk,Westhampton,11977,(631) 240-8100,(631) 240-8190,AF0752A,"Westhampton Senior Living, Inc.",700-F-939,100,0,100,100,24,AH,PPHA,MARO,"68 Old Country Road
+Westhampton, NY 11977
+(40.82637971200006, -72.67651924099994)"
+Sunrise of West Babylon,580 Montauk Highway,Suffolk,West Babylon,11704,(631) 422-8500,(631) 422-8700,AF0848B,"GWC - West Babylon, Inc.",700-F-924,110,0,110,110,28,AH,PPHA,MARO,"580 Montauk Highway
+West Babylon, NY 11704
+(40.68726344500004, -73.34190666799998)"
+Sunrise of Holbrook,320 Patchogue-Holbrook Road,Suffolk,Holbrook,11741,(631) 289-8400,(631) 289-8484,AF0820B,"GWC - Holbrook, Inc.",700-F-925,109,0,109,109,25,AH,PPHA,MARO,"320 Patchogue-Holbrook Road
+Holbrook, NY 11741
+(40.785253271000045, -73.04235115499995)"
+Sunrise of East Setauket,1 Sunrise Drive,Suffolk,East Setauket,11733,(631) 941-4455,(631) 941-4455,AF0812B,"GWC - East Setauket, Inc.",700-F-926,109,0,109,109,40,AH,PPHA,MARO,"1 Sunrise Drive
+East Setauket, NY 11733
+(40.93510735600006, -73.11086777999998)"
+Sunrise of Dix Hills,337 Deer Park Avenue,Suffolk,Dix Hills,11746,(631) 385-1733,(631) 385-1754,AF0840B,"GWC - Dix Hills, Inc.",700-F-923,114,0,114,114,34,AH,PPHA,MARO,"337 Deer Park Avenue
+Dix Hills, NY 11746
+(40.81618716300005, -73.34265670699995)"
+Sunrise of Smithtown,"30 Hauppauge, Route 111",Suffolk,Smithtown,11787,(631) 724-2299,(631) 724-2922,AF0860A,"SZR New York LH, Inc.",700-F-927,104,0,104,104,43,AH,PPHA,MARO,"30 Hauppauge, Route 111
+Smithtown, NY 11787
+(40.85383305100004, -73.18762433699999)"
+Atria East Northport,10 Cheshire Place,Suffolk,East Northport,11731,(631) 757-8000,(631) 757-8010,AF0390C,"ATR New York LH, Inc.",700-F-929,200,0,0,0,0,AH,PPHA,MARO,"10 Cheshire Place
+East Northport, NY 11731
+(40.87528048900003, -73.32267742799996)"
+Atria Huntington,165 Beverly Road,Suffolk,Huntington,11746,(631) 549-3533,(631) 547-0439,AF0389B,"ATR New York LH, Inc.",700-F-931,198,0,0,0,0,AH,PPHA,MARO,"165 Beverly Road
+Huntington, NY 11746
+(40.83013069500004, -73.38045333399998)"
+Atria South Setauket,4089 Nesconset Highway,Suffolk,Centereach,11720,(631) 473-8000,(631) 473-0384,AF0392C,"ATR New York LH, Inc.",700-F-933,200,0,0,0,0,AH,PPHA,MARO,"4089 Nesconset Highway
+Centereach, NY 11720
+(40.90434515700008, -73.07238336699999)"
+Sachem Adult Home,1298 Coates Avenue,Suffolk,Holbrook,11741,(631) 588-4554,(631) 588-4578,AF0378B,Sachem Adult Home and ALP LLC,700-F-935,46,26,0,0,0,AH/ALP,PPHA,MARO,"1298 Coates Avenue
+Holbrook, NY 11741
+(40.79777259600007, -73.08019602799999)"
+South Bay Adult Home,"33 Cottontail Run, Box 601",Suffolk,Center Moriches,11934,(631) 878-0758,(631) 878-0776,AF0396B,South Bay Adult Home and ALP LLC,700-F-937,39,24,0,0,0,AH/ALP,PPHA,MARO,"33 Cottontail Run, Box 601
+Center Moriches, NY 11934
+(40.78918410400007, -72.81339815099994)"
+Village Walk A Carlisle Assisted Living Community,131 East Main Street,Suffolk,Patchogue,11772,(631) 503-9000,(631) 317-4870,AF0759A,"Carlisle Patchogue Operator, Inc",700-F-941,146,0,146,146,46,AH,PPHA,MARO,"131 East Main Street
+Patchogue, NY 11772
+(40.76584525700008, -73.01207367999996)"
+Birchwood Suites,423 Clay Pitts Road,Suffolk,East Northport,11731,(631) 368-5252,(631) 368-3128,AF0208C,"Birchwood Suites Operator, LLC",700-F-943,95,0,95,78,17,AH,PPHA,MARO,"423 Clay Pitts Road
+East Northport, NY 11731
+(40.86840022100006, -73.29968447099998)"
+Amber Court  of Smithtown,130-132 Lake Avenue,Suffolk,Nesconset,11767,(631) 768-1000,,AF0760A,Amber Court @ Suffolk County LLC,700-F-945,186,159,0,0,0,AH/ALP,PPHA,MARO,"130-132 Lake Avenue
+Nesconset, NY 11767
+(40.867875421000065, -73.15496616799999)"
+Whisper Woods of Smithtown,71 St. Johnland Road,Suffolk,Smithtown,11787,(631) 320-3181,(631) 780-5296,AF0765A,"BSL Smithtown Operations, Inc.",700-F-957,136,0,136,136,38,AH,PPHA,MARO,"71 St. Johnland Road
+Smithtown, NY 11787
+(40.86803581600003, -73.22001503699994)"
+Dominican Village Enriched Housing Program 1,565-567 Albany Avenue,Suffolk,Amityville,11701,(631) 842-6091,(631) 842-6131,AF0237A,Dominican Village EHP,700-S-287,66,0,66,66,0,EHP,NFP,MARO,"565-567 Albany Avenue
+Amityville, NY 11701
+(40.706054351000034, -73.40369625899996)"
+Gurwin Jewish Fay J. Lindner Residence,50 Hauppauge Road,Suffolk,Commack,11725,(631) 715-8500,(631) 715-8580,AF0260A,"Gurwin Jewish - Fay J. Lindner Residences, Inc.",700-S-289,200,0,200,59,0,EHP,NFP,MARO,"50 Hauppauge Road
+Commack, NY 11725
+(40.82841838300004, -73.29773493399995)"
+Braemar Living at Medford,1529 North Ocean Avenue,Suffolk,Medford,11763,(631) 289-0600,(631) 682-0622,AF0660A,Medford Hamlet LLC,700-F-921,200,200,0,0,0,AH/ALP,PPHA,MARO,"1529 North Ocean Avenue
+Medford, NY 11763
+(40.810562305000076, -73.01964979999997)"
+"The Shores at Peconic Landing Assisted Living Residence, Inc.",1600 Brecknock Road,Suffolk,Greenport,11944,(631) 477-3800,(631) 477-0061,AF0601B,"The Shores at Peconic Landing Assisted Living Residence, Inc.",700-S-298,47,0,47,20,16,EHP,PPHA,MARO,"1600 Brecknock Road
+Greenport, NY 11944
+(41.12119461000003, -72.36333131099997)"
+Woodhaven Home for Adults,1350 Route 112,Suffolk,Port Jefferson Sta.,11776,(631) 473-3304,(631) 473-0048,AF0440B,"Woodhaven A.H., LLC",700-F-905,181,175,0,0,0,AH/ALP,PPHA,MARO,"1350 Route 112
+Port Jefferson Sta., NY 11776
+(40.91658428800008, -73.03566323599995)"
+The Bristal at East Northport,760 Larkfield Road,Suffolk,East Northport,11731,(631) 858-0100,(631) 580-6421,AF0682A,"Engel Burman Sr. Housing at East Northport, LLC",700-S-303,166,0,166,17,32,EHP,PPHA,MARO,"760 Larkfield Road
+East Northport, NY 11731
+(40.838337713000044, -73.31280313199994)"
+Atria Bay Shore,53 Ocean Ave.,Suffolk,Bay Shore,11706,(631) 206-1200,(631) 206-1300,AF0359C,"ATR New York LH, Inc.",700-S-305,116,0,0,0,0,EHP,PPHA,MARO,"53 Ocean Ave.
+Bay Shore, NY 11706
+(40.716900499000076, -73.24687295999996)"
+The Bristal at Holtsville,5535 Expressway Drive North,Suffolk,Holtsville,11742,(631) 732-2300,(631) 828-3601,AF0740A,EB Care at Farmingville LLC,700-S-309,166,0,166,50,40,EHP,PPHA,MARO,"5535 Expressway Drive North
+Holtsville, NY 11742
+(40.82361677200004, -73.02524921899999)"
+The Bristal at Lake Grove,2995 Middle Country Road,Suffolk,Lake Grove,11755,(631) 676-7580,(631) 676-7581,AF0718B,Lake Grove Senior Care LLC,700-S-311,155,0,155,75,64,EHP,PPHA,MARO,"2995 Middle Country Road
+Lake Grove, NY 11755
+(40.86095631200004, -73.11812389599999)"
+The Vincent Bove Center at Jefferson Ferry,One Jefferson Ferry Drive,Suffolk,South Setauket,11720,(631) 650-2600,(631) 650-2620,AF0424A,"Active Retirement Community, Inc.",700-S-291,87,0,87,87,0,EHP,NFP,MARO,"One Jefferson Ferry Drive
+South Setauket, NY 11720
+(40.898479569000074, -73.07793200999998)"
+The Bristal at Sayville,129 Lakeland Avenue,Suffolk,Sayville,11782,(631) 563-1160,(631) 563-1161,AF0717A,Sayville Senior Care LLC,700-F-302,155,0,155,61,51,AH,PPHA,MARO,"129 Lakeland Avenue
+Sayville, NY 11782
+(40.744674658000065, -73.08761015099998)"
+McPeak's Adult Home,286 North Ocean Avenue,Suffolk,Patchogue,11772,(631) 475-0445,(631) 475-5534,AF0308A,"McPeak's Adult Home, Inc.",700-F-051,51,0,0,0,0,AH,PPHA,MARO,"286 North Ocean Avenue
+Patchogue, NY 11772
+(40.773545099000046, -73.01529511999996)"
+Echo Arms Adult Home,204 Patchogue Road,Suffolk,Port Jefferson Stat.,11776,(631) 473-0166,(631) 473-6803,AF0241A,"Katz, Harry",700-F-020,49,0,0,0,0,AH,PPHA,MARO,"204 Patchogue Road
+Port Jefferson Stat., NY 11776
+(40.93145601300006, -73.05272483899995)"
+Brentwood Adult Home,147 Second Avenue,Suffolk,Brentwood,11717,(631) 273-7204,(631) 951-9161,AF0210A,"Halpert, Sarah",700-F-013,30,0,0,0,0,AH,PPHA,MARO,"147 Second Avenue
+Brentwood, NY 11717
+(40.77847133300003, -73.23234594299998)"
+Missionary Sisters of St. Benedict,350 Cuba Hill Road,Suffolk,Huntington,11743,(631) 368-9528,(631) 266-1015,AF0315A,Missionary Sisters Of St. Benedict,700-E-054,60,0,0,0,0,AH,NFP,MARO,"350 Cuba Hill Road
+Huntington, NY 11743
+(40.84623864800005, -73.33605278499994)"
+Pleasant Gardens Home for Adults,396 Middle Road,Suffolk,Bayport,11705,(631) 472-1047,(631) 472-9483,AF0363B,"Mercy Haven, Inc.",700-E-282,27,0,0,0,0,AH,NFP,MARO,"396 Middle Road
+Bayport, NY 11705
+(40.73620256100003, -73.06369011399994)"
+Gurwin Jewish Fay J. Lindner Residence,50 Hauppauge Road,Suffolk,Commack,11725,(631) 715-6500,(631) 715-8580,AF0259A,"Gurwin Jewish - Fay J. Lindner Residences, Inc.",700-E-288,65,0,65,40,14,AH,NFP,MARO,"50 Hauppauge Road
+Commack, NY 11725
+(40.82841838300004, -73.29773493399995)"
+Hidden Gem Home for Adults,11 Wittridge Street,Suffolk,Lake Ronkonkoma,11779,(631) 588-4755,(631) 588-3180,AF0438B,"Golden Homes Operating, Inc.",700-F-085,18,0,0,0,0,AH,PPHA,MARO,"11 Wittridge Street
+Lake Ronkonkoma, NY 11779
+(40.81945746000008, -73.10901994499994)"
+Rodden Home,15 Wittridge Street,Suffolk,Lake Ronkonkoma,11779,(631) 585-1906,(631) 585-1906,AF0373A,"Patkowski, Matthew",700-F-109,23,0,0,0,0,AH,PPHA,MARO,"15 Wittridge Street
+Lake Ronkonkoma, NY 11779
+(40.81944545300007, -73.10938358499999)"
+Babylon Beach House Home for Adults,23 Yacht Club Road,Suffolk,Babylon,11702,(631) 669-3323,(631) 669-2571,AF0199A,"Lockwood, William A.",700-F-131,67,0,0,0,0,AH,PPHA,MARO,"23 Yacht Club Road
+Babylon, NY 11702
+(40.684770524000044, -73.31672378799993)"
+Maple Rest,61 Rollstone Avenue,Suffolk,West Sayville,11796,(631) 589-4840,(631) 563-1610,AF0303A,Simon Halpert,700-F-146,27,0,0,0,0,AH,PPHA,MARO,"61 Rollstone Avenue
+West Sayville, NY 11796
+(40.73178852500007, -73.09845541999994)"
+Olsen Rest,P.O. Box 256 366 Gibbs Pond,Suffolk,Nesconset,11767,(631) 588-5676,(631) 588-5676,AF0345A,"Olsen, George Jr.",700-F-223,40,0,0,0,0,AH,PPHA,MARO,"P.O. Box 256 366 Gibbs Pond
+Nesconset, NY 11767
+(40.84130305100007, -73.13710999999995)"
+Gables Home for Adults,127 Rider Avenue,Suffolk,Patchogue,11772,(631) 475-3857,(631) 475-3857,AF0250B,"Gables Holding Company, Inc.",700-F-909,24,0,0,0,0,AH,PPHA,MARO,"127 Rider Avenue
+Patchogue, NY 11772
+(40.76067741400004, -73.00868315999998)"
+Elmore Home for Adults,330 Elmore Street,Suffolk,Central Islip,11722,(631) 234-6506,(631) 671-9662,AF0244A,"Miranda, Josevito",700-F-300,22,0,0,0,0,AH,PPHA,MARO,"330 Elmore Street
+Central Islip, NY 11722
+(40.78440183500004, -73.19975609599999)"
+Brandywine Senior Living at Huntington Terrace,70 Pinelawn Road,Suffolk,Melville,11747,(631) 531-0000,(631) 531-0003,AF0590B,Brandywine Senior Living at Huntington Terrace LLC,700-F-919,54,0,54,54,34,AH,PPHA,MARO,"70 Pinelawn Road
+Melville, NY 11747
+(40.77983345600006, -73.40598771599997)"
+Maryville Assisted Living,70 Greenlawn Road,Suffolk,Huntington,11743,(631) 427-7685,(631) 673-4636,AF0306A,"Maryville Adult Home, Inc.",700-F-891,32,0,32,32,0,AH,PPHA,MARO,"70 Greenlawn Road
+Huntington, NY 11743
+(40.87383629300007, -73.39319994099998)"
+The Lake Shore Assisted Living Residence,211 Lake Shore Road,Suffolk,Lake Ronkonkoma,11779,(631) 585-8800,(631) 585-0716,AF0421A,"Lakehaven Equities, Inc.",700-F-893,200,0,200,0,0,AH,PPHA,MARO,"211 Lake Shore Road
+Lake Ronkonkoma, NY 11779
+(40.82735652800005, -73.11661316399994)"
+"Manor Haven Adult Home, Inc.",222 Columbia Street,Suffolk,Huntington Station,11746,(631) 549-0226,(631) 367-1240,AF0300B,"Manor Haven Adult Home, Inc.",700-F-896,32,0,0,0,0,AH,PPHA,MARO,"222 Columbia Street
+Huntington Station, NY 11746
+(40.84887297300003, -73.41983382499996)"
+Dawn Hill Adult Home,65 Lisa Drive,Suffolk,North Port,11768,(631) 261-8088,(631) 261-8088,AF0232A,"Flowerfield Associates, Inc.",700-F-897,30,0,0,0,0,AH,PPHA,MARO,"65 Lisa Drive
+North Port, NY 11768
+(40.89179171400008, -73.34870890399998)"
+"Fairlawn Adult Home, Inc.",301 Eighth Avenue,Suffolk,East Northport,11731,(631) 757-7666,(631) 757-2959,AF0245B,"Fairlawn Adult Home, Inc.",700-F-898,30,0,0,0,0,AH,PPHA,MARO,"301 Eighth Avenue
+East Northport, NY 11731
+(40.87717174000005, -73.32916351799997)"
+The Bristal at West Babylon,520 Montauk Highway,Suffolk,West Babylon,11704,(631) 635-5501,(631) 539-9860,AF0755A,EB Care at West Babylon LLC,700-S-313,187,0,187,60,41,EHP,PPHA,MARO,"520 Montauk Highway
+West Babylon, NY 11704
+(40.688081831000034, -73.34026414899995)"
+"Bayview Rest Home, LLC",143 East Main Street,Suffolk,Babylon,11702,(631) 661-3292,(631) 661-3292,AF0204B,"Bayview Rest Home, LLC",700-F-908,75,0,0,0,0,AH,PPHA,MARO,"143 East Main Street
+Babylon, NY 11702
+(40.69705148700007, -73.32064249699994)"
+Pearl Garden Manor,36 Locust Avenue,Suffolk,Islip,11751,(631) 859-3228,(631) 277-1081,AF0356C,"HSN, Inc.",700-F-911,26,0,0,0,0,AH,PPHA,MARO,"36 Locust Avenue
+Islip, NY 11751
+(40.730441323000036, -73.21295341399997)"
+The Arbors at Bohemia,1065 Smithtown Avenue,Suffolk,Bohemia,11716,(631) 567-3113,(631) 567-3116,AF0276C,"Arcadia Management, Inc.",700-F-913,200,0,200,0,0,AH,PPHA,MARO,"1065 Smithtown Avenue
+Bohemia, NY 11716
+(40.768073077000054, -73.10849385099993)"
+The Arbors at Islandia East,1515A Veterans Memorial Highway,Suffolk,Islandia,11749,(631) 232-3131,(631) 342-1855,AF0277C,"Arcadia Management, Inc.",700-F-914,200,0,200,0,57,AH,PPHA,MARO,"1515A Veterans Memorial Highway
+Islandia, NY 11749
+(40.810284403000026, -73.18650702499997)"
+The Arbors at Islandia West,1515 Veterans Memorial Highway,Suffolk,Islandia,11749,(631) 582-3600,(631) 582-6082,AF0278C,"Arcadia Management, Inc.",700-F-915,200,0,200,0,0,AH,PPHA,MARO,"1515 Veterans Memorial Highway
+Islandia, NY 11749
+(40.809963493000055, -73.18618002799997)"
+The Arbors at Hauppauge,1740 Express Drive South,Suffolk,Hauppauge,11788,(631) 582-3334,(631) 582-9450,AF0388C,"Arcadia Management, Inc.",700-F-916,200,0,200,0,0,AH,PPHA,MARO,"1740 Express Drive South
+Hauppauge, NY 11788
+(40.80666968400004, -73.23113403099995)"
+Brookhaven Care Center,111 Beaverdam Road,Suffolk,Brookhaven,11719,(631) 286-2500,(631) 286-6488,AF0325B,Brookhaven Care Center LLC,700-F-290,182,0,0,0,0,AH,PPHA,MARO,"111 Beaverdam Road
+Brookhaven, NY 11719
+(40.77266715900004, -72.93459355499994)"
+Arcadia Residence,25 Carrier Street,Sullivan,Liberty,12754,(845) 292-7011,(845) 292-7011,AF0665A,"Greater Adult Neighbors, Inc.",710-F-063,114,0,0,0,0,AH,PPHA,MARO,"25 Carrier Street
+Liberty, NY 12754
+(41.79432302300006, -74.74901237099994)"
+The New Swan Lake Adult Home LLC,Route 55 Box 247,Sullivan,Swan Lake,12783,(845) 292-6298,(845) 292-6298,AF0411B,The New Swan Lake Adult Home LLC,710-F-058,27,0,0,0,0,AH,PPHA,MARO,"Route 55 Box 247
+Swan Lake, NY 12783
+(41.73237433000003, -74.79275252799994)"
+Jeff Senior Living,4804 Route 52- East Main Street,Sullivan,Jeffersonville,12748,(845) 482-4375,(845) 627-5405,AF0280B,"JJJ Yabut, LLC",710-F-061,11,0,0,0,0,AH,PPHA,MARO,"4804 Route 52- East Main Street
+Jeffersonville, NY 12748
+(41.77986038900008, -74.92861057299996)"
+Jeffersonville Senior Living,4806 Route 52,Sullivan,Jeffersonville,12748,(845) 482-4375,(845) 627-5405,AF0281B,"JJJ Yabut, LLC",710-F-060,49,0,0,0,0,AH,PPHA,MARO,"4806 Route 52
+Jeffersonville, NY 12748
+(41.77996738500008, -74.92888816099997)"
+Elderwood Assisted Living at Waverly,44 Ball Street,Tioga,Waverly,14892,(607) 565-6216,(607) 565-2114,AF0188C,"44 Ball Street Operating Company, LLC",720-S-004,40,25,0,0,0,EHP/ALP,PPHA,CNYRO,"44 Ball Street
+Waverly, NY 14892
+(42.01202571400006, -76.52986963899997)"
+"Longview, an Ithacare Community",1 Bella Vista Drive,Tompkins,Ithaca,14850,(607) 375-6300,(607) 375-6301,AF0171A,"Ithacare Center Service Company, Inc.",730-E-002,96,0,96,32,0,AH,NFP,CNYRO,"1 Bella Vista Drive
+Ithaca, NY 14850
+(42.415495563000036, -76.50439727599996)"
+Kendal at Ithaca,2230 North Triphammer Road,Tompkins,Ithaca,14850,(607) 266-5300,(607) 266-5353,AF0167A,"Kendal at Ithaca, Inc.",730-E-005,36,0,36,36,0,AH,NFP,CNYRO,"2230 North Triphammer Road
+Ithaca, NY 14850
+(42.47550724000007, -76.48180516199994)"
+Brookdale Ithaca Memory Care,101 Bundy Road,Tompkins,Ithaca,14850,(607) 256-5094,(607) 256-5318,AF0145A,"Ithaca Sterling Cottage Operator, Inc.",730-F-001,36,0,0,0,0,AH,PPHA,CNYRO,"101 Bundy Road
+Ithaca, NY 14850
+(42.46045877800003, -76.52967566999996)"
+Bridges Cornell Heights - The Colonial,403 Wyckoff Avenue,Tompkins,Ithaca,14850,(607) 257-5777,(607) 257-3565,AF0640A,"Ambrose, Elizabeth Classen",730-F-002,13,0,13,11,0,AH,PPHA,CNYRO,"403 Wyckoff Avenue
+Ithaca, NY 14850
+(42.45557018400007, -76.48420268199999)"
+Bridges Cornell Heights - The Tudor,407 Wyckoff Avenue,Tompkins,Ithaca,14850,(607) 257-5777,(607) 257-3565,AF0641A,"Ambrose, Elizabeth Classen",730-F-003,15,0,15,15,0,AH,PPHA,CNYRO,"407 Wyckoff Avenue
+Ithaca, NY 14850
+(42.45573220600005, -76.48442023699994)"
+Brookdale Ithaca Assisted Living,103 Bundy Road,Tompkins,Ithaca,14850,(607) 256-2580,(607) 256-2446,AF0822A,"SH Ithaca Operator, Inc.",730-S-011,53,0,53,53,0,EHP,PPHA,CNYRO,"103 Bundy Road
+Ithaca, NY 14850
+(42.46040248500003, -76.53066755199995)"
+Hudson Valley Senior Residence,80 Washington Avenue,Ulster,Kingston,12401,(845) 331-0630,(845) 331-6093,AF0270B,The Lutheran Care Network,740-E-008,48,0,48,0,0,AH,NFP,MARO,"80 Washington Avenue
+Kingston, NY 12401
+(41.92607853700008, -74.01663084299997)"
+Woodland Pond at New Paltz,100 Woodland Pond Circle,Ulster,New Paltz,12561,(845) 256-5910,(845) 256-5779,AF0677B,"Woodland Pond, Inc.",740-S-010,60,0,60,40,20,EHP,NFP,MARO,"100 Woodland Pond Circle
+New Paltz, NY 12561
+(41.75814161000005, -74.06133116599995)"
+The New Village View SP LLC,1 Grove Street,Ulster,Highland,12528,(845) 691-8399,(845) 691-2390,AF0266C,The New Village View SP LLC,740-F-084,80,46,0,0,0,AH/ALP,PPHA,MARO,"1 Grove Street
+Highland, NY 12528
+(41.71971233100004, -73.96629979599999)"
+Ivy Lodge,108 Main Street,Ulster,Saugerties,12477,(845) 246-4646,(845) 246-6095,AF0832A,"Ivy Hall at the Family Lodge, LLC",740-F-082,40,0,40,40,16,AH,PPHA,MARO,"108 Main Street
+Saugerties, NY 12477
+(42.07899937700006, -73.94878265899996)"
+Valley Vista Adult Home and Assisted Living Program,141 North Road,Ulster,Highland,12528,(845) 691-7400,(845) 691-3787,AF0429B,"New York Senior Care in the Valley, LLC",740-F-076,89,62,0,0,0,AH/ALP,PPHA,MARO,"141 North Road
+Highland, NY 12528
+(41.73522238100003, -73.96387733899996)"
+Culinarians' Home Foundation,71 Old Tschirky Road,Ulster,New Paltz,12561,(845) 255-7010,(845) 255-2012,AF0229A,Culinarians' Home Foundation,740-E-002,18,0,0,0,0,AH,NFP,MARO,"71 Old Tschirky Road
+New Paltz, NY 12561
+(41.804763742000034, -74.06378470499999)"
+Mountain Valley Manor,373-421 Wilbur Avenue,Ulster,Kingston,12401,(845) 331-1254,,AF0658A,"Salaber, Inc.",740-F-078,53,0,0,0,0,AH,PPHA,MARO,"373-421 Wilbur Avenue
+Kingston, NY 12401
+(41.92251134400004, -74.00873253499998)"
+Adirondack Manor HFA D.B.A Adirondack Manor HFA ALP,653 Bay Road,Warren,Queensbury,12804,(518) 761-0176,(518) 761-0338,AF0003A,"Kane, James E.",750-F-046,60,45,0,0,0,AH/ALP,PPHA,CDRO,"653 Bay Road
+Queensbury, NY 12804
+(43.353543616000024, -73.65667490799996)"
+Countryside Adult Home,353 Schroon River Road,Warren,Warrensburg,12885,(518) 623-3451,(518) 623-5590,AF0131A,Warren County D.S.S,750-N-006,48,0,0,0,0,AH,PUBL,CDRO,"353 Schroon River Road
+Warrensburg, NY 12885
+(43.51130767400008, -73.75009336899996)"
+The Terrace at the Glen,71 Longview Drive,Warren,Queensbury,12804,(518) 832-7894,(518) 832-7891,AF0127A,The Glen at Hiland Meadows Inc.,750-S-002,52,0,0,0,0,EHP,NFP,CDRO,"71 Longview Drive
+Queensbury, NY 12804
+(43.35272061200004, -73.64147610599997)"
+Emeritus at the Landing of Queensbury,27 Woodvale Road,Warren,Queensbury,12804,(518) 793-5556,(518) 793-9863,AF0125B,Wegman Family (Glens Falls) LLC V,750-S-003,88,0,0,0,0,EHP,PPHA,CDRO,"27 Woodvale Road
+Queensbury, NY 12804
+(43.33434699900005, -73.66204244199997)"
+The Cambridge,4 West Main Street,Washington,Cambridge,12816,(518) 677-3460,(518) 677-3460,AF0736A,"ICC Management and Consulting, Inc.",760-F-018,40,0,40,14,0,AH,PPHA,CDRO,"4 West Main Street
+Cambridge, NY 12816
+(43.02808353100005, -73.38096136899998)"
+Argyle Center for Independent Living,4573 State Route 40,Washington,Argyle,12809,(518) 638-8274,(518) 638-6420,AF0094B,Washington AH Operations Associates LLC,760-F-016,35,35,0,0,0,AH/ALP,PPHA,CDRO,"4573 State Route 40
+Argyle, NY 12809
+(43.20362056600004, -73.48623489799996)"
+Holbrook Adult Home,73 North Street,Washington,Granville,12832,(518) 642-3476,(518) 642-3801,AF0062C,"73 North of Granville, Inc.",760-F-014,33,0,0,0,0,AH,PPHA,CDRO,"73 North Street
+Granville, NY 12832
+(43.41458440000008, -73.26464850199994)"
+The Mansion at South Union,11 South Union Street,Washington,Cambridge,12816,(518) 677-3711,(518) 677-0869,AF0081C,"ICC Management & Consulting, Inc.",760-F-012,34,34,0,0,0,AH/ALP,PPHA,CDRO,"11 South Union Street
+Cambridge, NY 12816
+(43.02676070900003, -73.38697474399999)"
+Bickford Home,56 Main Street,Wayne,Macedon,14502,(315) 986-5552,(315) 986-2968,AF0451B,"Schumacher, Peter",770-F-035,24,0,0,0,0,AH,PPHA,WRO,"56 Main Street
+Macedon, NY 14502
+(43.06820255000008, -77.30198155299996)"
+Parkwood Heights Senior Living Community,1340 Parkwood Drive,Wayne,Macedon,14502,(315) 986-9100,(315) 986-5970,AF0695A,Parkwood Heights LLC,770-S-039,49,0,0,0,0,EHP,PPHA,WRO,"1340 Parkwood Drive
+Macedon, NY 14502
+(43.06103924900003, -77.31444210999996)"
+The Terrace at Newark,208 Route 88 South,Wayne,Newark,14513,(315) 331-5282,(315) 331-5285,AF0671A,"The Terrace at Newark, Inc.",770-F-037,71,32,39,0,12,AH/ALP,PPHA,WRO,"208 Route 88 South
+Newark, NY 14513
+(43.01898607500004, -77.09409257499993)"
+Sunrise of Fleetwood,500 North Columbus Avenue,Westchester,Mount Vernon,10552,(914) 667-5660,(914) 665-1488,AF0815A,"SZR New York LH, Inc.",800-F-995,136,0,136,136,30,AH,PPHA,MARO,"500 North Columbus Avenue
+Mount Vernon, NY 10552
+(40.92654619800004, -73.82102609999998)"
+Atria Briarcliff Manor,1025 Pleasantville Road,Westchester,Briarcliff Manor,10510,(914) 923-4400,(914) 944-3055,AF0393C,"ATR New York LH, Inc.",800-F-996,200,0,0,0,0,AH,PPHA,MARO,"1025 Pleasantville Road
+Briarcliff Manor, NY 10510
+(41.14643360700006, -73.82712966999998)"
+Woodview Court,1015 Saw Mill River Road,Westchester,Ardsley,10502,(914) 400-1103,(914) 400-1510,AF0628C,"ATR New York LH, Inc.",800-F-998,40,0,0,0,0,AH,PPHA,MARO,"1015 Saw Mill River Road
+Ardsley, NY 10502
+(41.02223259700003, -73.84395577699996)"
+Maple House,15 Maple Place,Westchester,Ossining,10562,(914) 941-9415,(914) 941-4482,AF0302A,"Family Services of Westchester, Inc.",800-S-123,25,0,0,0,0,EHP,NFP,MARO,"15 Maple Place
+Ossining, NY 10562
+(41.16004931100008, -73.86244577199994)"
+Meadowview at the Wartburg,2 Wartburg Place,Westchester,Mount Vernon,10552,(914) 699-0800,(914) 699-2512,AF0309A,"Wartburg Senior Housing, Inc.",800-S-125,105,0,105,15,15,EHP,NFP,MARO,"2 Wartburg Place
+Mount Vernon, NY 10552
+(40.917750126000044, -73.81316172399994)"
+The Springvale Inn,62 Springvale Rd.,Westchester,Croton-on-Hudson,10520,(914) 739-4404,(914) 941-0115,AF0611A,"Living Independently for the Elderly, Inc.",800-S-129,125,0,125,0,0,EHP,NFP,MARO,"62 Springvale Rd.
+Croton-on-Hudson, NY 10520
+(41.23245877800008, -73.91655809699995)"
+Willow Towers EHP,355 Pelham Road,Westchester,New Rochelle,10805,(914) 636-6565,(914) 636-1890,AF0618A,"Willow Towers, Inc.",800-S-131,150,0,150,30,30,EHP,NFP,MARO,"355 Pelham Road
+New Rochelle, NY 10805
+(40.89834003100003, -73.77811529499996)"
+Kendal on Hudson,1010 Kendal Way,Westchester,Sleepy Hollow,10591,(914) 922-1000,(914) 332-9585,AF0636A,"Kendal on Hudson, Inc.",800-S-134,47,0,47,47,13,EHP,NFP,MARO,"1010 Kendal Way
+Sleepy Hollow, NY 10591
+(41.110653005000074, -73.86710392499998)"
+Five Star Premier Residences of Yonkers,537 Riverdale Avenue,Westchester,Yonkers,10705,(914) 423-7200,(914) 423-7046,AF0273C,D & R Yonkers LLC,800-S-143,84,0,84,42,0,EHP,PPHA,MARO,"537 Riverdale Avenue
+Yonkers, NY 10705
+(40.91361862600007, -73.90235377199997)"
+Sunrise of Crestwood,65 Crisfield Street,Westchester,Yonkers,10710,(914) 395-3500,(914) 395-3510,AF0865A,"GWC-Crestwood, Inc.",800-F-994,116,0,116,116,25,AH,PPHA,MARO,"65 Crisfield Street
+Yonkers, NY 10710
+(40.97569333000007, -73.82850340799996)"
+Lincoln Rest Home,12 Lincoln Avenue,Westchester,Ardsley,10502,(914) 693-1146,(914) 693-1146,AF0294A,"Politan, Nenita",800-F-125,23,0,0,0,0,AH,PPHA,MARO,"12 Lincoln Avenue
+Ardsley, NY 10502
+(41.00972391700003, -73.84429214799997)"
+The Bristal at White Plains,305 North Street,Westchester,White Plains,10605,(914) 202-2656,(914) 681-1801,AF0700A,"EBC White Plains, LLC",800-S-145,190,0,190,50,32,EHP,PPHA,MARO,"305 North Street
+White Plains, NY 10605
+(41.02665409900004, -73.74576133299996)"
+Atria on the Hudson,321 North Highland Avenue,Westchester,Ossining,10562,(914) 762-1980,(914) 762-3501,AF0684B,"ATR New York LH, Inc.",800-S-147,185,0,185,29,29,EHP,PPHA,MARO,"321 North Highland Avenue
+Ossining, NY 10562
+(41.17898547100003, -73.86901723299997)"
+Maplewood Commons,1015 Saw Mill River Road,Westchester,Ardsley,10502,(914) 400-1103,(914) 478-0602,AF0627C,"ATR New York LH, Inc.",800-S-149,80,0,0,0,0,EHP,PPHA,MARO,"1015 Saw Mill River Road
+Ardsley, NY 10502
+(41.02223259700003, -73.84395577699996)"
+The Bristal at Armonk,90 Business Park Drive,Westchester,Armonk,10504,(914) 269-2375,(914) 219-5873,AF0712A,Armonk Senior Care LLC,800-S-151,171,0,171,55,40,EHP,PPHA,MARO,"90 Business Park Drive
+Armonk, NY 10504
+(41.121615838000025, -73.70820869699998)"
+The Ambassador at Scarsdale,9 Saxon Woods Road,Westchester,White Plains,10605,(646) 528-0099,(914) 428-3785,AF0721A,"KARP Scarsdale, LLC",800-S-153,138,0,138,30,22,EHP,PPHA,MARO,"9 Saxon Woods Road
+White Plains, NY 10605
+(40.988995533000036, -73.74656727299998)"
+The Knolls,55 Grasslands Road,Westchester,Valhalla,10595,(914) 989-7878,(914) 989-7818,AF0602B,The Bethel Methodist Home,800-S-155,12,0,0,0,0,EHP,NFP,MARO,"55 Grasslands Road
+Valhalla, NY 10595
+(41.069990620000056, -73.78298134599999)"
+The Osborn,101 Theall Road,Westchester,Rye,10580,(914) 925-8200,(914) 967-4555,AF0902A,The Osborn,800-S-141,103,0,103,103,13,EHP,NFP,MARO,"101 Theall Road
+Rye, NY 10580
+(40.97312193600004, -73.69969788599997)"
+Sunnydale Home,809 Stuart Avenue,Westchester,Mamaroneck,10543,(914) 698-2824,(914) 698-1286,AF0408A,"Guerzon, Perlita",800-F-127,17,0,0,0,0,AH,PPHA,MARO,"809 Stuart Avenue
+Mamaroneck, NY 10543
+(40.95223458000004, -73.72457411399995)"
+Danish Home for the Aged,1065 Quaker Bridge Rd E  PO Box 334,Westchester,Croton on Hudson,10520,(914) 271-3052,(914) 862-4412,AF0231A,Danish Benevolent Society,800-E-008,24,0,0,0,0,AH,NFP,MARO,"1065 Quaker Bridge Rd E PO Box 334
+Croton on Hudson, NY 10520
+(41.21380110300004, -73.85971607299996)"
+St. Michael's Home,3 Lehman Terrace,Westchester,Yonkers,10705,(914) 476-3374,(914) 476-1744,AF0403A,"St. Michael's Home, Inc.",800-E-038,60,0,0,0,0,AH,NFP,MARO,"3 Lehman Terrace
+Yonkers, NY 10705
+(40.91375440100006, -73.90128580999993)"
+Marian Woods,152 Ridge Road,Westchester,Hartsdale,10530,(914) 750-6000,(914) 750-6100,AF0304A,"Marian Woods, Inc.",800-E-130,50,0,0,0,0,AH,NFP,MARO,"152 Ridge Road
+Hartsdale, NY 10530
+(41.02045561700004, -73.80530476199993)"
+White Plains Guest Home for Adults,32 Ridgeview Avenue,Westchester,White Plains,10606,(914) 949-8984,(914) 949-0802,AF0436B,"Family Services of Westchester, Inc.",800-E-134,15,0,0,0,0,AH,NFP,MARO,"32 Ridgeview Avenue
+White Plains, NY 10606
+(41.02153438700003, -73.78036018499995)"
+Crestview Manor ALP,150 Old Saw Mill River Road,Westchester,Hawthorne,10532,(914) 769-1762,(914) 769-2536,AF0228A,"Reckess, Azzy",800-F-129,76,49,0,0,0,AH/ALP,PPHA,MARO,"150 Old Saw Mill River Road
+Hawthorne, NY 10532
+(41.08542706000003, -73.82182160199994)"
+The Country House in Westchester,2000 Baldwin Road,Westchester,Yorktown Heights,10598,(914) 962-3625,(914) 962-4130,AF0226B,"The Country House in Westchester, an Adult Home LLC",800-F-007,100,0,100,0,0,AH,PPHA,MARO,"2000 Baldwin Road
+Yorktown Heights, NY 10598
+(41.276250772000026, -73.79150181699998)"
+Five Star Premier Residences of Yonkers,537 Riverdale Avenue,Westchester,Yonkers,10705,(914) 709-1234,(914) 378-9062,AF0272C,D & R Yonkers LLC,800-F-992,40,0,40,18,40,AH,PPHA,MARO,"537 Riverdale Avenue
+Yonkers, NY 10705
+(40.91361862600007, -73.90235377199997)"
+Brightview Tarrytown,581 Old White Plains Rd,Westchester,Tarrytown,10591,(914) 297-8594,(914) 909-5547,AF0728A,"BV Tarrytown Operator, LLC",800-F-131,107,0,107,107,31,AH,PPHA,MARO,"581 Old White Plains Rd
+Tarrytown, NY 10591
+(41.062225168000055, -73.83569573899996)"
+New Rochelle Home for Adults,41 Lockwood Ave.,Westchester,New Rochelle,10801,(914) 576-1202,(914) 633-0308,AF0331B,"New Rochelle Home for Adults, LLC",800-F-132,250,0,0,0,0,AH,PPHA,MARO,"41 Lockwood Ave.
+New Rochelle, NY 10801
+(40.91422507100003, -73.78641491799993)"
+Yorktown Assisted Living Residence,2276 Catherine Street,Westchester,Cortlandt Manor,10567,(914) 737-2255,(914) 737-8822,AF0600B,"YALR Operating, LLC",800-F-134,85,40,45,0,40,AH/ALP,PPHA,MARO,"2276 Catherine Street
+Cortlandt Manor, NY 10567
+(41.28098376300005, -73.84979654299997)"
+Palisade Gardens,185 Palisade Avenue,Westchester,Yonkers,10703,(914) 966-1300,(914) 423-2264,AF0350A,"Orzel, Israel",800-F-971,106,0,0,0,0,AH,PPHA,MARO,"185 Palisade Avenue
+Yonkers, NY 10703
+(40.94035151800006, -73.89333614999998)"
+Mohegan Park,3441 Lexington Avenue,Westchester,Mohegan Lake,10547,(914) 528-3512,(914) 528-3591,AF0316A,"Orzel, Israel",800-F-974,150,0,0,0,0,AH,PPHA,MARO,"3441 Lexington Avenue
+Mohegan Lake, NY 10547
+(41.31922815400003, -73.85946423699994)"
+The Fountains at RiverVue,1 Rivervue Place,Westchester,Tuckahoe,10707,(914) 768-6000,(914) 768-6020,AF0419A,"The Fountains Operating Company (NY), Inc.",800-F-981,141,0,141,141,24,AH,PPHA,MARO,"1 Rivervue Place
+Tuckahoe, NY 10707
+(40.95206980100005, -73.82966009799998)"
+Chester Hill Adult Home,187 Cottage Avenue,Westchester,Mount Vernon,10550,(914) 699-4294,(914) 665-7008,AF0236B,187 Cottage Avenue Corporation,800-F-986,21,0,0,0,0,AH,PPHA,MARO,"187 Cottage Avenue
+Mount Vernon, NY 10550
+(40.91760110000007, -73.83340300399993)"
+The Kensington,100 Maple Avenue,Westchester,White Plains,10601,(914) 390-0080,(914) 390-0277,AF0688A,"White Plains Kensington, LLC",800-F-988,130,0,130,130,62,AH,PPHA,MARO,"100 Maple Avenue
+White Plains, NY 10601
+(41.02653193300006, -73.76722158499996)"
+Westchester Center for Independent and Assisted Living,75 Stratton Street South,Westchester,Yonkers,10701,(914) 787-7400,,AF0692A,"Westchester ALP Management, LLC",800-F-990,195,195,0,0,0,AH/ALP,PPHA,MARO,"75 Stratton Street South
+Yonkers, NY 10701
+(40.94255379900005, -73.87639074499998)"
+Willow Gardens,60 Willow Drive,Westchester,New Rochelle,10805,(914) 336-2338,(914) 235-5683,AF0737A,"Willow Gardens, Inc.",800-E-136,51,0,51,30,51,AH,NFP,MARO,"60 Willow Drive
+New Rochelle, NY 10805
+(40.89785188600007, -73.78040523499999)"
+The Cloisters,171 North Maple Street,Wyoming,Warsaw,14569,(585) 786-8727,(585) 786-0436,AF0472C,"Sunrise Assets, LLC",900-F-005,48,0,0,0,0,AH,PPHA,WRO,"171 North Maple Street
+Warsaw, NY 14569
+(42.74591441900003, -78.13912838899995)"
+Clinton Crest Manor,411 Clinton Street,Yates,Penn Yan,14527,(315) 536-8800,(315) 531-9088,AF0471A,"Harpending Housing, Inc.",910-E-004,42,0,0,0,0,AH,NFP,WRO,"411 Clinton Street
+Penn Yan, NY 14527
+(42.66875995500004, -77.04213099899994)"
+St. Mark's Terrace EHP #1,110 Chapel Street,Yates,Penn Yan,14527,(315) 536-2440,(315) 536-1253,AF0557A,St. Mark's Housing,910-S-005,27,0,0,0,0,EHP,NFP,WRO,"110 Chapel Street
+Penn Yan, NY 14527
+(42.66285931900006, -77.05675948399994)"
+St. Mark's Terrace EHP #2,36 Millard Street,Yates,Dundee,14837,(607) 243-5215,(607) 243-5377,AF0558A,St. Mark's Housing,910-S-006,22,0,0,0,0,EHP,NFP,WRO,"36 Millard Street
+Dundee, NY 14837
+(42.52629055700004, -76.98301055399997)"
