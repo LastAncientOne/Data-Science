@@ -36,11 +36,17 @@ R 3.5.3
   - Create a predictive models.  
 ### &#x1F535; Learning about Exploratory Data Analysis 
 * Import, clean, and validate  
+  - Define Variables
+    1. Y is "Dependent Variable" and goes on x-axis (the bottom, horizontal one) - output value
+    2. X is "Independent Variable" and goes on the y-axis (the left side, vertical one) - input value
   - Type of Data  
     1. Qualitative  
         - Discrete and Continuous  
+        Discrete variables can only take certain numerical values and are counted  
+        Continuous variables can take any numerical value and are measured
     2. Quantitative   
         - Binary, nominal data, and ordinal data  
+        Categorical variables take category or label values and place an individual into one of several groups.
   - Type of data measusrements  
     1. Nominal  
     2. Ordinal  
