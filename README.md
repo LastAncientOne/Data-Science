@@ -13,7 +13,7 @@ R 3.5.3
 ### &#x1F535; Step-by-Step to Data Science  
 * Define Problem  
 * Data Collection  
-* Data understanding    
+* Data Understanding    
 * Data Analysis/Cleaning  
 * Data Organization/Transformation  
 * Data Validation/Anomaly Detection  
