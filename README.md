@@ -1,13 +1,16 @@
 <img src="Title.PNG">
 <img src="TitleR.PNG">
+<img src="TitleExcel.PNG">
 
 # Data Science  
 This a practice of writing codes using kaggle data and real world data. In addition, is to learn to be a data scientists and expanding more knowledge in machine learning and deep learning. Understanding data and analyzing data.
 
 # Prerequisites
-Python 3.5
+Python 3.5  
 
-R 3.5.3 
+R 3.5.3   
+
+Excel 2016  
 
 # &#x1F537; Getting Started with Data Science &#x1F537;
 ### &#x1F535; Step-by-Step to Data Science  
