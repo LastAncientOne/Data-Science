@@ -12,6 +12,8 @@ R 3.5.3
 
 Excel 2016  
 
+Power BI
+
 # &#x1F537; Getting Started with Data Science &#x1F537;
 ### &#x1F535; Step-by-Step to Data Science  
 * Define Problem  
