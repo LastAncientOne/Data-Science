@@ -1,6 +1,7 @@
 <img src="Title.PNG">
 <img src="TitleR.PNG">
 <img src="TitleExcel.PNG">
+<img src="TitleBI.PNG">
 
 # Data Science  
 This a practice of writing codes using kaggle data and real world data. In addition, is to learn to be a data scientists and expanding more knowledge in machine learning and deep learning. Understanding data and analyzing data.
