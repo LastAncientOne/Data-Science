@@ -46,11 +46,11 @@ Power BI
     1. Y is "Dependent Variable" and goes on x-axis (the bottom, horizontal one) - output value
     2. X is "Independent Variable" and goes on the y-axis (the left side, vertical one) - input value
   - Type of Data  
-    1. Qualitative  
+    1. Quantitative 
         - Discrete and Continuous  
         Discrete variables can only take certain numerical values and are counted  
         Continuous variables can take any numerical value and are measured
-    2. Quantitative   
+    2. Qualitative  
         - Binary, nominal data, and ordinal data  
         Categorical variables take category or label values and place an individual into one of several groups.
   - Type of data measusrements  
