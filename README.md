@@ -53,7 +53,7 @@ Power BI
     2. Qualitative  
         - Binary, nominal data, and ordinal data  
         Categorical variables take category or label values and place an individual into one of several groups.
-  - Type of data measusrements  
+  - Type of data measurements 
     1. Nominal  
     2. Ordinal  
     3. Interval  
