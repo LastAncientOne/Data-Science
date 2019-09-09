@@ -56,9 +56,11 @@ Power BI
         - Binary, nominal data, and ordinal data  
         Categorical variables take category or label values and place an individual into one of several groups.
   - Type of data measurements 
-    1. Nominal  
-    2. Ordinal  
-    3. Interval  
+    1. Nominal - names or labels variable
+    2. Ordinal - non-numeric concepts like satisfaction, happiness, discomfort, etc.
+    3. Interval - numeric scales in which we know both the order and the exact differences between the values
+    4. Ratio - measurement scales
+    
 * Visualize distributions  
   - Univariate visualization  
   - Bivariate visualization  
