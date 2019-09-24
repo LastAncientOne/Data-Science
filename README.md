@@ -40,6 +40,15 @@ Power BI
   - Research and developed algorithms.  
   - Predictions from data with labels and features.  
   - Create a predictive models.  
+  
+### &#x1F535; Two Types of Data  
+* Supervised Data (Data pre-categorized or numerical)  
+  - Classification (Predict a category)  
+  - Regression (Predict a number)  
+* Unsupervised Data (Data is not labeled in any way)  
+  - Clustering (Divide by similarity)  
+  - Dimension Reduction (Generalization) - Find hidden dependencies    
+  - Association (Identify Sequences)       
 ### &#x1F535; Learning about Exploratory Data Analysis 
 * Import, clean, and validate  
   - Define Variables
