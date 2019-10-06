@@ -152,6 +152,8 @@ Power BI
   4. Pytorch  
   5. sklearn  
   6. Caffe  
+  7. Apache Spark  
+  8. Chainer  
 ### &#x1F535; Learning to improve the Model or Prediction
   - Improve the "Accuracy" of Machine Learning Model  
   1. Add More Data
