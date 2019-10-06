@@ -88,7 +88,7 @@ Power BI
   - Range, Interquartile Range and Box Plot  
   - Variance and Standard deviation  
   - Z-scores  
-  - Contingency Table, Scatterplot, Pearsn’s   
+  - Contingency Table, Scatterplot, Pearson’s   
   - Basics of Regression  
   - Elementary Probability  
   - Random Variables and Probability Distributions  
