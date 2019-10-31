@@ -68,7 +68,9 @@ Power BI
     1. Nominal - names or labels variable
     2. Ordinal - non-numeric concepts like satisfaction, happiness, discomfort, etc.
     3. Interval - numeric scales in which we know both the order and the exact differences between the values
-    4. Ratio - measurement scales
+    4. Ratio - measurement scales  
+    
+    Likert scale is type of data. Likert scale is composed of a series of four or more Likert-type items that represent similar questions combined into a single composite score/variable. Likert scale data can be analyzed as interval data, i.e. the mean is the best measure of central tendency. use means and standard deviations to describe the scale. For example, it is a rating scale, often found on survey forms, that measures how people feel about something. It includes a series of questions that you ask people to answer, and ideally 5-7 balanced responses people can choose from. It often comes with a neutral midpoint.
     
 * Visualize distributions  
   - Univariate visualization  
