@@ -40,6 +40,13 @@ Power BI
   - Research and developed algorithms.  
   - Predictions from data with labels and features.  
   - Create a predictive models.  
+
+### &#x1F535; Types of Data Analysis: Techniques and Methods  
+* Text Analysis  
+* Statistical Analysis  
+* Diagnostic Analysis  
+* Predictive Analysis  
+* Prescriptive Analysis   
   
 ### &#x1F535; Two Types of Data  
 * Supervised Data (Data pre-categorized or numerical)  
