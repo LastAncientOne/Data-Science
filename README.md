@@ -42,6 +42,7 @@ Power BI
   - Create a predictive models.  
 
 ### &#x1F535; Types of Data Analysis: Techniques and Methods  
+* Descriptive Analysis  
 * Text Analysis  
 * Statistical Analysis  
 * Diagnostic Analysis  
