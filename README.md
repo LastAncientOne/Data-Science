@@ -60,8 +60,8 @@ Power BI
 ### &#x1F535; Learning about Exploratory Data Analysis 
 * Import, clean, and validate  
   - Define Variables
-    1. Y is "Dependent Variable" and goes on x-axis (the bottom, horizontal one) - output value
-    2. X is "Independent Variable" and goes on the y-axis (the left side, vertical one) - input value
+    1. Y is "Dependent Variable" and goes on y-axis (the left side, vertical one) - output value
+    2. X is "Independent Variable" and goes on the x-axis (the bottom, horizontal one) - input value
   - Type of Data  
     1. Quantitative
       - Ratio or Interval
