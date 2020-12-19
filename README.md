@@ -180,3 +180,8 @@ Power BI
   8. Cross Validation  
   9. Algorithm Tuning
   10. Bagging or Boosting  
+  
+  
+# Author:
+## Tin Hang
+
