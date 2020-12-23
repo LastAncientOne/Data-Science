@@ -4,7 +4,7 @@
 <img src="TitleBI.PNG">
 
 # Data Science  
-This a practice of writing codes using kaggle data and real world data. In addition, is to learn to be a data scientists and expanding more knowledge in machine learning and deep learning. Understanding data and analyzing data.
+This a practice of writing codes using kaggle data and real world data. Learning step-by-step in analyzing data in python, R, Excel, and Power BI. In addition, is to learn to be a data scientists and expanding more knowledge in machine learning and deep learning. Understanding data and analyzing data.
 
 # Prerequisites
 Python 3.5  
