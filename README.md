@@ -1,4 +1,4 @@
-<img src="Title.PNG">
+<img src="DataSciencePython.PNG">
 <img src="TitleR.PNG">
 <img src="TitleExcel.PNG">
 <img src="TitleBI.PNG">
