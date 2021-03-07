@@ -1,5 +1,5 @@
 <img src="DataSciencePython.PNG">
-<img src="DataScience.PNG">
+<img src="DataScienceR.PNG">
 <img src="DataScienceExcel.PNG">
 <img src="DataSciencePowerBI.PNG">
 
