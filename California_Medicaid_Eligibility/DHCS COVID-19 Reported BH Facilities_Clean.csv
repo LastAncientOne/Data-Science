@@ -1,0 +1,403 @@
+Date,Facility Type,Facility Name,License Number,County,Staff: Confirmed COVID-19 (CUMULATIVE),Residents/Clients: Confirmed COVID-19 (CUMULATIVE),Staff: COVID-Related Deaths (CUMULATIVE),Residents/Clients: COVID-Related Deaths (CUMULATIVE),Annotaion Code,Annotation Code Description
+3/12/2021,Substance Use Disorder - Residential,Cherry Hill Detoxification Center ,010001DN,Alameda,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,EBCRP Residential Program ,010003BN,Alameda,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,C.U.R.A. Inc.,010010AN,Alameda,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,"New Bridge Foundation, Inc.",010013AN,Alameda,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Skyway House,040006NN,Butte,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,The Lakes Treatment Center,050005AP,Calaveras,0,15,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Diablo Valley Ranch,070001AN,Contra Costa,13,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Pueblos Del Sol,070001CN,Contra Costa,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,East County Women's Recovery Center/East County Wollam,070001ZN,Contra Costa,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Discovery House,070012BN,Contra Costa,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,New Start Recovery Solutions,070048AP,Contra Costa,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Progress House Men's Facility,090002AN ,El Dorado,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,WestCare California,100010FN,Fresno,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Turning Point Quest House,100028EN,Fresno,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Fresno First,100042CN,Fresno,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Herndon Recovery Center ,100074CP,Fresno,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,"Humboldt Recovery Center, Incorporated",120001AN,Humboldt,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Jason’s Retreat/Capistrano Community for Women,150004AN,Kern,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Capistrano Lincoln Street Retreat,150004GN,Kern,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Ken Kennemer Substance Abuse Treatment Center,150013BN,Kern,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Samuel's House,160005CN,Kings,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,H.O.M.E. - Tule House,170014AN,Lake,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Antelope Valley,190001AN,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Outpatient,Alcolholism Center for Women,190002AN,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Alcoholism Center for Women,190002BN,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,San Fernando Recovery Center,190003AP,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Beacon House,190006AN,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Outpatient,Behavioral Health Services,190007CN,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Outpatient,"Behavioral Health Services, Inc. ",190007LN,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,"Behavioral Health Services, Inc. ",190007MN,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Outpatient,Long Beach Family Recovery Center,190007VN,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Positive Steps,190011AFN,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,La Casita de las Mamas of Downey,190011ON,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Angel Step Too,190011VN,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Men's Treatment Program,190016BN,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Women's Treatment Program,190016FN,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Women and Children First: Pregnant and Post-Partum Women,190016MN,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,The Salvation Army,190023AN,Los Angeles,0,12,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,The Salvation Army Bell Shelter,190023CN,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,House of Hope,190025AN,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Outpatient,"House of Hope Foundation, Inc. ",190025GN,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,VOA of Central City Recovery Services,190027BN,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Little House,190029AN,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Sanctuary Treatment Center,190042AP,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,NCADD,190049AN,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Outpatient,"Iris Healing Center, LLC",190056AP,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,"California Hispanic Commission on Alcohol and Drug Abuse, Inc. - Latinos Recovery Home",190065CN,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Outpatient,Latino Family Center,190065IN,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Safe Refuge,190077AHN,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Outpatient,Safe Refuge,190077CN,Los Angeles,0,15,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Stepping Stones,190081IN,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Royal Palms Recovery Home,190081JN,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Rena B Recovery Home ,190081KN ,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Bimini Recovery Center,190081LN,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,"Tarzana Treatment Centers, Inc. ",190085AN,Los Angeles,0,36,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,"Tarzana Treatment Centers, Inc. ",190085BN ,Los Angeles,0,18,0,0,0,No data Available
+3/12/2021,Substance Use Disorder - Residential,"Tarzana Treatment Centers, Inc. ",190085LN,Los Angeles,0,14,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Chabad Residential Treatment Center,190087CN,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Outpatient,CHABAD Recovery Outpatient Center,190087DN ,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Goldwing Recovery,190090AP,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Impact Drug and Alcohol Treatment Center,190094AN,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Outpatient,"Principles, INC., D.B.A. Impact",190094HN,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,"CRI-HELP, Inc. ",190095AN,Los Angeles,0,12,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Socorro,190095MN,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,"Canon Human Services Centers, Inc. - Brown Scapular Program",190099EN,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Allen House,190100IN,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Asian American ,190112AN,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Outpatient,Asian-American Drug Abuse Program,190112DN,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Pheonix House - Venice,190115AN,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Fred Brown's Recovery Services,190135CN,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Fred Brown's Recovery Services,190135EN,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,"Support for Harbor Area Women's Lives, ",190147AN,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Westside Residence Hall,190188AN,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,"CROSSROADS, INC",190205AN,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Outpatient,"EL PROYECTO DEL BARRIO, INC",190236CN,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Outpatient,Shields For Families ,190238CN,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Outpatient,Shields For Families ,190238FN,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,American Indian Changing Spirits ,190239AN,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Outpatient,National Council on Alcoholism and Drug Dependence of East Gabriel and Pomona,190241CN,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Amity Foundation-Amistad De Los Angeles,190259AN,Los Angeles,12,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Outpatient,The High Road Program,190262AN,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Mariposa House,190279DP,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Passages,190283AP,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Outpatient,"I-ADARP, (INTER-AGENCY DRUG ABUSE RECOVERY PROGRAM)",190321AN,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Beit T'Shuvah,190326AN,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,HOUSE OF UHURU,190377AN,Los Angeles,11,17,0,0,0,No data Available
+3/12/2021,Substance Use Disorder - Outpatient,Child and Family Center,190459AN ,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Outpatient,Valley Women's Center,190502AN,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Outpatient,Coastal Recovery Center,190511BP,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Weingart Center Associations/EPIC,190541AN,Los Angeles,0,12,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Seasons In Malibu,190695AP,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Mela Counseling,190713AN,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Healthright 360,190728AN,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Healthright 360,190728BN,Los Angeles,15,55,0,0,0,No data Available
+3/12/2021,Substance Use Disorder - Outpatient,Prototypes Outpatient Behavioral Health Services Center,190728DN,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Outpatient,"Prototypes Outpatient Behavioral Services Center, Pomona",190728EN,Los Angeles,0,12,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Prototypes Women's Center ,190728GN,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,The Discovery House,190764AP,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,The Villa Treatment Center,190807AP,Woodland Hills,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,"The Teen Project, Inc. ",190811AN,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Malibu Hills Treatment Corp.,190834BP,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Hillsman Center,190838AP,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Harmony Place,190879BP,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Harmony Place,190879CP,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Peggy Albrecht Friendly House,190890AN,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Melrose Recovery LLC,190907AP,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Iris Healing Retreat,190943AP,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Healthy Living Residential Program ,190956AP,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Outpatient,"Helping Hands Rehabilitation Clinic, Inc",190959BP,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Circle of Hope,190990AP,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,West Holly Wood ATC,190997AP,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Journey,191001AP,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,New Day Rehab Center,191007AP,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Transformations Care ,191011AP,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Outpatient,Phase Two ATC,191046AP,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Mariposa Detox Center,191049AP,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Bayside Marin,210030AP,Marin,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Outpatient,Bayside Marin ,210030CP,Marin,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Alta Mira Recovery Programs,210040AP,Marin,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Avery Lane ,210049BP,Marin,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,The Rose Julia Riordan Tranquility Village ,240001EN,Merced,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,"Sun Street Centers, Men's Residential",270003AN,Monterey,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Outpatient,Sunstreet Centers King City Outpatient,270003GN,Monterey,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Duffy's Myrtledale,280019AP,Napa,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Outpatient,Grass Valley Service Center,290002AN,Nevada,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Hope House/Serenity House,290002BN,Nevada,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Lovett Recovery Center,290002IN,Nevada,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Outpatient,OC Revive,300010AP,Orange,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,"South Coast Counseling, Inc. ",300012BN,Orange,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Hillside Mission LLC,300014AP,Orange,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Cornerstone Recovery Home #4,300017DP,Orange,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Outpatient,Cornerstone of Southern California Outpatient Services,300017FP,Orange,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,"Opus Health, LLC",300028AP,Orange,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,"Opus Health, LLC ",300028CP,Orange,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,The Mend,300030AP,Orange,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,"Phoenix House Orange County, Inc.",300033AN,Orange,0,27,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Stone Ridge Recovery,300041AP,Orange,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Asana Recovery,300043AP,Orange,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Asana Recovery,300043BP,Orange,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,"Resurgence California, LLC",300045EP,Orange,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Covenant Hills Treatment Center,300074BP,Orange,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Coventant Hills Treatment Centers,300074CP,Orange,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Outpatient,Covenant Hills Treatment Centers,300074DP,Orange,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Twin Town Treatment Centers,300128CP,Orange,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,"Healthcare Services, Inc.",300188AP,Orange,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,"Healthcare Services, Inc.",300188CP,Orange,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Ocean Valley Behavioral Health,300201AP,Orange,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Lighthouse Treatment Center,300266AP,Orange,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Sober Partners Beach House,300305AP,Orange,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,"South Coast Behavioral Health Guesthouse, Inc. ",300313BP,Orange,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,South Coast Behavioral Health,300313FP,Orange,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Beachside Recovery,300315CP,Orange,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Outpatient,Beachside Recovery,300315FP,Orange,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Oceanfront Recovery,300318DP,Orange,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Oceanfront Recovery,300318FP,Orange,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Outpatient,Affintity Recovery,300330EP,Orange,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Truvida Recovery ,300351CP,Orange,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Outpatient,California Prime Recovery,300365AP,Orange,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,"Elite Care, Inc. ",300626EP ,Orange,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Outpatient,"Elite Care, Inc. ",300626FP,Orange,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,"Advanced Recovery Solutions, LLC",300641DP,Orange,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,"Akua Behavioral Health, Inc. ",300647CP,Orange,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Landmark Recovery Center,300660CP,Orange,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Outpatient,"Buckeye Recovery Network, LLC",300686AP,Orange,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Outpatient,Auburn Campus - Outpatient Program,310019AN ,Placer,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Auburn Campus Residential Program,310019BN,Placer,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Outpatient,Lincoln Service Center,310019GN,Placer,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,ABC Recovery Centers,330001AN,Riverside,28,35,0,0,0,No data Available
+3/12/2021,Substance Use Disorder - Outpatient,"ABC Recovery Center, Inc. ",330001BN ,Riverside,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,"The Ranch Recovery Centers, Inc. ",330003BN,Riverside,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,MFI Recovery Center,330013AN,Riverside,15,23,0,0,0,No data Available
+3/12/2021,Substance Use Disorder - Residential,A Woman's Place,330013GN,Riverside,11,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Outpatient,MFI,330013IN,Riverside,20,0,0,0,0,No data Available
+3/12/2021,Substance Use Disorder - Outpatient,MFI Recovery,330013JN,Riverside,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,MFI Recovery Center,330013KN,Riverside,14,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Outpatient,MFI,330013QN,Riverside,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Outpatient,MFI Murrieta,330013RN,Riverside,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,MFI Recovery Center,330013SN,Riverside,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Soroptimist House of Hope,330016AN,Riverside,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Private Solution Detox Corp.,330019AP,Riverside,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Metcalf Recovery Ranch,330020AN,Riverside,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Bella Monte Recovery Center,330029AP,Riverside,0,18,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,10 Acre Ranch,330042EN,Riverside,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Outpatient,"10 Acre Ranch, Inc. ",330042FN,Riverside,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,California Behavioral Health,330053AP,Riverside,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Hemet Valley Recovery,330101AP,Riverside,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Rancho Milagro Recovery Inc.,330144BP,Riverside,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Outpatient,Palm Desert Recovery,330148AP,Riverside,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Affinity Recovery ,330174AP,Riverside,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Providence Recovery Center,330177AN,Riverside,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Pacific Manor Recovery,330180AP,Riverside,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Altua,340002AN,Sacramento,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,New Dawn Treatment,340039CP,Sacramento,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Diamond House Detox,340111AP,Sacramento,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Outpatient,Inland Valley Recovery Services,360001ABN,San Bernardino,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Inland Valley Recovery Services- San Bernardino Recovery Center,360001BN,San Bernardino,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Women’s and Men’s Residential Services,360001ZN,San Bernardino,12,33,0,0,0,No data Available
+3/12/2021,Substance Use Disorder - Residential,"Social Science Services, Inc.",360002DN,San Bernardino,24,57,0,0,0,No data Available
+3/12/2021,Substance Use Disorder - Residential,Cedar House Life Change Center,360002FN,San Bernardino,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,St. John of God Health Care Services,360003HN,San Bernardino,0,12,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Outpatient,St. John of God Health Care Services,360003IN,San Bernardino,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Gibson House for Men,360004BN,San Bernardino,20,19,0,0,0,No data Available
+3/12/2021,Substance Use Disorder - Residential,Gibson House Recovery Center for Women,360004FN,San Bernardino,14,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Outpatient,Ontario Outpatient,360010AN,San Bernardino,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Outpatient,"High Desert Child Adolescent and Family Services Center, Incorporated",360030AN,San Bernardino,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Outpatient,PRIDE,360033AN,San Bernardino,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Outpatient,Redlands Center for Change ,360033DN,San Bernardino,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Outpatient,Fontana Center for Change,360033JN,San Bernardino,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Outpatient,San Bernardino Center for Change,360033MN,San Bernardino,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Outpatient,Mariposa Community Counseling,360050HN,San Bernardino,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Outpatient,New Creation Addiction Treatment Center,360075AP,San Bernardino,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,His House,360075BP,San Bernardino,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Benchmark Transitions at Wildwood Canyon,360099AP,San Bernardino,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Harvey House Manor II,360111BP,San Bernardino,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Serenity Center,370005GN,San Diego,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Outpatient,North County Serenity House - Outpatient,370005HN,San Diego,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Veteran Village of San Diego,370010BN,San Diego,26,16,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Casa De La Migras,370014AN,San Diego,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Saddleback Recovery,370015AP,San Diego,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Outpatient,Shoreline Recovery Center ,370017AP,San Diego,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Pemarro,370025AN,San Diego,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,McAlister Institute - Lemon Grove Facility,370045FN,San Diego,12,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Family Recovery Center,370069TN,San Diego,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Alpha Project,370073AN,San Diego,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Escondido Community Sobering Services,370093BN,San Diego,0,11,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Lighthouse,370094AP,San Diego,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Aton Center,370122AP,San Diego,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,AToN Center ,370122FP,San Diego,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Genesis Recovery,370139AN,San Diego,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Villa Kali MA ,370154AP,San Diego,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Paragon Recovery,370163AP,San Diego,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,CAI-Boston Avenue,370175AP,San Diego,0,42,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Jackson House Recovery,370182AP,San Diego,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Joe Healy Detoxification Program,380001IN,San Francisco,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Harbor Light Alcohol Services Center,380006AN,San Francisco,0,44,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,HealthRIGHT 360,380016AFN,San Francisco,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,HealthRIGHT 360,380016ALN,San Francisco,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Outpatient,HealthRIGHT 360 ,380016ASN,San Francisco,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Good Shepherd Gracenter,380040BN,San Francisco,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Recovery House,390002AN,San Joaquin,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Santa Barbara Hospitality House,420002AN,Santa Barbara,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Outpatient,Recovery Way Home,420010EN,Santa Barbara,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Transitional Center for Women and Children,420010JN,Santa Barbara,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Project Recovery Residential Detox Program,420022EN,Santa Barbara,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Mariposa Lodge,430016FN,Santa Clara,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Outpatient,Indian Health Center,430047CN,Santa Clara,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,New Life Recovery,430053AP,Santa Clara,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Outpatient,"Asian American Recovery Services, A Healthright 360 Program",430079AN,Santa Clara,0,0,0,0,0,No data Available
+3/12/2021,Substance Use Disorder - Outpatient,Groups: Recover Together,450002AP,Shasta ,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Visions of the Cross,450020AN,Shasta ,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Outpatient,"VOTC, Inc.",450020BN,Shasta ,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Visions of the Cross,450020EN,Shasta ,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Southern Solano Alcohol Council,480002BN,Solano,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Outpatient,Recovery Connection,480002GN,Solano,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Genesis House ,480005AN,Solano,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Outpatient,Archway Recovery Services Intensive Outpatient Program,480022BN,Solano,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Campobello Chemical Dependency Recovery Center,490002AP,Sonoma,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Olympia House,490036AP,Sonoma,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Stanislaus Recovery Center ,500002EN,Stanislaus,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,The PAAR Center,540001HN,Tulare,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Outpatient,Recovery Resources ,540020AP,Tulare,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Prototypes Women's Center-Ventura,560054AN,Ventura,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder - Residential,Walter's House,570008AN,Yolo,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,HAART Oakland, 01-70,Alameda,0,23,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,"Successful Alternatives for Addiction and Counseling Services, Inc. DBA MedMark Treatment Centers Hayward", 01-98,Alameda,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,Aegis-Chico, 04-02,Butte,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,"Addiction Research and Treatment, Inc. DBA BAART Programs Van Ness", 10-01,Fresno,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,"Addiction Research and Treatment, Inc. DBA BAART Programs E Street", 10-02,Fresno,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,"MedMark Treatment Centers- Fresno West, Inc. DBA MedMark Treatment Centers Fresno", 10-06,Fresno,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,Aegis- Fresno, 10-07,Fresno,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,American Health Services,15-04,Kern,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,Aegis - Bakersfield 21st Street ,15-05,Kern,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,Aegis-Delano,15-06,Kern,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,Aegis - Bakersfield Columbus,15-07,Kern ,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,Western Pacific Med-Corp/Glendale,19-012,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,"Narcotics Prevention Association, Inc.",19-013,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,COASTAL RECOVERY CENTER                             ,19-038,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,Western Pacific Med-Corp,19-060,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,Western Pacific Med-Corp/Panorama,19-088,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,Tavarua Health Services,19-107,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,"Addiction Research and Treatment, Inc. DBA BAART Programs San Mateo",19-112,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,Western Pacific Med-Corp,19-114,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,"BAART Behavioral Health Services, Inc. DBA BAART Programs  Beverly",19-115D,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,Western Pacific Med-Corp / North Hollywood,19-139,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,American Health Services (Los Angeles),19-140,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,American Health Services (Palmdale),19-141,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,American Health Services (Venice),19-142,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,American Health Services (Van Nuys),19-143,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,Eldorado Community Service Center,19-148,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,Aegis-West Covina,19-153,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,Aegis- La Mirada,19-154,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,Aegis- Pomona,19-155,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,Aegis - El Monte ,19-156,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,Aegis - Wilmington,19-157,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,Aegis - Inglewood,19-158,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,Aegis - Pasadena ,19-159,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,ALT Recovery Group 2,19-164,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,Aegis - Merced ,24-02,Merced ,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,Recovery Solutions of Santa Ana,30-09,Orange,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,Western Pacific Med-Corp / Stanton,30-10,Orange,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,Western Pacific Med-Corp / Fullerton,30-11,Orange,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,Aegis- Roseville,31-02,Placer,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,Riverside Treatment Center,33-05,Riverside,0,27,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,DESERT TREATMENT CLINIC                                 ,33-06,Riverside,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,Temecula Valley Treatment Center,33-07,Riverside,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,Sacramento Treatment Clinic,34-08,Sacramento,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,"MedMark Treatment Centers - Sacramento, Inc. DBA MedMark Treatment Centers Sacramento",34-09,Sacramento,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,"C.O.R.E. MEDICAL CLINIC, INC",34-10,Sacramento ,0,13,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,"BAART Behavioral Health Services, Inc. DBA BAART Programs Norwood",34-12,Sacramento,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,"Bi-Valley Medical Clinic, Inc. DBA BAART Programs Carmichael",34-13,Sacramento,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,"Bi-Valley Medical Clinic, Inc. DBA BAART Programs Carmichael",34-14,Sacramento,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,Colton Clinical Services,36-05,San Bernardino,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,Aegis- Ontario,36-11,San Bernardino,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,Aegis-Hesperia,36-12,San Bernardino,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,Aegis - Redlands ,36-13,San Bernadino,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,"San Diego Health Alliance, Inc. El Cajon",37-09,San Diego,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,"San Diego Health Alliance, Inc. Capalina",37-14,San Diego,0,11,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,"San Diego Health Alliance, Inc. Fashion Valley",37-15,San Diego,0,17,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,San Diego Treatment Services 3rd ave,37-16,San Diego,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,"Mission Treatment Services, Inc. Escondido",37-17,San Diego,0,13,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,"Mission Treatment Services, Inc. San Diego",37-18,San Diego,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,"Mission Treatment Services, Inc. Oceanside",37-22,San Diego,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,"Addiction Research and Treatment, Inc. DBA BAART Programs Market Street",38-04,San Francisco,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,"Addiction Research and Treatment, Inc. DBA BAART Programs Turk Street",38-05,San Francisco,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,Fort Help Bryant,38-21,San Francisco,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,"MedMark Treatment Centers - Stockton, Inc. DBA MedMark Treatment Centers Stockton",39-07,Sacramento,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,Aegis - Stockton Lower Sacramento ,39-09,San Joaquin,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,Aegis - Stockton California St,39-11,San Joaquin,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,Aegis - Stockton 5th Street,39-12,San Joaquin ,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,Aegis - Manteca,39-14,San Joaquin,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,Aegis - Atascadero,40-02,San Luis Obispo,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,"Addiction Research and Treatment, Inc. DBA BAART Programs San Mateo",41-05,San Mateo,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,Aegis - Santa Maria,42-07,Santa Barbara,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,Aegis- Santa Barbara,42-08,Santa Barbara,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,Aegis - Redding ,45-01,Shasta ,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,"Successful Alternatives for Addiction and Counseling Services, Inc. DBA MedMark Treatment Centers Vallejo",48-04,Solano,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,Aegis - Modesto,50-03,Stanislaus,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,Aegis - Marysville ,51-01,Sutter-Yuba,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,"BAART Behavioral Health Services, Inc. DBA BAART Programs Visalia",54-02D,Tulare,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,Western Pacific Med-Corp / Ventura,56-08,Ventura,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,Aegis - Oxnard ,56-09,Ventura ,0,16,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,Aegis - Simi Valley,56-10,Ventura ,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,Aegis - Santa Paula,56-11,Ventura ,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,Aegis Ventura,56-12,Ventura,0,0,0,0,1,suppressed due to small number
+3/12/2021,Narcotic Treatment Program,"C.O.R.E. MEDICAL CLINIC, INC",57-01,Yolo,0,0,0,0,1,suppressed due to small number
+3/12/2021,Substance Use Disorder Facilities,NONE,NONE,Statewide,948,1307,0,0,1,suppressed due to small number
+3/12/2021,Mental Health Psychiatric Health Facility,San Joaquin PHF,01 016 012,San Joaquin,0,0,0,0,1,suppressed due to small number
+3/12/2021,Mental Health Psychiatric Health Facility,Santa Barbara PHF,01 016 014,Santa Barbara,0,0,0,0,1,suppressed due to small number
+3/12/2021,Mental Health Psychiatric Health Facility,Telecare Redwood Place MHRC ,02 015 024,Alameda ,0,0,0,0,1,suppressed due to small number
+3/12/2021,Mental Health Psychiatric Health Facility,Golden Hillmont House MHRC,02 015 038,Ventura ,0,0,0,0,1,suppressed due to small number
+3/12/2021,Mental Health Psychiatric Health Facility,North Valley Behavioral Health (PHF) ,02 016 037,Yuba,0,0,0,0,1,suppressed due to small number
+3/12/2021,Mental Health Psychiatric Health Facility,Telecare Willow Rock PHF,02 016 039,Alameda,0,0,0,0,1,suppressed due to small number
+3/12/2021,Mental Health Psychiatric Health Facility,Crestwood Carmichael PHF,02 016 042  ,Sacramento ,0,0,0,0,1,suppressed due to small number
+3/12/2021,Mental Health Psychiatric Health Facility,Crestwood PHF Bakersfield ,02 016 045,Kern,0,0,0,0,1,suppressed due to small number
+3/12/2021,Mental Health Psychiatric Health Facility,Crestwood San Jose PHF,02 016 047,Santa Clara,0,0,0,0,1,suppressed due to small number
+3/12/2021,Mental Health Psychiatric Health Facility,Kaiser PHF,02 024 044,Santa Clara,13,0,0,0,1,suppressed due to small number
+3/12/2021,Mental Health Psychiatric Health Facility,Telecare Heritage PHF ,02 026 036,Alameda,0,0,0,0,1,suppressed due to small number
+3/12/2021,Mental Health Psychiatric Health Facility,Ocean View PHF,02 036 043,Los Angeles,0,12,0,0,1,suppressed due to small number
+3/12/2021,Mental Health Psychiatric Health Facility,Harborview Center MHRC,02 039 040,Los Angeles,24,42,0,0,0,No data Available
+3/12/2021,Mental Health Psychiatric Health Facility,Gladman MHRC,02 040 009,Alameda ,12,0,0,0,1,suppressed due to small number
+3/12/2021,Mental Health Psychiatric Health Facility,Crestwood Chula Vista MHRC,02 040 034,San Diego,0,0,0,0,1,suppressed due to small number
+3/12/2021,Mental Health Psychiatric Health Facility,Crestwood Eureka MHRC,02 042 013,Humboldt ,0,0,0,0,1,suppressed due to small number
+3/12/2021,Mental Health Psychiatric Health Facility,Cedar Grove MHRC,02 044 042,Sutter/Yuba,0,0,0,0,1,suppressed due to small number
+3/12/2021,Mental Health Psychiatric Health Facility,San Francisco MHRC,02 047 026,San Francisco,0,0,0,0,1,suppressed due to small number
+3/12/2021,Mental Health Psychiatric Health Facility,Crestwood C.E.N.T.E.R. MHRC,02 054 010,Napa,26,39,0,0,0,No data Available
+3/12/2021,Mental Health Psychiatric Health Facility,Crestwood Sacramento ,02 054 029,Sacramento ,20,42,0,0,0,No data Available
+3/12/2021,Mental Health Psychiatric Health Facility,San Francisco Healing Center MHRC,02 054 037,San Francisco,0,0,0,0,1,suppressed due to small number
+3/12/2021,Mental Health Psychiatric Health Facility,Crestwood Bakersfield Behavioral Health Center,02 055 012,Kern,25,45,0,0,0,No data Available
+3/12/2021,Mental Health Psychiatric Health Facility,Kingsburg Healing Center MHRC,02 066 035,Fresno,0,0,0,0,1,suppressed due to small number
+3/12/2021,Mental Health Psychiatric Health Facility,Cordilleras Mental Health Center,02 068 015,San Mateo,0,0,0,0,1,suppressed due to small number
+3/12/2021,Mental Health Psychiatric Health Facility,Royale MHRC,02 080 020,Orange ,0,0,0,0,1,suppressed due to small number
+3/12/2021,Mental Health Psychiatric Health Facility,Canyon Manor MHRC,02 089 023,Marin,0,23,0,0,1,suppressed due to small number
+3/12/2021,Mental Health Psychiatric Health Facility,Crestwood Recovery and Rehabilitation,02 091 027,Solano,11,13,0,0,1,suppressed due to small number
+3/12/2021,Mental Health Psychiatric Health Facility,Crestwood San Jose MHRC,02 098 017,Santa Clara,23,80,0,0,0,No data Available
+3/12/2021,Mental Health Psychiatric Health Facility,California Psychiatric Transitions MHRC,02 098 022,Merced,39,0,0,0,1,suppressed due to small number
+3/12/2021,Mental Health Psychiatric Health Facility,Villa Fairmont MHRC,02 099 014,Alameda ,12,13,0,0,1,suppressed due to small number
+3/12/2021,Mental Health Psychiatric Health Facility,7th Avenue MHRC,02 099 021,Santa Cruz,0,0,0,0,1,suppressed due to small number
+3/12/2021,Mental Health Psychiatric Health Facility,Crestwood San Diego,02 109 033,San Diego,15,30,0,0,1,suppressed due to small number
+3/12/2021,Mental Health Psychiatric Health Facility,Alpine Special Treatment Center MHRC,02 125 008,San Diego ,57,75,0,0,1,suppressed due to small number
+3/12/2021,Mental Health Psychiatric Health Facility,Fallbrook Healing Center (Crestwood) MHRC,02 132 039,San Diego,41,105,0,0,0,No data Available
+3/12/2021,Mental Health Psychiatric Health Facility,La Casa (MHRC) ,02 190 007,Los Angeles,46,99,0,0,1,suppressed due to small number
+3/12/2021,Mental Health Psychiatric Health Facility,Butte County PHF,10 016 001,Butte,0,0,0,0,1,suppressed due to small number
+3/12/2021,Mental Health Psychiatric Health Facility,Sempervirens PHF,10 016 003,Humboldt ,0,0,0,0,1,suppressed due to small number
+3/12/2021,Mental Health Psychiatric Health Facility,Marie Green PHF,10 016 008,Merced,0,0,0,0,1,suppressed due to small number
+3/12/2021,Mental Health Psychiatric Health Facility,Sutter-Yuba PHF,10 016 015,Sutter/Yuba,0,0,0,0,1,suppressed due to small number
+3/12/2021,Mental Health Psychiatric Health Facility,Sacramento County Mental Health Treatment Center,10 50 011,Sacramento,37,35,0,0,1,suppressed due to small number
+3/12/2021,Mental Health Psychiatric Health Facility,Balance Treatment Center MHRC,20 006 050,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Mental Health Psychiatric Health Facility,Star View Adolescent PHF,20 016 029,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Mental Health Psychiatric Health Facility,La Casa PHF,20 016 031 ,Los Angeles,0,15,0,0,1,suppressed due to small number
+3/12/2021,Mental Health Psychiatric Health Facility,Crestwood Sacramento PHF,20 016 048,Sacramento ,0,0,0,0,1,suppressed due to small number
+3/12/2021,Mental Health Psychiatric Health Facility,Restpadd PHF,20 016 049,Shasta ,12,0,0,0,1,suppressed due to small number
+3/12/2021,Mental Health Psychiatric Health Facility,Sequoia Psychiatric Treatment Center MHRC,20 016 051,Sutter/Yuba,0,0,0,0,1,suppressed due to small number
+3/12/2021,Mental Health Psychiatric Health Facility,Exodus Recovery PHF,20 016 052,Los Angeles,0,0,0,0,1,suppressed due to small number
+3/12/2021,Mental Health Psychiatric Health Facility,Telecare Stanislaus PHF ,20 016 054 ,Stanislaus,0,0,0,0,1,suppressed due to small number
+3/12/2021,Mental Health Psychiatric Health Facility,Crestwood Solano PHF,20 016 055,Solano,0,0,0,0,1,suppressed due to small number
+3/12/2021,Mental Health Psychiatric Health Facility,Telecare Riverside PHF,20 016 056,Riverside,0,15,0,0,1,suppressed due to small number
+3/12/2021,Mental Health Psychiatric Health Facility,Central Star PHF,20 016 058,Fresno,0,0,0,0,1,suppressed due to small number
+3/12/2021,Mental Health Psychiatric Health Facility,Exodus PHF Fresno,20 016 059,Fresno,0,0,0,0,1,suppressed due to small number
+3/12/2021,Mental Health Psychiatric Health Facility,Restpadd Red Bluff PHF,20 016 060,Tahema ,0,0,0,0,1,suppressed due to small number
+3/12/2021,Mental Health Psychiatric Health Facility,Cirby Hills Behavioral Health PHF,20 016 061,Placer,0,0,0,0,1,suppressed due to small number
+3/12/2021,Mental Health Psychiatric Health Facility,Stabler Lane Behavioral Health             ,20 016 063,Sutter-Yuba,0,0,0,0,1,suppressed due to small number
+3/12/2021,Mental Health Facilities,NONE,NONE,Statewide,544,761,0,0,1,suppressed due to small number
