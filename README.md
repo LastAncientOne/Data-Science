@@ -8,13 +8,15 @@
 This a practice of writing codes using kaggle data and real world data. Learning step-by-step in analyzing data in python, R, Excel, and Power BI. In addition, is to learn to be a data scientists and expanding more knowledge in machine learning and deep learning. Understanding data and analyzing data.
 
 # Prerequisites
-Python 3.5  
+#### Python 3.5  
 
-R 3.5.3   
+#### R 3.5.3   
 
-Excel 2016  
+#### Excel 2016  
 
-Power BI
+#### Power BI  
+
+#### Tableau  
 
 # &#x1F537; Getting Started with Data Science &#x1F537;
 ### &#x1F535; Step-by-Step to Data Science  
