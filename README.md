@@ -2,6 +2,7 @@
 <img src="DataScienceinR.PNG">
 <img src="DataScienceExcel.PNG">
 <img src="DataSciencePowerBI.PNG">
+<img src="DataSciencetableau.PNG">
 
 # Data Science  
 This a practice of writing codes using kaggle data and real world data. Learning step-by-step in analyzing data in python, R, Excel, and Power BI. In addition, is to learn to be a data scientists and expanding more knowledge in machine learning and deep learning. Understanding data and analyzing data.
