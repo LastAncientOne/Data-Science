@@ -1,0 +1,239 @@
+LHJ,INDUSTRYSECTOR,INDIVIDUALSETTING,INDCODE,OUTBREAK_TOTAL,CASE_TOTAL,OUTBREAK_NEW,CASE_NEW,REPORT_DATE,FILE_PATH,SF_LOAD_TIMESTAMP
+California,"Agriculture, Forestry, Fishing, and Hunting",All Settings,NULL,90,805,7,75,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,"Agriculture, Forestry, Fishing, and Hunting",Crop production,170,70,541,6,69,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,"Agriculture, Forestry, Fishing, and Hunting",Animal production and aquaculture,180,1,3,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,"Agriculture, Forestry, Fishing, and Hunting",Support activities for agriculture and forestry,290,19,261,1,6,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,"Mining, Quarrying, and Oil and Gas Extraction",All Settings,NULL,10,44,1,4,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,"Mining, Quarrying, and Oil and Gas Extraction",Oil and gas extraction,370,4,16,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,"Mining, Quarrying, and Oil and Gas Extraction",Metal ore mining,390,1,4,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,"Mining, Quarrying, and Oil and Gas Extraction",Nonmetallic mineral mining and quarrying,470,2,8,1,4,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,"Mining, Quarrying, and Oil and Gas Extraction",Support activities for mining,490,3,16,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Utilities,All Settings,NULL,35,206,5,16,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Utilities,"Electric power generation, transmission and distribution",570,10,70,1,2,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Utilities,Natural gas distribution,580,1,3,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Utilities,"Electric and gas, and other combinations",590,8,62,3,11,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Utilities,"Water, steam, air-conditioning, and irrigation systems",670,13,60,1,3,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Utilities,Sewage treatment facilities,680,2,8,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Utilities,Not specified utilities,690,1,3,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Construction,All Settings,NULL,165,1184,27,190,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Construction,Construction,770,165,1184,27,190,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Manufacturing,All Settings,NULL,576,6157,92,740,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Manufacturing,"Animal food, grain and oilseed milling",1070,7,67,1,8,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Manufacturing,Sugar and confectionery products,1080,3,35,1,12,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Manufacturing,Fruit and vegetable preserving and specialty food manufacturing,1090,12,141,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Manufacturing,Dairy product manufacturing,1170,11,279,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Manufacturing,Animal slaughtering and processing,1180,16,330,1,28,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Manufacturing,"Bakeries and tortilla manufacturing, except retail bakeries",1270,10,137,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Manufacturing,"Seafood and other miscellaneous foods, n.e.c.",1280,26,401,3,26,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Manufacturing,Not specified food industries,1290,20,287,2,21,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Manufacturing,Beverage manufacturing,1370,16,162,4,20,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Manufacturing,"Fabric mills, except knitting mills",1480,1,6,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Manufacturing,Textile and fabric finishing and fabric coating mills,1490,3,83,1,14,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Manufacturing,Carpet and rug mills,1570,1,11,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Manufacturing,"Textile product mills, except carpet and rug",1590,4,21,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Manufacturing,Cut and sew apparel manufacturing,1680,7,119,2,35,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Manufacturing,Apparel accessories and other apparel manufacturing,1690,1,6,1,6,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Manufacturing,Leather tanning and finishing and other allied products manufacturing,1790,3,62,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Manufacturing,Paperboard container manufacturing,1880,15,143,4,33,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Manufacturing,Miscellaneous paper and pulp products,1890,2,33,1,14,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Manufacturing,Printing and related support activities,1990,12,89,3,16,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Manufacturing,Petroleum refining,2070,5,49,1,8,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Manufacturing,Miscellaneous petroleum and coal products,2090,1,3,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Manufacturing,"Resin, synthetic rubber, and fibers and filaments manufacturing",2170,2,6,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Manufacturing,Agricultural chemical manufacturing,2180,6,41,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Manufacturing,Pharmaceutical and medicine manufacturing,2190,19,183,5,38,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Manufacturing,"Paint, coating, and adhesive manufacturing",2270,3,49,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Manufacturing,"Soap, cleaning compound, and cosmetics manufacturing",2280,13,230,2,14,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Manufacturing,Industrial and miscellaneous chemicals,2290,3,23,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Manufacturing,Plastics product manufacturing,2370,21,164,4,29,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Manufacturing,Tire manufacturing,2380,2,12,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Manufacturing,"Rubber products, except tires, manufacturing",2390,3,45,1,4,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Manufacturing,Clay building material and refractories manufacturing,2480,3,33,1,3,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Manufacturing,Glass and glass product manufacturing,2490,6,52,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Manufacturing,"Cement, concrete, lime, and gypsum product manufacturing",2570,11,86,1,3,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Manufacturing,Miscellaneous nonmetallic mineral product manufacturing,2590,2,6,1,3,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Manufacturing,Iron and steel mills and steel product manufacturing,2670,5,41,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Manufacturing,Nonferrous metal (except aluminum) production and processing,2690,2,11,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Manufacturing,Foundries,2770,4,29,1,4,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Manufacturing,Metal forgings and stampings,2780,3,27,1,9,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Manufacturing,Cutlery and hand tool manufacturing,2790,1,7,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Manufacturing,"Structural metals, and boiler, tank, and shipping container manufacturing",2870,12,111,1,3,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Manufacturing,"Machine shops; turned product; screw, nut, and bolt manufacturing",2880,14,113,4,25,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Manufacturing,"Coating, engraving, heat treating, and allied activities",2890,9,87,2,30,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Manufacturing,Ordnance,2970,1,17,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Manufacturing,Miscellaneous fabricated metal products manufacturing,2980,9,90,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Manufacturing,Not specified metal industries,2990,3,11,1,4,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Manufacturing,Agricultural implement manufacturing,3070,4,24,2,16,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Manufacturing,Metalworking machinery manufacturing,3170,3,16,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Manufacturing,"Engine, turbine, and power transmission equipment manufacturing",3180,2,10,1,3,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Manufacturing,"Machinery manufacturing, n.e.c.",3190,10,111,1,7,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Manufacturing,Computer and peripheral equipment manufacturing,3365,2,18,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Manufacturing,"Communications, audio, and video equipment manufacturing",3370,4,43,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Manufacturing,"Navigational, measuring, electromedical, and control instruments manufacturing",3380,12,94,4,39,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Manufacturing,"Electronic component and product manufacturing, n.e.c.",3390,21,160,6,24,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Manufacturing,Household appliance manufacturing,3470,3,42,1,14,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Manufacturing,"Electric lighting and electrical equipment manufacturing, and other electrical component manufacturing, n.e.c.",3490,20,234,4,55,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Manufacturing,Motor vehicles and motor vehicle equipment manufacturing,3570,15,211,5,48,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Manufacturing,Aircraft and parts manufacturing,3580,6,49,4,36,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Manufacturing,Aerospace products and parts manufacturing,3590,14,128,2,18,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Manufacturing,Railroad rolling stock manufacturing,3670,1,6,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Manufacturing,Ship and boat building,3680,2,14,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Manufacturing,Other transportation equipment manufacturing,3690,1,7,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Manufacturing,Sawmills and wood preservation,3770,1,5,1,5,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Manufacturing,"Veneer, plywood, and engineered wood products",3780,1,15,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Manufacturing,Prefabricated wood buildings and mobile homes,3790,1,5,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Manufacturing,Miscellaneous wood products,3875,3,12,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Manufacturing,Furniture and related product manufacturing,3895,14,128,1,4,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Manufacturing,Medical equipment and supplies manufacturing,3960,60,606,4,32,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Manufacturing,"Sporting and athletic goods, and doll, toy and game manufacturing",3970,3,27,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Manufacturing,"Miscellaneous manufacturing, n.e.c.",3980,6,33,1,4,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Manufacturing,Not specified manufacturing industries,3990,34,221,5,25,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Wholesale Trade,All Settings,NULL,101,840,30,218,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Wholesale Trade,Motor vehicle and motor vehicle parts and supplies merchant wholesalers,4070,10,139,5,36,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Wholesale Trade,Furniture and home furnishing merchant wholesalers,4080,4,25,2,12,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Wholesale Trade,Lumber and other construction materials merchant wholesalers,4090,4,31,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Wholesale Trade,Professional and commercial equipment and supplies merchant wholesalers,4170,1,7,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Wholesale Trade,"Metals and minerals, except petroleum, merchant wholesalers",4180,2,22,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Wholesale Trade,Household appliances and electrical and electronic goods merchant wholesalers,4195,3,17,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Wholesale Trade,"Hardware, plumbing and heating equipment, and supplies merchant wholesalers",4265,1,9,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Wholesale Trade,"Machinery, equipment, and supplies merchant wholesalers",4270,10,50,5,26,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Wholesale Trade,Recyclable material merchant wholesalers,4280,1,3,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Wholesale Trade,Miscellaneous durable goods merchant wholesalers,4290,2,16,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Wholesale Trade,Paper and paper products merchant wholesalers,4370,2,17,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Wholesale Trade,"Drugs, sundries, and chemical and allied products merchant  wholesalers",4380,4,14,2,8,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Wholesale Trade,"Apparel, piece goods, and notions merchant wholesalers",4390,4,52,1,5,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Wholesale Trade,Grocery and related product merchant wholesalers,4470,28,206,7,54,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Wholesale Trade,Alcoholic beverages merchant wholesalers,4560,7,103,3,47,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Wholesale Trade,Farm supplies merchant wholesalers,4570,1,4,1,4,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Wholesale Trade,Miscellaneous  nondurable goods merchant wholesalers,4580,11,79,4,26,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Wholesale Trade,Wholesale electronic markets and agents and brokers,4585,1,4,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Wholesale Trade,Not specified wholesale trade,4590,5,42,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Retail Trade,All Settings,NULL,646,4520,109,767,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Retail Trade,Automobile dealers,4670,94,648,23,155,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Retail Trade,Other motor vehicle dealers,4680,8,56,4,19,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Retail Trade,"Automotive parts, accessories, and tire stores",4690,10,73,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Retail Trade,Furniture and home furnishings stores,4770,10,53,5,19,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Retail Trade,Electronics Stores,4795,3,21,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Retail Trade,Building material and supplies dealers,4870,75,659,9,64,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Retail Trade,Hardware stores,4880,7,72,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Retail Trade,Lawn and garden equipment and supplies stores,4890,3,14,2,11,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Retail Trade,Grocery stores,4970,194,1213,35,246,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Retail Trade,Specialty food stores,4980,7,28,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Retail Trade,Pharmacies and drug stores,5070,29,150,1,7,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Retail Trade,"Health and personal care, except drug, stores",5080,2,10,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Retail Trade,Gasoline stations,5090,8,37,1,7,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Retail Trade,Clothing stores,5170,15,92,3,12,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Retail Trade,Shoe stores,5180,6,25,1,3,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Retail Trade,"Jewelry, luggage, and leather goods stores",5190,2,7,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Retail Trade,"Sporting goods, and hobby and toy stores",5275,12,60,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Retail Trade,"Sewing, needlework, and piece goods stores",5280,2,8,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Retail Trade,Department stores and discount stores,5380,96,717,14,93,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Retail Trade,Miscellaneous general merchandise stores,5390,33,349,6,104,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Retail Trade,Retail florists,5470,2,8,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Retail Trade,Office supplies and stationery stores,5480,1,12,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Retail Trade,Used merchandise stores,5490,8,36,2,6,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Retail Trade,"Gift, novelty, and souvenir shops",5570,4,82,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Retail Trade,Miscellaneous retail stores,5580,7,41,2,17,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Retail Trade,Electronic shopping,5590,1,16,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Retail Trade,Other direct selling establishments,5690,3,17,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Retail Trade,Not specified retail trade,5790,4,16,1,4,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Transportation and Warehousing,All Settings,NULL,225,4054,30,382,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Transportation and Warehousing,Air transportation,6070,4,37,2,24,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Transportation and Warehousing,Truck transportation,6170,18,132,5,37,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Transportation and Warehousing,Bus service and urban transit,6180,38,263,2,10,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Transportation and Warehousing,Services incidental to transportation,6290,13,151,2,10,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Transportation and Warehousing,Postal Service,6370,4,16,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Transportation and Warehousing,Couriers and messengers,6380,41,1265,3,41,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Transportation and Warehousing,Warehousing and storage,6390,107,2190,16,260,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Information,All Settings,NULL,22,101,8,28,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Information,Motion pictures and video industries,6570,6,28,5,21,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Information,Broadcasting (except internet),6670,3,14,1,3,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Information,Wired telecommunications carriers,6680,4,16,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Information,"Telecommunications, except wired telecommunications carriers",6690,9,43,2,4,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Finance and Insurance,All Settings,NULL,77,439,18,108,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Finance and Insurance,Banking and related activities,6870,24,167,11,69,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Finance and Insurance,"Savings institutions, including credit unions",6880,14,69,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Finance and Insurance,Nondepository credit and related activities,6890,16,96,2,17,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Finance and Insurance,"Securities, commodities, funds, trusts, and other financial investments",6970,7,30,3,14,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Finance and Insurance,Insurance carriers and related activities,6990,16,77,2,8,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Real Estate and Rental and Leasing,All Settings,NULL,71,453,21,128,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Real Estate and Rental and Leasing,Real estate,7070,57,375,15,81,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Real Estate and Rental and Leasing,Automotive equipment rental and leasing,7080,7,29,1,4,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Real Estate and Rental and Leasing,Video tape and disk rental,7170,1,4,1,4,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Real Estate and Rental and Leasing,Other consumer goods rental,7180,2,14,2,14,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Real Estate and Rental and Leasing,"Commercial, industrial, and other intangible assets rental and leasing",7190,4,31,2,25,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,"Professional, Scientific, and Technical Services",All Settings,NULL,102,641,26,131,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,"Professional, Scientific, and Technical Services",Legal services,7270,8,37,5,19,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,"Professional, Scientific, and Technical Services","Accounting, tax preparation, bookkeeping, and payroll services",7280,9,49,7,36,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,"Professional, Scientific, and Technical Services","Architectural, engineering, and related services",7290,16,87,4,17,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,"Professional, Scientific, and Technical Services",Specialized design services,7370,4,49,1,12,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,"Professional, Scientific, and Technical Services",Computer systems design and related services,7380,4,19,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,"Professional, Scientific, and Technical Services","Management, scientific, and technical consulting services",7390,24,162,3,14,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,"Professional, Scientific, and Technical Services",Scientific research and development services,7460,12,88,1,3,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,"Professional, Scientific, and Technical Services","Advertising, public relations, and related services",7470,3,13,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,"Professional, Scientific, and Technical Services",Veterinary services,7480,20,131,5,30,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,"Professional, Scientific, and Technical Services","Other professional, scientific, and technical services",7490,2,6,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Management of companies and enterprises,All Settings,NULL,10,110,3,60,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Management of companies and enterprises,Management of companies and enterprises,7570,10,110,3,60,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Administrative and support and waste management services,All Settings,NULL,88,506,18,89,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Administrative and support and waste management services,Employment services,7580,6,27,3,10,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Administrative and support and waste management services,Business support services,7590,6,39,2,8,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Administrative and support and waste management services,Investigation and security services,7680,10,59,2,8,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Administrative and support and waste management services,Services to buildings and dwellings (except cleaning during construction and immediately after construction),7690,22,95,2,6,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Administrative and support and waste management services,Landscaping services,7770,14,83,4,27,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Administrative and support and waste management services,Other administrative and other support services,7780,8,60,4,27,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Administrative and support and waste management services,Waste management and remediation services,7790,22,143,1,3,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Educational Services,All Settings,NULL,166,1314,36,504,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Educational Services,Elementary and secondary schools,7860,126,629,24,107,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Educational Services,"Colleges, universities, and professional schools, including junior colleges",7870,34,634,9,357,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Educational Services,"Business, technical, and trade schools and training",7880,2,4,2,4,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Educational Services,"Other schools and instruction, and educational support services",7890,4,47,1,36,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Health Care and Social Assistance,All Settings,NULL,1962,24337,421,7785,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Health Care and Social Assistance,Offices of physicians,7970,23,98,6,25,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Health Care and Social Assistance,Offices of dentists,7980,8,67,2,42,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Health Care and Social Assistance,Offices of optometrists,8070,5,29,2,19,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Health Care and Social Assistance,Offices of other health practitioners,8080,3,10,2,5,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Health Care and Social Assistance,Outpatient care centers,8090,90,605,16,109,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Health Care and Social Assistance,Home health care services,8170,15,79,1,4,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Health Care and Social Assistance,Other health care services,8180,22,151,4,25,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Health Care and Social Assistance,Hospitals,8190,184,2264,34,521,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Health Care and Social Assistance,Nursing care facilities (skilled nursing facilities),8270,275,9013,114,4772,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Health Care and Social Assistance,"Residential care facilities, except skilled nursing facilities",8290,1075,10429,159,1853,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Health Care and Social Assistance,Individual and family services,8370,57,339,12,97,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Health Care and Social Assistance,"Community services, including homeless shelters",8380,90,601,37,147,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Health Care and Social Assistance,Vocational rehabilitation services,8390,1,5,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Health Care and Social Assistance,Child day care services,8470,114,647,32,166,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,"Arts, Entertainment, and Recreation",All Settings,NULL,35,221,7,38,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,"Arts, Entertainment, and Recreation","Performing arts, spectator sports, and related industries",8560,2,6,1,3,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,"Arts, Entertainment, and Recreation","Museums, art galleries, historical sites, and similar institutions",8570,6,67,2,12,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,"Arts, Entertainment, and Recreation","Other amusement, gambling, and recreation industries",8590,27,148,4,23,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Accommodation and Food Services,All Settings,NULL,417,2361,79,449,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Accommodation and Food Services,Traveler accommodation,8660,50,380,16,90,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Accommodation and Food Services,Restaurants and other food services,8680,367,1981,63,359,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,"Other Services, Except Public Administration",All Settings,NULL,107,738,24,164,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,"Other Services, Except Public Administration",Automotive repair and maintenance,8770,15,94,5,25,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,"Other Services, Except Public Administration",Car washes,8780,4,18,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,"Other Services, Except Public Administration",Commercial and industrial machinery and equipment repair and maintenance,8870,2,15,1,5,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,"Other Services, Except Public Administration",Beauty salons,8980,2,15,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,"Other Services, Except Public Administration",Nail salons and other personal care services,8990,2,6,1,3,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,"Other Services, Except Public Administration",Drycleaning and laundry services,9070,8,57,1,6,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,"Other Services, Except Public Administration","Funeral homes, and cemeteries and crematories",9080,4,34,1,13,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,"Other Services, Except Public Administration",Other personal services,9090,7,40,2,17,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,"Other Services, Except Public Administration",Religious organizations,9160,41,303,12,86,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,"Other Services, Except Public Administration","Civic, social, advocacy organizations, and grantmaking and giving services",9170,5,62,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,"Other Services, Except Public Administration",Labor unions,9180,1,7,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,"Other Services, Except Public Administration","Business, professional, political, and similar organizations",9190,5,23,1,9,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,"Other Services, Except Public Administration",Private households,9290,11,64,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Public Administration,All Settings,NULL,217,1882,37,591,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Public Administration,Executive offices and legislative bodies,9370,7,49,1,7,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Public Administration,Public finance activities,9380,3,20,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Public Administration,Other general government and support,9390,17,111,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Public Administration,"Public safety, including police, fire, and correctional institutions",9470,120,1306,24,522,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Public Administration,Administration of human resource programs,9480,38,193,6,36,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Public Administration,Administration of environmental quality and housing programs,9490,6,58,1,4,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Public Administration,Administration of economic programs and space research,9570,19,86,5,22,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Public Administration,National security and international affairs,9590,7,59,0,0,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Military,All Settings,NULL,1,3,1,3,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Military,U. S. Air Force,9680,1,3,1,3,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,Not applicable,Insufficient information,9990,18,118,8,20,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
+California,All,All,NULL,5141,51034,1008,12490,2021-03-22,CDPH_DATA/OUTBREAKS/Outbreaks_IndividualIndustry_22MAR21.csv,2021-03-31 18:40:02.925 -0700
