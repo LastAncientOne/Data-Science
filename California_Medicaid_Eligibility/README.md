@@ -4,6 +4,9 @@
 <img src="CALIFORNIA.PNG">
 
 ### Description:  
+Download data, collect data, clean up data, and analyze data in Excel, Power BI, tableau, and Python.
+
+## Step-by-Step:  
 #### 1. Define Goals and objectives  
 #### 2. Collect data  
 #### 3. Clean up data  
