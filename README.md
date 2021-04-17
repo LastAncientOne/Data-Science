@@ -5,7 +5,7 @@
 <img src="DataSciencetableau.PNG">
 
 # Data Science  
-This a practice of writing codes using kaggle data and real world data. Learning step-by-step in analyzing data in python, R, Excel, Power BI, and tableau. In addition, is to learn to be a data scientists and expanding more knowledge in machine learning and deep learning. Understanding data and analyzing data.
+This is a practice of programming skills, and knowledge of mathematics and statistics to extract meaningful insights from structure and unstructured data (kaggle data and real world data). Learning step-by-step in analyzing data in python, R, Excel, Power BI, and tableau. In addition, is to learn to be a data scientists and expanding more knowledge in machine learning and deep learning. Understanding data and analyzing data.
 
 # Prerequisites
 #### Python 3.5  
