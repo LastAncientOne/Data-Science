@@ -110,6 +110,12 @@ This is a practice of programming skills, and knowledge of mathematics and stati
   - Elementary Probability  
   - Random Variables and Probability Distributions  
   - Normal Distribution, Binomial Distribution & Poisson Distribution  
+  - Hypothesis
+    3 Steps:     
+     (1) Making an initial assumption.  
+     (2) Collecting evidence (data).  
+     (3) Based on the available evidence (data), deciding whether to reject or not reject the initial assumption.  
+
 * Inferential Statistics  
   - Observational Studies and Experiments  
   - Sample and Population  
