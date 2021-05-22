@@ -63,7 +63,7 @@ This is a practice of programming skills, and knowledge of mathematics and stati
   - Dimension Reduction (Generalization) - Find hidden dependencies    
   - Association (Identify Sequences)       
 ### &#x1F535; Learning about Exploratory Data Analysis 
-* Import, clean, and validate  
+* Import, read, clean, and validate  
   - Define Variables
     1. Y is "Dependent Variable" and goes on y-axis (the left side, vertical one) - output value
     2. X is "Independent Variable" and goes on the x-axis (the bottom, horizontal one) - input value
