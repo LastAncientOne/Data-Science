@@ -5,6 +5,8 @@
 <img src="DataSciencetableau.PNG">
 
 # Data Science  
+Data science is an interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from structured and unstructured data, and apply knowledge and actionable insights from data across a broad range of application domains. (Wikipedia)
+
 This is a practice of programming skills, and knowledge of mathematics and statistics to extract meaningful insights from structure and unstructured data (kaggle data and real world data). Learning step-by-step in data science. Learning the process in analyzing data in python, R, Excel, Power BI, and tableau. In addition, learn to become a data scientists and expanding more knowledge in machine learning and deep learning. Understanding data and analyzing data.
 
 # Prerequisites
