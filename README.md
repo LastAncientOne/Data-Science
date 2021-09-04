@@ -179,16 +179,19 @@ This is a practice of programming skills, and knowledge of mathematics and stati
   6. Caffe  
   7. Apache Spark  
   8. Chainer  
-### Underfitting and Overfitting  
-#### Underfitting  
-  1. Underfitting - both the training and test error are larger.
-  2. A model suffering from underfitting will have high bias.  
+### &#x1F535; Underfitting and Overfitting  
+
 #### Overfitting  
   1. Overfitting - the gap between training and test error is larger.  
   2. Overfitting - the training error is smaller than test error.
-  4. Overfitting - the larger hypothesis space, there is a higher tendancy for the model to overfit the training dataset.  
-  5. A model suffering from overfitting will have high variance.  
-### &#x1F535; Learning to improve the Model or Prediction
+  3. Overfitting - the larger hypothesis space, there is a higher tendancy for the model to overfit the training dataset.  
+  4. A model suffering from overfitting will have high variance.  
+#### Underfitting  
+  1. Underfitting - both the training and test error are larger.
+  2. A model suffering from underfitting will have high bias.  
+  #### Fixing Underfitting
+  
+### &#x1F535; Learning to improve the Model or Prediction  
   - Improve the "Accuracy" of Machine Learning Model  
   1. Add More Data
   2. Add More Features
