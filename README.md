@@ -186,11 +186,24 @@ This is a practice of programming skills, and knowledge of mathematics and stati
   2. Overfitting - the training error is smaller than test error.
   3. Overfitting - the larger hypothesis space, there is a higher tendancy for the model to overfit the training dataset.  
   4. A model suffering from overfitting will have high variance.  
+#### Fixing Overfitting  
+  1. Simplify the model (fewer parameters)  
+  2. Simplify training data (fewer attributes)  
+  3. Constrain the model (regularization)  
+  4. Use ccross-validation  
+  5. Use Early stopping  
+  6. Build an ensemble  
+  7. Gather more data  
 #### Underfitting  
   1. Underfitting - both the training and test error are larger.
   2. A model suffering from underfitting will have high bias.  
-  #### Fixing Underfitting
-  
+#### Fixing Underfitting  
+  1. More complex model (more parameters)  
+  2. Increase number of features  
+  3. Feature engineer should help  
+  4. Un-constrain the model (no regularization)  
+  5. Reduce noise on the data  
+  6. Train for longer  
 ### &#x1F535; Learning to improve the Model or Prediction  
   - Improve the "Accuracy" of Machine Learning Model  
   1. Add More Data
