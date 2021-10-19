@@ -8,7 +8,7 @@ Download Data
 Extract Data  
 Collect Data  
 Clean up Data  
-Analyze data in Excel, Power BI, Tableau, and Python  
+Analyze data in Excel, Power BI, Tableau, R, and Python  
 
 ## Step-by-Step:  
 #### 1. Define Goals and objectives  
