@@ -9,6 +9,9 @@
 #### 4. Analysis data
 #### 5. Show results or conclusion of data  
 
+### Software:
+#### Tableau, Power BI, and Excel
+
 Collect data: https://data.chhs.ca.gov/organization/california-department-of-public-health
 
 website: https://www.cdph.ca.gov/
