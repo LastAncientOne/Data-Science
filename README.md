@@ -10,12 +10,12 @@
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/LastAncientOne/Data-Science.svg?style=for-the-badge
 [contributors-url]: https://github.com/LastAncientOne/Data-Science/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/LastAncientOne/SData-Science.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/LastAncientOne/Data-Science.svg?style=for-the-badge
 [forks-url]: https://github.com/LastAncientOne/Data-Science/network/members
-[stars-shield]: https://img.shields.io/github/stars/LastAncientOne/SData-Science.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/LastAncientOne/Data-Science.svg?style=for-the-badge
 [stars-url]: https://github.com/LastAncientOne/Data-Science/stargazers
 [issues-shield]: https://img.shields.io/github/issues/LastAncientOne/Data-Science.svg?style=for-the-badge
-[issues-url]: https://github.com/LastAncientOne/SData-Science/issues
+[issues-url]: https://github.com/LastAncientOne/Data-Science/issues
 [license-shield]: https://img.shields.io/github/license/LastAncientOne/Data-Science.svg?style=for-the-badge
 [license-url]: LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
