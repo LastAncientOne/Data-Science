@@ -29,6 +29,15 @@
 <img src="DataSciencePowerBI.PNG">
 <img src="DataSciencetableau.PNG">
 
+
+| Programming Language and Software | Software Links |
+| :--- | :--- |
+| Data Science in Python | [Python](https://www.anaconda.com/products/distribution)|
+| Data Science in R | [R](https://www.rstudio.com/)|
+| Data Science in Excel | [Excel](https://www.microsoft.com/en-us/microsoft-365/excel)|
+| Data Science in Power BI | [Power BI](https://powerbi.microsoft.com/en-us/downloads/)|
+| Data Science in Tableau | [Tableau](https://www.tableau.com/support/releases)|
+
 # Data Science  
 Data Science is an interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from structured and unstructured data, and qquantitative data and qualitative data. Apply knowledge and actionable insights from data across a broad range of application domains. (Wikipedia)
 
