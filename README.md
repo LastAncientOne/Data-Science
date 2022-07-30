@@ -39,9 +39,21 @@
 | Data Science in Tableau | [Tableau](https://www.tableau.com/support/releases)|
 
 # Data Science  
-Data Science is an interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from structured and unstructured data, and qquantitative data and qualitative data. Apply knowledge and actionable insights from data across a broad range of application domains. (Wikipedia)
+Data Science is an interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from structured and unstructured data, and quantitative data and qualitative data. Apply knowledge and actionable insights from data across a broad range of application domains. (Wikipedia)
 
 This is a practice of programming skills, and knowledge of mathematics and statistics to extract meaningful insights from structure and unstructured data (kaggle data and real world data). Learning step-by-step in data science. Learn analytical techniques, statistics, and research methods. The most common use used methods are Regression, Clustering, Visualization, Decision Trees/Rules, and Random Forest in data science. Learning the process in analyzing data in python, R, Excel, Power BI, and tableau. In addition, learn to become a data scientists and expanding more knowledge in machine learning and deep learning. Understanding data and analyzing data.
+
+# Completed Staff Work (CSW)    
+Completed Staff Work is similar to data analysis. Completed Staff Work enables decision makers to find solutions to problems or address issues after consideration of reasonable, workable, carefully considered alternatives.  
+
+### 7 Step to CSW  
+#### 1. Identify, describe, or define the problems.  
+#### 2. Gather or compile information about the problem.  
+#### 3. Organize information for review & consideration.
+#### 4. Analyze or evaluate the information.  
+#### 5. Develop, compile or generate alternatives.  
+#### 6. Select or identify the solution you want to recommend based on teh results of your objective analysis.  
+#### 7. Develop a plan to implement the solution and the documents necessary to authorize the implementation.  
 
 # Prerequisites
 #### Python 3.5+  
