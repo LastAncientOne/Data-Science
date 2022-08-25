@@ -6,6 +6,9 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/lastancientone)  
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/LastAncientOne/Data-Science.svg?style=for-the-badge
@@ -262,7 +265,8 @@ Completed Staff Work is similar to data analysis. Completed Staff Work enables d
   8. Cross Validation  
   9. Algorithm Tuning
   10. Bagging or Boosting  
-  
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/lastancientone)
   
 # Author:
 ## Tin Hang
