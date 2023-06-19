@@ -48,7 +48,7 @@ This practice involves honing programming skills, as well as gaining proficiency
 The most commonly utilized methods in data science include Regression, Clustering, Visualization, Decision Trees/Rules, and Random Forest. One must also learn the data analysis process using tools such as Python, R, Excel, Power BI, and Tableau. Moreover, aspiring data scientists should aim to expand their knowledge in machine learning and deep learning, fostering a comprehensive understanding of data and its analysis.  
 
 # Completed Staff Work (CSW)    
-Completed Staff Work is similar to data analysis. Completed Staff Work enables decision makers to find solutions to problems or address issues after consideration of reasonable, workable, carefully considered alternatives.  
+Completed Staff Work, similar to data analysis, empowers decision makers to identify solutions to problems or address issues through the careful consideration of reasonable and workable alternatives.  
 
 ### 7 Step to CSW  
 #### 1. Identify, describe, or define the problems.  
